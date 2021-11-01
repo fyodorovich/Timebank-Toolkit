@@ -1,6 +1,6 @@
 ## Timebank Toolkit 
 
-[Community Weaver](https://fyodorovich.github.io/Timebank-Toolkit/Onboarding.md)
+[Community Weaver](https://fyodorovich.github.io/Timebank-Toolkit/Onboarding.html)
 
 # Who this is Toolkit for
 We aim to benefit:
