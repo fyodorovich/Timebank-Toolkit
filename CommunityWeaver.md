@@ -1,6 +1,6 @@
 # Community Weaver 3
 
-[Home](https://fyodorovich.github.io/Timebank-Toolkit/) | [Onboarding](https://fyodorovich.github.io/Timebank-Toolkit/Onboarding.md)
+[Home](https://fyodorovich.github.io/Timebank-Toolkit/) | [Onboarding](https://fyodorovich.github.io/Timebank-Toolkit/Onboarding.html)
 
 [Community Weaver 3](https://timebanks.org/communityweaver3/) is the current software platform for Timebanks provided by [Timebanks.org](https://timebanks.org/timebanks/) when you start a Timebank.
 
