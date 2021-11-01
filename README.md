@@ -1,36 +1,25 @@
-## Welcome to GitHub Pages
+## Timebank Toolkit 
 
-You can use the [editor on GitHub](https://github.com/fyodorovich/Timebank-Toolkit/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# Who this is Toolkit for
+We aim to benefit:
+— the coordinators, steering committees, and admins, of Aotearoa New Zealand’s timebanks
+— new or old, big or small, rural or urban
+— the practice of timebanking, in its many flavours
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+And to do so while keeping the core values of reciprocity and community – and the people who bring it to life – at heart.
 
-### Markdown
+### Key Findings
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We found that the motivating value for timebank coordinators is the wellbeing that comes from connecting with people in the community and nurturing those relationships. This is heart-centered activity. 
 
-```markdown
-Syntax highlighted code block
+The majority of their time is spent in four domains: onboarding, outreach, engagement and administration. 
 
-# Header 1
-## Header 2
-### Header 3
+Coordinators felt most successful when onboarding was quicker, and more personal; when events were attended and appreciated; when administration/compliance could be performed easily. In other words, when their activity corresponds with their motivations.
 
-- Bulleted
-- List
+Time spent in onboarding and administration domains is dominated by legal, bureaucratic, and administrative tasks that are numerous, necessary, and more or less difficult, according to the personal skills of the coordinator. 
 
-1. Numbered
-2. List
+The domain of engagement encompasses and extends beyond onboarding and outreach; it is, however, harder to provide effective technological solutions for the many varied ways that people engage in that more relational aspect of the work.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fyodorovich/Timebank-Toolkit/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
