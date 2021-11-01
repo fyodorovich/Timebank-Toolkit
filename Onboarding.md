@@ -1,6 +1,6 @@
 # Onboarding! Getting the People in your Community through the Sign-up Procedure
 
-[Community Weaver](https://fyodorovich.github.io/Timebank-Toolkit/CommunityWeaver.md) | [Home](https://fyodorovich.github.io/Timebank-Toolkit/OnboardingSoftware.md) 
+[Community Weaver](https://fyodorovich.github.io/Timebank-Toolkit/CommunityWeaver.html) | [Onboarding Software](https://fyodorovich.github.io/Timebank-Toolkit/OnboardingSoftware.html) 
 
 Your group leaders will have to decide how much scrutiny to place on people who want to join your Timebank. In the New Zealand context that may involve asking for a Police Background check, personal references, or personal identity documents. 
 
