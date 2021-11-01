@@ -1,5 +1,7 @@
 # Onboarding! Getting the People in your Community through the Sign-up Procedure
 
+[Community Weaver](https://fyodorovich.github.io/Timebank-Toolkit/CommunityWeaver.md) | [Home](https://fyodorovich.github.io/Timebank-Toolkit/OnboardingSoftware.md) 
+
 Your group leaders will have to decide how much scrutiny to place on people who want to join your Timebank. In the New Zealand context that may involve asking for a Police Background check, personal references, or personal identity documents. 
 
 Onboarding processes can take time and energy for everyone involved. They also have the potential to deter people from joining. Many other platforms only require users to provide an active email address and a "good faith" verification that they meet the entry requirements for that group. In contrast, a lengthy process can leave people by the wayside. They lose interest and may not be energetically committed. 
