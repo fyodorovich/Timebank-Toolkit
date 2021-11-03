@@ -23,6 +23,11 @@ Time spent in onboarding and administration domains is dominated by legal, burea
 The domain of engagement encompasses and extends beyond onboarding and outreach; it is, however, harder to provide effective technological solutions for the many varied ways that people engage in that more relational aspect of the work.
 
 
+[Home](https://fyodorovich.github.io/Timebank-Toolkit/)
+[Directory of Timebanks in Aotearoa](directory.html)
+[Onboarding](Onboarding.html) | 
+[Administration](Administration.html) | 
+[Onboarding Software](OnboardingSoftware.html) 
 ### Support or Contact
 
 John Gieryn and Malcolm Fitzgerald
