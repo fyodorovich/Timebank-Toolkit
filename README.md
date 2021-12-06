@@ -13,7 +13,7 @@ We aim to benefit:
 - the practice of timebanking, in its many flavours
 
 ### Who are We
-The [Wellington Timebank](https://wellingtonsouth.timebanks.org) is based in Pōneke, Wellington New Zealand.  We are are reasonably large and active group with 760 members at the end of 2021. The Wellington Timebank originally began as the Wellington South Timebank in 2011. Due to growing interest from across the central Wellington area, we expanded and became the Wellington Timebank in 2012. Now we are a community of over 750 people from all over the central Wellington area. 
+The [Wellington Timebank](https://wellingtonsouth.timebanks.org) is based in [Pōneke, Wellington New Zealand](https://www.openstreetmap.org/search?query=wellington%2C%20new%20zealand#map=7/-41.289/174.777).  We are a reasonably large and active group. The Wellington Timebank originally began as the Wellington South Timebank in 2011. Due to growing interest from across the central Wellington area, we expanded and became the Wellington Timebank in 2012. Now we are a community of over 750 people from all over the central Wellington area. 
 
 #### Our Vision
 In our community we look out for each other and embrace diversity.
