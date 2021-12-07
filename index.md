@@ -1,33 +1,31 @@
-## Timebank Toolkit 
+# Timebank-Toolkit
+## A working guide for Timebank Administrators 
 
-[Community Weaver](https://fyodorovich.github.io/Timebank-Toolkit/Onboarding.html)
+Keeping the core values of reciprocity and community – and the people who bring it to life – at heart.
 
-# Who this is Toolkit for
+During the second half of 2021 Wellington Timebank funded a research project which was tasked with developing a toolkit for Timebank coordinators and administrators. The broad outline is to document our collective experience and to use the information as a basis for easier administration of the Timebanks. 
+
+
+
+### Who this is for
+
 We aim to benefit:
-— the coordinators, steering committees, and admins, of Aotearoa New Zealand’s timebanks
-— new or old, big or small, rural or urban
-— the practice of timebanking, in its many flavours
+- the coordinators, steering committees, and admins, of Aotearoa New Zealand’s timebanks
+- new or old, big or small, rural or urban
+- the practice of timebanking, in its many flavours
 
-And to do so while keeping the core values of reciprocity and community – and the people who bring it to life – at heart.
+### Who are We
+The [Wellington Timebank](https://wellingtonsouth.timebanks.org) is based in [Pōneke, Wellington New Zealand](https://www.openstreetmap.org/search?query=wellington%2C%20new%20zealand#map=7/-41.289/174.777).  We are a reasonably large and active group. The Wellington Timebank originally began as the Wellington South Timebank in 2011. Due to growing interest from across the central Wellington area, we expanded and became the Wellington Timebank in 2012. Now we are a community of more than 750 people from all over the central Wellington area. 
 
-### Key Findings
+#### Our Vision
+In our community we look out for each other and embrace diversity.
 
-We found that the motivating value for timebank coordinators is the wellbeing that comes from connecting with people in the community and nurturing those relationships. This is heart-centered activity. 
+#### Our Mission
+Through exchanging skills, time and knowledge we foster relationships of trust and reciprocity. We harness the real wealth of the community and the value of each individual.
 
-The majority of their time is spent in four domains: onboarding, outreach, engagement and administration. 
-
-Coordinators felt most successful when onboarding was quicker, and more personal; when events were attended and appreciated; when administration/compliance could be performed easily. In other words, when their activity corresponds with their motivations.
-
-Time spent in onboarding and administration domains is dominated by legal, bureaucratic, and administrative tasks that are numerous, necessary, and more or less difficult, according to the personal skills of the coordinator. 
-
-The domain of engagement encompasses and extends beyond onboarding and outreach; it is, however, harder to provide effective technological solutions for the many varied ways that people engage in that more relational aspect of the work.
-
-
-[Home](https://fyodorovich.github.io/Timebank-Toolkit/)
-[Directory of Timebanks in Aotearoa](directory.html)
-[Onboarding](Onboarding.html) | 
-[Administration](Administration.html) | 
-[Onboarding Software](OnboardingSoftware.html) 
-### Support or Contact
-
-John Gieryn and Malcolm Fitzgerald
+#### Our Values
+1. We are all assets. Every person has something to contribute.
+2. Redefining work: All kinds of work need to be honoured and rewarded.
+3. Reciprocity. Relationships are about giving and receiving. "You need me" becomes "We need each other".
+4. Social networks. People helping each other weaves communities of support, strength and trust.
+5. Respect. All of us matter and are accountable to one another.
