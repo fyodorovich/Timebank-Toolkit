@@ -14,9 +14,9 @@ Due to our [email server hardware failure](https://wiki.timebanks.org/wiki/TimeB
 
 There are five different coordinator roles, each has a special set of tasks: Admin, Member, Member Support, Outreach, and Payments.
 
-``TIP`` You can assign coordinator roles to lots of people, so they share the workload.
+````TIP```` You can assign coordinator roles to lots of people, so they share the workload.
 
-``TIP`` You can also assign multiple coordinator roles to a single person
+````TIP```` You can also assign multiple coordinator roles to a single person
 
 ``CW3 Wiki`` [Timebank coordinator's roles and permissions](http://wiki.timebanks.org/wiki/Coordinator_Permissions)
 
@@ -50,7 +50,7 @@ There are five different coordinator roles, each has a special set of tasks: Adm
 
 ``CW3 Wiki`` [The online Community Weaver manual for coordinators] (http://wiki.timebanks.org/wiki/Help_for_Coordinators)
 
-``TRAP`` The information in the help pages can be confusing. Often there is no information, just a lot of links leading you in circles. 
+````TIP```` The information in the help pages can be confusing. Often there is no information, just a lot of links leading you in circles. 
 
 ### Configuration
 ``CW3 Wiki`` [Configuring a new Timebank](http://wiki.timebanks.org/wiki/Configuring_a_New_Timebank)
@@ -58,7 +58,7 @@ There are five different coordinator roles, each has a special set of tasks: Adm
   
 Link: [wiki.timebanks.org/wiki/Configuring_a_New_Timebank][1]  
   
-## TIP: Do your own tests. Ensure your settings are working the way that you expect them to.  
+## ``TIP``: Do your own tests. Ensure your settings are working the way that you expect them to.  
   
 ## General  
   
@@ -79,7 +79,7 @@ Link: [wiki.timebanks.org/wiki/TimeBank_General_Settings][2]
     Link: [wiki.timebanks.org/wiki/TimeBank_Email_Address][3]  
   
     * This email address is used by CW3 to direct communications to coordinators  
-    * CRAP  
+    * ``TIP``  
         * At the beginning of 2022 it is broken and has been broken for some time.  
 * Postal Address  
     * WARNING: This address is displayed at the bottom of every page and in emails. It will definitely be indexed by search engines.  
@@ -138,7 +138,7 @@ Link: [wiki.timebanks.org/wiki/TimeBank_Signup_Settings][4]
   
 ### Step 2: Profile  
   
-* TIP  
+* ``TIP``  
     * Be frugal with these options. Use the absolute minimum.  
         * Time Zone  
             * Pointless in NZ  
@@ -154,9 +154,9 @@ Link: [wiki.timebanks.org/wiki/TimeBank_Signup_Settings][4]
             * If you use this you MUST provide a list of “counties”  
             * If you do not use this make sure the list of counties is empty.  
             * GOTCHA: the implementation is messy. You’ll find places where “county” is an option.  
-* TRAP  
+* ``TIP``  
     * If users do not provide answers to every one of the options you select their profile will not be marked as 100% complete.  
-* CRAP  
+* ``TIP``  
     * CW3 actives recommends that MOST of options that they offer SHOULD NOT BE USED  
         Link: [wiki.timebanks.org/wiki/Member_Signup_Settings#IMPORTANT_RECOMMENDATIONS][5]  
   
@@ -180,9 +180,9 @@ Link: [wiki.timebanks.org/wiki/TimeBank_Signup_Settings][4]
   
 ### Step 3: External Validation  
   
-* TIP: These checkboxes to not do anything.  
-* TRAP:  see TIP  
-* CRAP: future version of CW3 is vaporware  
+* ``TIP``: These checkboxes to not do anything.  
+* ``TIP``:  see ``TIP``  
+* ``TIP``: future version of CW3 is vaporware  
   
 ## Design  
   
@@ -191,11 +191,11 @@ Link: [wiki.timebanks.org/wiki/TimeBank_Design_Settings][6]
 ### Fonts  
   
 * The font you choose will be used everywhere.  
-* TIP  
+* ``TIP``  
     * Tahoma, Trebuchet, and Verdana are designed for digital screens  
-* TRAP  
+* ``TIP``  
     * Only three of the fonts in the list where designed for reading on computers.  
-* CRAP  
+* ``TIP``  
     * It’s easier to get it wrong than it is to get it right. Eight of the eleven options are not recommended  
   
 ### Logo  
@@ -203,30 +203,30 @@ Link: [wiki.timebanks.org/wiki/TimeBank_Design_Settings][6]
 Link: [wiki.timebanks.org/wiki/TimeBank_Design_Settings#Site_Logo][7]  
   
 * Use a minimum size of 500 x 500 pixels  
-* TRAP  
+* ``TIP``  
     * The site will crop your logo using a circular boundary.  
     * The site will put your logo into narrow columns  
-* CRAP  
+* ``TIP``  
     * You can only provide one logo file  
     * If your logo was not designed to fit in a circle, or was not designed for portrait mode, you will be unhappy.  
-* TIP  
+* ``TIP``  
     * Use a version of your logo that is approximately square  
   
 ### Colours (Colors)  
   
 Link: [wiki.timebanks.org/wiki/TimeBank_Design_Settings#Site_Colors][8]  
   
-* TRAP  
+* ``TIP``  
     * Actual designers who think in colour were never consulted by the programmers who developed CW3  
     * There are too many colour options  
     * [Relative Color Densities][9] are used for reasons that have no relevance for end-users.  
-* CRAP  
+* ``TIP``  
     * You must use all the options  
     * The options work against each other  
     * No matter what colours you choose. The site will use Red (#FF0000), Orange (#FFA500), Yellow(#FFFF00), and Blue (#0000FF) for various purposes.  
         Link: [ou.edu/research/electron/internet/bgcolors.shtml][10]  
   
-* TIP  
+* ``TIP``  
     * [Mineral UI Color scheme][11] is designed for use on digital screens for the widest possible range of users (old, young, sight impaired, etc)  
     * The Mineral UI colour schemes will give you an approximate sense of what effect the [Relative Color Densities][12] will have.  
   
@@ -252,11 +252,11 @@ Link: [wiki.timebanks.org/wiki/Service_Categories][14]
   
 ### Counties  
   
-* Tip: clear the default entries  
+* ``TIP``: clear the default entries  
   
 ### Neighbourhoods  
   
-* TIP: clear the default entries  
+* ``TIP``: clear the default entries  
   
 ### Community Timebanks  
   
@@ -274,11 +274,11 @@ Link: [wiki.timebanks.org/wiki/Community_Timebanks][15]
 Link: [wiki.timebanks.org/wiki/Contact_Form#Managing_Contact_Forms][16]  
   
 * Contact forms can be used by anyone, and is accessible on every page on your Timebank as an **Envelope** icon in the toolbar  
-* TIP  
+* ``TIP``  
     * Make contact forms for different purposes  
-* TRAP  
+* ``TIP``  
     * The contact form is a source of attempted spam or phishing messages  
-* CRAP  
+* ``TIP``  
     * They don’t work if the email server is broken.  
 * Due to our email server hardware failure, this feature may not function as expected. If your contact form submission bounces, please write directly to your timebank coordinator. We regret this disturbance to your communications and are currently working to resolve this issue.  
   
@@ -294,7 +294,7 @@ Link: [wiki.timebanks.org/wiki/Configuring_a_New_Timebank#Email][17]
   
 ### [How to customize email notification templates][20]  
   
-### TIP  
+### ``TIP``  
   
 * Put some thought into the templates. It makes a big difference to users to receive good information, even when they know it’s bot-driven.  
   
