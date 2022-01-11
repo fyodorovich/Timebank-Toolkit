@@ -314,6 +314,7 @@ The information you provide here will be used at the top of the page and at the 
 ``CW3 Wiki`` [Email Settings][17]
 
 **It is extremely important to setup your email correctly**
+
 Use the instructions provided by CW3 help for this task.
 
 ``CW3 Wiki`` [Understanding email notifications][18]
