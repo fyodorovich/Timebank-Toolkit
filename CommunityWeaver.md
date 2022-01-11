@@ -147,13 +147,13 @@ Link: [wiki.timebanks.org/wiki/TimeBank_Signup_Settings][4]
             * Users who enter their address will have included their suburb already. Asking for their “neighbourhood” is a duplication.  
             * If you are going to use this you MUST provide a list of neighbourhoods.  
             * If you do not use this, ensure that the list of neighbourhoods is empty.  
-            * GOTCHA: Users enter neighbourhoods that are not in your list.  
-            * GOTCHA: The implementation is a bit messy. You’ll find places where “neighbourhood” is an option.  
+            * ``GOTCHA``: Users enter neighbourhoods that are not in your list.  
+            * ``GOTCHA``: The implementation is a bit messy. You’ll find places where “neighbourhood” is an option.  
         * County  
             * USA-centric. Could be useful in wide-spread groups but the language is wrong, so you may not get reliable inputs.  
             * If you use this you MUST provide a list of “counties”  
             * If you do not use this make sure the list of counties is empty.  
-            * GOTCHA: the implementation is messy. You’ll find places where “county” is an option.  
+            * ``GOTCHA``: the implementation is messy. You’ll find places where “county” is an option.  
 * ``TIP``  
     * If users do not provide answers to every one of the options you select their profile will not be marked as 100% complete.  
 * ``TIP``  
