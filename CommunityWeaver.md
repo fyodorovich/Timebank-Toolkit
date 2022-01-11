@@ -317,7 +317,9 @@ The information you provide here will be used at the top of the page and at the 
 Use the instructions provided by CW3 help for this task.
 
 ``CW3 Wiki`` [Understanding email notifications][18]
+
 ``CW3 Wiki`` [How to configure CW email][19]
+
 ``CW3 Wiki`` [How to customize email notification templates][20]
 
 ``TIP`` Put some thought into the content of your email templates. It makes a big difference for your members who receive good information.
@@ -331,9 +333,10 @@ Use the instructions provided by CW3 help for this task.
 If so, you’ll benefit from the payment features in CW3.
 
 [Payment feature overview][22]  
+
 [Payment feature configuration][23]
 
-## References
+
 
 [1]: http://wiki.timebanks.org/wiki/Configuring_a_New_Timebank  
 [2]: http://wiki.timebanks.org/wiki/TimeBank_General_Settings  
