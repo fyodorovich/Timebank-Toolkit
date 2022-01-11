@@ -86,7 +86,7 @@ There are five different coordinator roles, each has a special set of tasks: Adm
   
 ### Features  
   
-* The choices you make here controls the behaviour of CW3.  
+``TIP`` The choices you make here controls the behaviour of CW3.  
 * Signup Page  
     * Allow anyone to signup as a member?  
         * When checked, anyone can sign up  
