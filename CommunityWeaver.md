@@ -138,8 +138,7 @@ Link: [wiki.timebanks.org/wiki/TimeBank_Signup_Settings][4]
   
 ### Step 2: Profile  
   
-* ``TIP``  
-    * Be frugal with these options. Use the absolute minimum.  
+* ``TIP`` Be frugal with these options. Use the absolute minimum.  
         * Time Zone  
             * Pointless in NZ  
         * Neighbourhood  
@@ -154,10 +153,8 @@ Link: [wiki.timebanks.org/wiki/TimeBank_Signup_Settings][4]
             * If you use this you MUST provide a list of “counties”  
             * If you do not use this make sure the list of counties is empty.  
             * ``GOTCHA``: the implementation is messy. You’ll find places where “county” is an option.  
-* ``TIP``  
-    * If users do not provide answers to every one of the options you select their profile will not be marked as 100% complete.  
-* ``TIP``  
-    * CW3 actives recommends that MOST of options that they offer SHOULD NOT BE USED  
+* ``TIP``  If users do not provide answers to every one of the options you select their profile will not be marked as 100% complete.  
+* ``TIP`` CW3 actives recommends that MOST of options that they offer SHOULD NOT BE USED  
         Link: [wiki.timebanks.org/wiki/Member_Signup_Settings#IMPORTANT_RECOMMENDATIONS][5]  
   
         * Profile options that are Not Recommended for use in Sign Up Forms.  
