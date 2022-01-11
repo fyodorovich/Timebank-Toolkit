@@ -54,13 +54,13 @@ There are five different coordinator roles, each has a special set of tasks: Adm
 
 ### Configuration
   
-``CW3 Wiki``[wiki.timebanks.org/wiki/Configuring_a_New_Timebank][1]  
+``CW3 Wiki`` [wiki.timebanks.org/wiki/Configuring_a_New_Timebank][1]  
   
 ## ``TIP``: Do your own tests. Ensure your settings are working the way that you expect them to.  
   
 ## General  
   
-``CW3 Wiki``[wiki.timebanks.org/wiki/TimeBank_General_Settings][2]  
+``CW3 Wiki`` [wiki.timebanks.org/wiki/TimeBank_General_Settings][2]  
   
 ### Identity  
   
@@ -77,12 +77,12 @@ There are five different coordinator roles, each has a special set of tasks: Adm
     ``CW3 Wiki``[wiki.timebanks.org/wiki/TimeBank_Email_Address][3]  
   
     * This email address is used by CW3 to direct communications to coordinators  
-    * ``CRAP``  
-        * At the beginning of 2022 it is broken and has been broken for some time.  
+    * 
+     ``CRAP``    At the beginning of 2022 it is broken and has been broken for some time.  
 * Postal Address  
-    * WARNING: This address is displayed at the bottom of every page and in emails. It will definitely be indexed by search engines.  
+     ``WARNING`` This address is displayed at the bottom of every page and in emails. It will definitely be indexed by search engines.  
 * Phone Number  
-    * WARNING: This number is displayed at the bottom of every page and in emails. It will definitely be indexed by search engines.  
+    ``WARNING`` This number is displayed at the bottom of every page and in emails. It will definitely be indexed by search engines.  
   
 ### Features  
   
@@ -95,7 +95,7 @@ There are five different coordinator roles, each has a special set of tasks: Adm
             * Cons  
                 * Hard to manage who signs up  
                 * If you have referee checks, or  any other requirement, such as identity validation, then you may need a different sign up form. For a user, having to sign up multiple times is confusing and can undermine confidence.  
-        * WARNING: If you allow anyone to sign up there is more to do. Go to Configure->Signup and follow the instructions there.  
+        ``WARNING`` If you allow anyone to sign up there is more to do. Go to Configure->Signup and follow the instructions there.  
 * Member Privacy  
     * Check this box at all times  
         * Pros  
@@ -125,7 +125,7 @@ There are five different coordinator roles, each has a special set of tasks: Adm
   
 ## Sign Up  
   
-``CW3 Wiki``[wiki.timebanks.org/wiki/TimeBank_Signup_Settings][4]  
+``CW3 Wiki`` [wiki.timebanks.org/wiki/TimeBank_Signup_Settings][4]  
   
 ### Step 1: Sign Up  
   
@@ -136,8 +136,7 @@ There are five different coordinator roles, each has a special set of tasks: Adm
   
 ### Step 2: Profile  
   
-* ``TIP``  
-    * Be frugal with these options. Use the absolute minimum.  
+``TIP``   Be frugal with these options. Use the absolute minimum.  
         * Time Zone  
             * Pointless in NZ  
         * Neighbourhood  
@@ -152,13 +151,11 @@ There are five different coordinator roles, each has a special set of tasks: Adm
             * If you use this you MUST provide a list of “counties”  
             * If you do not use this make sure the list of counties is empty.  
             * GOTCHA: the implementation is messy. You’ll find places where “county” is an option.  
-* ``TRAP``  
-    * If users do not provide answers to every one of the options you select their profile will not be marked as 100% complete.  
-* ``CRAP``  
-    * CW3 actives recommends that MOST of options that they offer SHOULD NOT BE USED  
-        ``CW3 Wiki``[wiki.timebanks.org/wiki/Member_Signup_Settings#IMPORTANT_RECOMMENDATIONS][5]  
+ ``TRAP``    If users do not provide answers to every one of the options you select their profile will not be marked as 100% complete.  
+ ``CRAP``   CW3 actives recommends that MOST of options that they offer SHOULD NOT BE USED  
+ ``CW3 Wiki`` [wiki.timebanks.org/wiki/Member_Signup_Settings#IMPORTANT_RECOMMENDATIONS][5]  
   
-        * Profile options that are Not Recommended for use in Sign Up Forms.  
+        * Profile options that are __Not Recommended__ for use in Sign Up Forms.  
             * Neighborhood  
                 County  
                 Nickname  
@@ -178,65 +175,62 @@ There are five different coordinator roles, each has a special set of tasks: Adm
   
 ### Step 3: External Validation  
   
-* ``TIP``: These checkboxes to not do anything.  
-* ``TRAP``:  see ``TIP``  
-* ``CRAP``: future version of CW3 is vaporware  
+ ``TRAP``: These checkboxes to not do anything.  
+ ``CRAP``: future version of CW3 is vaporware  
   
 ## Design  
   
-``CW3 Wiki``[wiki.timebanks.org/wiki/TimeBank_Design_Settings][6]  
+``CW3 Wiki`` [wiki.timebanks.org/wiki/TimeBank_Design_Settings][6]  
   
 ### Fonts  
   
 * The font you choose will be used everywhere.  
-* ``TIP``  
-    * Tahoma, Trebuchet, and Verdana are designed for digital screens  
-* ``TRAP``  
-    * Only three of the fonts in the list where designed for reading on computers.  
-* ``CRAP``  
-    * It’s easier to get it wrong than it is to get it right. Eight of the eleven options are not recommended  
+ ``TIP``    Tahoma, Trebuchet, and Verdana are designed for digital screens  
+ ``TRAP``  Only three of the fonts in the list where designed for reading on computers.  
+ ``CRAP``  It’s easier to get it wrong than it is to get it right. Eight of the eleven options are not recommended  
   
 ### Logo  
   
-``CW3 Wiki``[wiki.timebanks.org/wiki/TimeBank_Design_Settings#Site_Logo][7]  
+``CW3 Wiki`` [wiki.timebanks.org/wiki/TimeBank_Design_Settings#Site_Logo][7]  
   
 * Use a minimum size of 500 x 500 pixels  
-* ``TRAP``  
+
+ ``TRAP``  
     * The site will crop your logo using a circular boundary.  
     * The site will put your logo into narrow columns  
-* ``CRAP``  
+ ``CRAP``  
     * You can only provide one logo file  
-    * If your logo was not designed to fit in a circle, or was not designed for portrait mode, you will be unhappy.  
-* ``TIP``  
-    * Use a version of your logo that is approximately square  
+    * If your logo was not designed to fit in a circle, or was not designed for portrait mode, it will get munched.  
+ ``TIP``   Use a version of your logo that is approximately square  
   
 ### Colours (Colors)  
   
 ``CW3 Wiki``[wiki.timebanks.org/wiki/TimeBank_Design_Settings#Site_Colors][8]  
   
-* ``TRAP``  
+ ``TRAP``  
     * Actual designers who think in colour were never consulted by the programmers who developed CW3  
     * There are too many colour options  
     * [Relative Color Densities][9] are used for reasons that have no relevance for end-users.  
-* ``CRAP``  
+    
+ ``CRAP``  
     * You must use all the options  
     * The options work against each other  
     * No matter what colours you choose. The site will use Red (#FF0000), Orange (#FFA500), Yellow(#FFFF00), and Blue (#0000FF) for various purposes.  
         ``CW3 Wiki``[ou.edu/research/electron/internet/bgcolors.shtml][10]  
   
-* ``TIP``  
+ ``TIP``  
     * [Mineral UI Color scheme][11] is designed for use on digital screens for the widest possible range of users (old, young, sight impaired, etc)  
     * The Mineral UI colour schemes will give you an approximate sense of what effect the [Relative Color Densities][12] will have.  
   
 ## Lists  
   
-``CW3 Wiki``[wiki.timebanks.org/wiki/Time_Bank_Manage_Lists][13]  
+``CW3 Wiki`` [wiki.timebanks.org/wiki/Time_Bank_Manage_Lists][13]  
   
 ### Service Categories  
   
-``CW3 Wiki``[wiki.timebanks.org/wiki/Service_Categories][14]  
+``CW3 Wiki`` [wiki.timebanks.org/wiki/Service_Categories][14]  
   
-* WARNING - DO NOT DELETE ALL THE CATEGORIES  
+``WARNING`` - DO NOT DELETE ALL THE CATEGORIES  
     * If you delete all the categories, CW3 will crash  
     * At least one top-level category and one sub-category is required.  
   
@@ -250,15 +244,15 @@ There are five different coordinator roles, each has a special set of tasks: Adm
   
 ### Counties  
   
-* ``Tip``: clear the default entries  
+ ``Tip`` clear the default entries  
   
 ### Neighbourhoods  
   
-* ``TIP``: clear the default entries  
+ ``TIP`` clear the default entries  
   
 ### Community Timebanks  
   
-``CW3 Wiki``[wiki.timebanks.org/wiki/Community_Timebanks][15]  
+``CW3 Wiki`` [wiki.timebanks.org/wiki/Community_Timebanks][15]  
   
 * can also be thought of as branches or sub-timebanks,  
 * This allows Sub-groups within your timebank  
@@ -269,20 +263,17 @@ There are five different coordinator roles, each has a special set of tasks: Adm
   
 ### Contact Form Categories  
   
-``CW3 Wiki``[wiki.timebanks.org/wiki/Contact_Form#Managing_Contact_Forms][16]  
+``CW3 Wiki`` [wiki.timebanks.org/wiki/Contact_Form#Managing_Contact_Forms][16]  
   
 * Contact forms can be used by anyone, and is accessible on every page on your Timebank as an **Envelope** icon in the toolbar  
-* ``TIP``  
-    * Make contact forms for different purposes  
-* ``TRAP``  
-    * The contact form is a source of attempted spam or phishing messages  
-* ``CRAP``  
-    * They don’t work if the email server is broken.  
+ ``TIP``   Make contact forms for different purposes  
+ ``TRAP``   The contact form is a source of attempted spam or phishing messages  
+ ``CRAP``  They don’t work if the email server is broken.  
 * Due to our email server hardware failure, this feature may not function as expected. If your contact form submission bounces, please write directly to your timebank coordinator. We regret this disturbance to your communications and are currently working to resolve this issue.  
   
 ## Email  
   
-``CW3 Wiki``[wiki.timebanks.org/wiki/Configuring_a_New_Timebank#Email][17]  
+``CW3 Wiki`` [wiki.timebanks.org/wiki/Configuring_a_New_Timebank#Email][17]  
   
 ### Currently affected by email server outage but still needs to be setup correctly.  
   
@@ -292,22 +283,19 @@ There are five different coordinator roles, each has a special set of tasks: Adm
   
 ### [How to customize email notification templates][20]  
   
-### ``TIP``  
-  
-* Put some thought into the templates. It makes a big difference to users to receive good information, even when they know it’s bot-driven.  
+``TIP``   Put some thought into the templates. It makes a big difference for your members who receive good information, even when they know it’s bot-driven.  
   
 ## Payments  
   
-``CW3 Wiki``[wiki.timebanks.org/wiki/Configuring_a_New_Timebank#Payments][21]  
+``CW3 Wiki`` [wiki.timebanks.org/wiki/Configuring_a_New_Timebank#Payments][21]  
   
-### Is your timebank a Pay-to-Play community? If so, you’ll benefit from the payment features in CW3.  
+### Is your timebank a Pay-to-Play community? 
+If so, you’ll benefit from the payment features in CW3.  
   
-### [Payment feature overview][22]  
+[Payment feature overview][22]  
+[Payment feature configuration][23]  
   
-### [Payment feature configuration][23]  
-  
-## See Also  
-  
+
   
 [1]: http://wiki.timebanks.org/wiki/Configuring_a_New_Timebank  
 [2]: http://wiki.timebanks.org/wiki/TimeBank_General_Settings  
