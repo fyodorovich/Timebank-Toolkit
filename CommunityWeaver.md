@@ -48,7 +48,7 @@ There are five different coordinator roles, each has a special set of tasks: Adm
 
 ``CW3 Wiki`` [Coordinator configuration options for your timebank](http://wiki.timebanks.org/wiki/Category:Coordinator_Options)
 
-``CW3 Wiki`` [The online Community Weaver manual for coordinators] (http://wiki.timebanks.org/wiki/Help_for_Coordinators)
+``CW3 Wiki`` [The online Community Weaver manual for coordinators](http://wiki.timebanks.org/wiki/Help_for_Coordinators)
 
 ``TRAP`` The information in the help pages can be confusing. Often there is no information, just a lot of links leading you in circles. 
 
