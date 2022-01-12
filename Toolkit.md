@@ -10,6 +10,4 @@
 [Outreach](Outreach.html)    
 [Tools for the Organisation](Organisation.html)    
 [Productivity](Productivity.html)    
-[Pain Points](PainPoints.html)    
-[Opportunities](Opportunities.html)    
 
