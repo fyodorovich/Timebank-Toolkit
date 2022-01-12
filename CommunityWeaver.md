@@ -6,21 +6,18 @@
 
 You'll want someone in your group who is comfortable being able to configure and administer Community Weaver to manage your Timebank. This guide will provide you with some basics, some warnings and some tips.
 
-**This warning is currently displayed at the CW3 wiki**
+``NOTICE`` **The following warning is currently displayed at the CW3 wiki**
 
->Due to our [email server hardware failure](https://wiki.timebanks.org/wiki/TimeBank_Email_Address), the site email address is temporarily out of service. Email sent to the CW site's email address will not be sent to coordinators. Please inform your members of this issue and that they will need to send their emails directly to a coordinator's email address. We regret this disturbance to communications with your timebank members and are currently working to resolve this issue.
+     Due to our email server hardware failure, the site email address is temporarily out of service. 
+     Email sent to the CW site's email address will not be sent to coordinators. Please inform your 
+     members of this issue and that they will need to send their emails directly to a coordinator's 
+     email address. We regret this disturbance to communications with your timebank members and are 
+     currently working to resolve this issue.
 
 ## Managing a CW3 Site
 
 1. [Assigning Coordinators](#assigning_coordinators)
 2. [Configuring CW3](#configuring_cw3)
-    1. [CW3 Help Pages](#cw3_help_pages)
-    2. [General Settings](#general_settings)
-    3. [Sign Up](#sign_up)
-    4. [Design](#design)
-    5. [Lists](#lists)
-    6. [Email](#email)
-    7. [Payments](#payments)
 
 ### Coordinators <a name="assigning_coordinators"></a>
 
