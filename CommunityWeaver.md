@@ -123,7 +123,8 @@ The information you provide here will be used at the top of the page and at the 
       - Cons
         - Hard to manage who signs up
         - If you have referee checks, or any other requirement, such as identity validation, then you may need a different sign up form. For a user, having to sign up multiple times is confusing and can undermine confidence.  
-          ``WARNING`` If you allow anyone to sign up there is more to do. Go to Configure->Signup and follow the instructions there.
+
+``WARNING`` If you allow anyone to sign up there is more to do. Go to [Configure->Signup](#sign_up) and follow the instructions there.
           
 **Member Privacy**
   ``TIP`` Always check this box
@@ -169,35 +170,34 @@ The information you provide here will be used at the top of the page and at the 
 ### Step 2: Profile
 
 ``TIP`` Be frugal with these options. Use the absolute minimum.
+`TRAP` If users do not provide answers to every one of the options you have selected their profile will not be marked as 100% complete.  
+`CRAP` CW3 actives recommends that **most options should not be used**
 
-`TRAP` If users do not provide answers to every one of the options you select their profile will not be marked as 100% complete.  
-`CRAP` CW3 actives recommends that most options **should not be used**
-
-**Time Zone**  
-  Pointless in NZ
+We have some observations
+The **Time Zone** is pointless in NZ
   
-**Neighbourhood**
+**Neighbourhood** : not recommended
   - USA-centric. In NZ we have suburbs and don’t usually need any further breakdown.
   - Users who enter their address will have included their suburb already. Asking for their “neighbourhood” is a duplication.
   - If you are going to use this you MUST provide a list of neighbourhoods.
   
  ``TIP`` Don't repeat your suburbs in the list of neighbourhoods, it gets really confusing when you do that. 
- 
+
  ``GOTCHA`` Users enter neighbourhoods that are not in your list.  
 
  - If you are _not_ going to use neighbourhoods, ensure that the list of neighbourhoods is empty. 
   
  ``GOTCHA`` The implementation is a bit messy. You’ll find places where “neighbourhood” is an option even though you are not using them. 
 
-**County**  
- * USA-centric. Could be useful in wide-spread groups but the language is wrong, so you may not get reliable inputs.  
- * If you use this you MUST provide a list of “counties”  
- * If you do not use this make sure the list of counties is empty.  
+**County** : not recommended
+ - USA-centric. Could be useful in wide-spread groups but the language is wrong, so you may not get reliable inputs.  
+ - If you use this you MUST provide a list of “counties”  
+ - If you do not use this make sure the list of counties is empty.  
 ``GOTCHA`` the implementation is messy. You’ll find places where “county” is an option even though you are not using them.
 
 ``CW3 Wiki`` [IMPORTANT RECOMMENDATIONS][5]
 
-``TRAP`` _Profile options that are **Not Recommended** for use in Sign Up Forms._
+``TIP`` _Profile options that are **Not Recommended** for use in Sign Up Forms._
 
 - Neighborhood
 - County
