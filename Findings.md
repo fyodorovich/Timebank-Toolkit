@@ -23,8 +23,6 @@ The broad purpose of the [toolkit](Toolkit.html) is to enable coordinators to be
 * [Outreach](Outreach.html)    
 * [Tools for the Organisation](Organisation.html)    
 * [Productivity](Productivity.html)    
-* [Pain Points](PainPoints.html)    
-* [Opportunities](Opportunities.html)   
  
 ### Support or Contact
 
