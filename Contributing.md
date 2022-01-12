@@ -4,4 +4,4 @@ The toolkit is hosted by Github and managed using a version control system. This
 
 Behind the scenes is a continuous deployment system. This watches our repo, and if there are any changes it will proccess them. That ensures that updates to the toolkit repo are reflected in the web site within 15mins of us editing anything. 
 
-If you want to participate, set up an account on Github and fork the toolkit. When you are ready, send a pull request through. 
+If you want to participate, set up an account on Github and fork the toolkit. When you are ready, send a pull request through to our repo. 
