@@ -15,11 +15,10 @@ Timebanks can benefit from the enormous amount of research into human behaviour 
 
 
 ## Making Contact<a name="Making_Contact"></a>
-This usually means your audience contacting you, via the **web site**, **email**, or **social feeds**. If you are at an event, you may be the one to **start up a conversation**. 
-* online enquiries
+This usually means your audience contacting you, via the **web site**, **email**, or **social feeds**. If you are at an event, you may be the one to **start up a conversation**.
 
 ## Qualifying the Lead<a name="Qualifying_the_Lead"></a>
-Not every timebank has entry requirements but those that do need to determine whether the lead can join the group. This may be as simple as asking for a photo ID. It could involve asking for and checking with their referees; by a background check, such as Ministry of Justice provides. These processes are designed to ensure that the entire group has a level of assurance that the people they'll meet are genuine and trustworthy. 
+Not every timebank has entry requirements but those that do need to determine whether this person can join the group. This may be as simple as asking for a photo ID. It could involve asking for references and checking their _bona fides_ with their referees; or performing a background check, such as Ministry of Justice provides. These processes are designed to ensure that the entire group has a level of assurance that the people they'll meet are genuine and trustworthy. 
 
 ## Nurturing the Lead<a name="Nurturing_the_Lead"></a>
 Not everyone will sign-up immediately, some people are shy or cautious and need more assurance before they will participate. **Introduction days** and **training days** provide an opportunity to spend time with one or a small group to build trust with your new members.  
@@ -33,5 +32,5 @@ According what's achievable within your community you may also provide **welcome
 There is no need to hard-sell but some people will need more help than others. They may experience **technical difficulties**, **access issues**, or social issues. Be prepared to help these people into the community. 
 
 ## Closing the Sale<a name="Closing_the_Sale"></a>
-We've been told that establishing a succesful trade as soon as possible is a good indicator. The longer it takes a new member to close their first sale, the less likely they are to commit. This could happen for all sorts of reasons, but as a rule of thumb, **you want to get a new member trading as quickly as possible**. 
+We've been told that establishing a successful trade as soon as possible is a good indicator of long term engagement. The longer it takes a new member to close their first trade, the less committed they are to your fcoup. There can be many things at play, but as a rule of thumb, **you want to get a new member trading as quickly as possible**. 
 
