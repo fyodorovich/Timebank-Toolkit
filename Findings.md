@@ -14,7 +14,12 @@ Time spent in **onboarding** and **administration** domains is dominated by lega
 
 The domain of **engagement** encompasses and extends beyond **onboarding** and **outreach**; it is, however, harder to provide effective technological solutions for the many varied ways that people engage in that more relational aspect of the work.
 
-The broad purpose of the [toolkit](index.html) is to enable coordinators to be productive in these areas. 
+The broad purpose of the [toolkit](index.html) is to enable coordinators to be productive in these areas. Our focus is on the use of software to support your activity. These are loosely grouped as:
+
+* [Organisational Tools](Organisation.html)
+* [Onboarding](Onboarding.html)
+* [Outreach](Outreach.html)
+* [Administration](Administration.html)
 
 ### Support or Contact
 
