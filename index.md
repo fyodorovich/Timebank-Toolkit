@@ -5,7 +5,7 @@ Keeping the core values of reciprocity and community – and the people who brin
 
 During the second half of 2021 Wellington Timebank funded a research project which was tasked with developing a toolkit for Timebank coordinators and administrators. The broad outline is to document our collective experience and to use the information as a basis for easier administration of the Timebanks. 
 
-
+[&rarr; Jump straight into the Toolkit](findings.html)
 
 ### Who this is for
 
