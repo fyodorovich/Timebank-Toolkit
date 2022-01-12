@@ -4,13 +4,13 @@
 
 The toolkit is simply a web site and you can use it by bouncing around from link to link. 
 
-We have intended the toolkit to be an adjunct to the [CW3 Documentation](http://wiki.timebanks.org/wiki).
+We have intended the toolkit to be an adjunct to the ``CW3 Wiki`` [CW3 Documentation](http://wiki.timebanks.org/wiki).
 We provide links to the documentation throughout the toolkit. 
 
 We also provide links to other resources. Many of the resources are web sites and we cannot guarantee that the links we provide will remain valid. 
 In fact, the resources we have linked may go the way of the Dodo too. If you see that happening please let us know so that we can update the toolkit.
 
-Throughout the text we try to bring items to your attention. You'll see things such as 
+Throughout the text we try to bring items to your attention. You'll see items that have been tagged, such as ``CW3 Wiki`` above. There a a few different types.
 
 ``TIP`` this is a handy piece of information   
 ``TRAP`` watch out, don't get caught   
