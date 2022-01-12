@@ -11,40 +11,8 @@
 
 The process of generating a relationship of this sort has been closely studied in sales and marketing where the potential for profits is a motivator. Timebank may not have a for-profit motivation but we want the same broad outcomes. The clear message from all of the marketing advice is that developing a relationship with people in your community is a process. It requires a lot of input from you and you need to nurture your new members. 
 
-In the sales/marketing manuals they often say that there are seven touchpoints needed to convert a lead. What are the seven touchpoints involved for Timebank?
+In the sales/marketing manuals they often say that there are seven touchpoints needed to convert a lead. [What are the seven touchpoints involved for Timebank?](signup.html)
 
-### The Seven Stages of the Sales Cycle  
-  
-1. Prospecting  
-    *  outreach  
-    *  advertising  
-    *  events  
-    *  web presence  
-  
-1. Making Contact  
-    * conversation  
-    * online enquiries  
-  
-1. Qualifying the Lead   
-    * sign up  
-    * referees  
-    * background check  
-    
-1. Nurturing the Lead  
-    * introduction days  
-    * Training  
-  
-1. Making an Offer  
-    * starting with credit  
-    * welcome packs  
-  
-1. Handling Objections  
-    *  technical difficulties  
-    *  physical / access issue  
-    *  social issues  
-  
-1. Closing the Sale  
-    * establishing a first trade  
   
 
 
