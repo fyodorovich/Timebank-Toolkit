@@ -42,4 +42,6 @@ We'll make changes in accordance with your advice or we'll start a discussion wi
 
 If you feel like you want to make a larger contribution to the toolkit you can fork the repo. 
 That will provide you with a full working copy. 
-Make the changes or additions that you want to see included in the Toolkit and then send a pull request. We'll be able to look at your contributions and then either accept them in full or in part. The beauty of this system is that our combined efforts can allow the toolkit to grow, becomming better and more useful.  
+Make the changes or additions that you want to see included in the Toolkit and then send a pull request. We'll be able to look at your contributions and then either accept them in full or in part. 
+
+The beauty of having the toolkit under version control is that our combined efforts can allow the toolkit to grow, becomming better and more useful.  
