@@ -6,13 +6,23 @@
 
 You'll want someone in your group who is comfortable being able to configure and administer Community Weaver to manage your Timebank. This guide will provide you with some basics, some warnings and some tips.
 
-## Warning
+**This warning is currently displayed at the CW3 wiki**
 
-Due to our [email server hardware failure](https://wiki.timebanks.org/wiki/TimeBank_Email_Address), the site email address is temporarily out of service. Email sent to the CW site's email address will not be sent to coordinators. Please inform your members of this issue and that they will need to send their emails directly to a coordinator's email address. We regret this disturbance to communications with your timebank members and are currently working to resolve this issue.
+>Due to our [email server hardware failure](https://wiki.timebanks.org/wiki/TimeBank_Email_Address), the site email address is temporarily out of service. Email sent to the CW site's email address will not be sent to coordinators. Please inform your members of this issue and that they will need to send their emails directly to a coordinator's email address. We regret this disturbance to communications with your timebank members and are currently working to resolve this issue.
 
 ## Managing a CW3 Site
 
-### Coordinators
+1. [Assigning Coordinators](#assigning_coordinators)
+2. [Configuring CW3](#configuring_cw3)
+    1. [CW3 Help Pages](#cw3_help_pages)
+    2. [General Settings](#general_settings)
+    3. [Sign Up](#sign_up)
+    4. [Design](#design)
+    5. [Lists](#lists)
+    6. [Email](#email)
+    7. [Payments](#payments)
+
+### Coordinators <a name="assigning_coordinators"></a>
 
 #### Types of Coordinators
 
@@ -43,9 +53,17 @@ There are five different coordinator roles, each has a special set of tasks: Adm
 **Payments**
  coordinator is responsible for managing payment processing, nothing else.
 
-## Configuring Community Weaver
+## Configuring Community Weaver <a name="configuring_cw3"></a>
 
-### CW3 Help Pages
+1. [CW3 Help Pages](#cw3_help_pages)
+2. [General Settings](#general_settings)
+3. [Sign Up](#sign_up)
+4. [Design](#design)
+5. [Lists](#lists)
+6. [Email](#email)
+7. [Payments](#payments)
+
+### CW3 Help Pages <a name="cw3_help_pages"></a>
 
 ``CW3 Wiki`` [Coordinator configuration options for your timebank](http://wiki.timebanks.org/wiki/Category:Coordinator_Options)
 
@@ -59,7 +77,7 @@ There are five different coordinator roles, each has a special set of tasks: Adm
 
 ``TIP``: Do your own tests. Ensure your settings are working the way that you expect them to.
 
-## General
+## General <a name="general_settings"></a>
 
 ``CW3 Wiki`` [TimeBank General Settings][2]
 
@@ -67,33 +85,29 @@ There are five different coordinator roles, each has a special set of tasks: Adm
 
 The information you provide here will be used at the top of the page and at the bottom of the page.
 
-- Site Name
-  
+**Site Name**
   Appears at the top left of the page in bold and same colour as the theme. Also appears at the bottom left with the address and telephone number.
   
-- Email Subject Brand
-  
+**Email Subject Brand**
   This is used to identify email by prefixing the subject with this text in square brackets. It would be a good idea to keep this fairly short.
   
-- Slogan
-  
+**Slogan**
   This is displayed beneath the logo, which appears on most pages.
   
-- Footer Message
-  
+**Footer Message**
   This can be HTML. You can includes images, text formatting, and CSS. We don’t suggest that you try to include javascript/ECMAscript as it would probably conflict with the CW3 code.
   
-- Site Email Address  
+**Site Email Address**  
    ``CW3 Wiki``[wiki.timebanks.org/wiki/TimeBank_Email_Address][3]
   
   This email address is used by CW3 to direct communications to coordinators
   
   ``CRAP`` At the beginning of 2022 it is broken and has been broken for some time.
   
-- Postal Address  
+**Postal Address**  
    ``WARNING`` This address is displayed at the bottom of every page and in emails. It will definitely be indexed by search engines.
   
-- Phone Number  
+**Phone Number**  
    ``WARNING`` This number is displayed at the bottom of every page and in emails. It will definitely be indexed by search engines.
   
 
@@ -101,8 +115,7 @@ The information you provide here will be used at the top of the page and at the 
 
 ``TIP`` The choices you make here controls the behaviour of CW3.
 
-- Signup Page
-  
+**Signup Page**
   - Allow anyone to signup as a member?
     - When checked, anyone can sign up
       - Pros
@@ -111,28 +124,24 @@ The information you provide here will be used at the top of the page and at the 
         - Hard to manage who signs up
         - If you have referee checks, or any other requirement, such as identity validation, then you may need a different sign up form. For a user, having to sign up multiple times is confusing and can undermine confidence.  
           ``WARNING`` If you allow anyone to sign up there is more to do. Go to Configure->Signup and follow the instructions there.
-- Member Privacy
-  
+          
+**Member Privacy**
   ``TIP`` Always check this box
   
   ``Pro`` MEMBER PRIVACY
   
   ``Con`` Cannot share user offers/requests with FaceBook
   
-- External Links open in new window
-  
+**External Links open in new window**  
   Generates a new browser tab for links outside CW3. This setting benefits users who are younger than the internet.
   
-- Default Ad Expiration
-  
+**Default Ad Expiration**  
   Choose the period that you think best suits the sort of exchanges for your group. Users can override this easily, but if they don’t need to change it, there is less friction in the offer/request process.
   
-- Facebook and Facebook Like Page
-  
+**Facebook and Facebook Like Page**
   If you have a Facebook group, use this setting to put social buttons on the page and link to your group
   
-- Twitter and Twitter User Name
-  
+**Twitter and Twitter User Name**
   If you have a Twitter account, use this setting to put social buttons on the page and link to your account
   
 
@@ -146,13 +155,13 @@ The information you provide here will be used at the top of the page and at the 
   - Time Zone: Auckland
   - Restrict Member Time Zones: Pacific
 
-## Sign Up
+## Sign Up <a name="sign_up"></a>
 
 ``CW3 Wiki`` [Signup Settings][4]
 
 ### Step 1: Sign Up
 
-- Allow anyone to sign up?  
+**Allow anyone to sign up?**  
   ``TIP`` This is the same as the checkbox in General->Features. (But in this case, its in the right place)
   - You may not want this option checked.
   - If you have a custom sign up form, you need to turn this option OFF and redirect users to your sign up form. We suggest you use “Special Pages” to either present your form or to redirect users to your form.
@@ -164,24 +173,27 @@ The information you provide here will be used at the top of the page and at the 
 `TRAP` If users do not provide answers to every one of the options you select their profile will not be marked as 100% complete.  
 `CRAP` CW3 actives recommends that most options **should not be used**
 
-- Time Zone  
+**Time Zone**  
   Pointless in NZ
   
-- Neighbourhood
-  
+**Neighbourhood**
   - USA-centric. In NZ we have suburbs and don’t usually need any further breakdown.
   - Users who enter their address will have included their suburb already. Asking for their “neighbourhood” is a duplication.
   - If you are going to use this you MUST provide a list of neighbourhoods.
-
+  
  ``TIP`` Don't repeat your suburbs in the list of neighbourhoods, it gets really confusing when you do that. 
-* If you do not use this, ensure that the list of neighbourhoods is empty.  
+ 
  ``GOTCHA`` Users enter neighbourhoods that are not in your list.  
- ``GOTCHA`` The implementation is a bit messy. You’ll find places where “neighbourhood” is an option.  
- * County  
+
+ - If you are _not_ going to use neighbourhoods, ensure that the list of neighbourhoods is empty. 
+  
+ ``GOTCHA`` The implementation is a bit messy. You’ll find places where “neighbourhood” is an option even though you are not using them. 
+
+**County**  
  * USA-centric. Could be useful in wide-spread groups but the language is wrong, so you may not get reliable inputs.  
  * If you use this you MUST provide a list of “counties”  
  * If you do not use this make sure the list of counties is empty.  
-``GOTCHA`` the implementation is messy. You’ll find places where “county” is an option.
+``GOTCHA`` the implementation is messy. You’ll find places where “county” is an option even though you are not using them.
 
 ``CW3 Wiki`` [IMPORTANT RECOMMENDATIONS][5]
 
@@ -209,7 +221,7 @@ The information you provide here will be used at the top of the page and at the 
 ``TRAP``: These checkboxes to not do anything.  
  ``CRAP``: future version of CW3 is vaporware
 
-## Design
+## Design <a name="design"></a>
 
 ``CW3 Wiki`` [Design Settings][6]
 
@@ -260,7 +272,7 @@ The information you provide here will be used at the top of the page and at the 
  * [Mineral UI Color scheme][11] is designed for use on digital screens for the widest possible range of users (old, young, sight impaired, etc)  
  * The Mineral UI colour schemes will give you an approximate sense of what effect the [Relative Color Densities][12] will have.
 
-## Lists
+## Lists <a name="lists"></a>
 
 ``CW3 Wiki`` [wiki.timebanks.org/wiki/Time_Bank_Manage_Lists][13]
 
@@ -309,7 +321,7 @@ The information you provide here will be used at the top of the page and at the 
   ``CRAP`` They don’t work if the email server is broken.
 - Due to our email server hardware failure, this feature may not function as expected. If your contact form submission bounces, please write directly to your timebank coordinator. We regret this disturbance to your communications and are currently working to resolve this issue.
 
-## Email
+## Email <a name="email"></a>
 
 ``CW3 Wiki`` [Email Settings][17]
 
@@ -325,7 +337,7 @@ Use the instructions provided by CW3 help for this task.
 
 ``TIP`` Put some thought into the content of your email templates. It makes a big difference for your members who receive good information.
 
-## Payments
+## Payments <a name="payments"></a>
 
 ``CW3 Wiki`` [Payments][21]
 
