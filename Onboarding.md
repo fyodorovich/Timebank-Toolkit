@@ -11,7 +11,7 @@
 
 The process of generating a relationship of this sort has been closely studied in sales and marketing where the potential for profits is a motivator. Timebank may not have a for-profit motivation but we want the same broad outcomes. The clear message from all of the marketing advice is that developing a relationship with people in your community is a process. It requires a lot of input from you and you need to nurture your new members. 
 
-In the sales/marketing manuals they often say that there are seven touchpoints needed to convert a lead. [What are the seven touchpoints involved for Timebank?](signup.html)
+In the sales/marketing manuals they often say that there are seven touchpoints needed to convert a lead. [What are the seven touchpoints involved for Timebank?](sales_cycle.html)
 
   
 
