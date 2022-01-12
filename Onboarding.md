@@ -2,6 +2,53 @@
 
 [Community Weaver](https://fyodorovich.github.io/Timebank-Toolkit/CommunityWeaver.html) | [Onboarding Software](https://fyodorovich.github.io/Timebank-Toolkit/OnboardingSoftware.html) 
 
+## Onboarding is one of the most important jobs for a coordinator
+
+### Your role is to manage a vibrant community. 
+1. Where do those people come from? 
+2. Did you find them or did they find you? 
+3. Now that you have found each other, how do you convert them into an active and supported Timebanker?
+
+The process of generating a relationship of this sort has been closely studied in sales and marketing where the potential for profits is a motivator. Timebank may not have a for-profit motivation but we want the same broad outcomes. The clear message from all of the marketing advice is that developing a relationship with people in your community is a process. It requires a lot of input from you and you need to nurture your new members. 
+
+In the sales/marketing manuals they often say that there are seven touchpoints needed to convert a lead. What are the seven touchpoints involved for Timebank?
+
+### The Seven Stages of the Sales Cycle  
+  
+1. Prospecting  
+    *  outreach  
+    *  advertising  
+    *  events  
+    *  web presence  
+  
+1. Making Contact  
+    * conversation  
+    * online enquiries  
+  
+1. Qualifying the Lead   
+    * sign up  
+    * referees  
+    * background check  
+    
+1. Nurturing the Lead  
+    * introduction days  
+    * Training  
+  
+1. Making an Offer  
+    * starting with credit  
+    * welcome packs  
+  
+1. Handling Objections  
+    *  technical difficulties  
+    *  physical / access issue  
+    *  social issues  
+  
+1. Closing the Sale  
+    * establishing a first trade  
+  
+
+
+
 Your group leaders will have to decide how much scrutiny to place on people who want to join your Timebank. In the New Zealand context that may involve asking for a Police Background check, personal references, or personal identity documents. 
 
 Onboarding processes can take time and energy for everyone involved. They also have the potential to deter people from joining. Many other platforms only require users to provide an active email address and a "good faith" verification that they meet the entry requirements for that group. In contrast, a lengthy process can leave people by the wayside. They lose interest and may not be energetically committed. 
