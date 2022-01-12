@@ -327,15 +327,18 @@ The information you provide here will be used at the top of the page and at the 
 
 **It is extremely important to setup your email correctly**
 
-Use the instructions provided by CW3 help for this task.
+Use the [instructions provided by CW3 help][17] for this task.
 
 ``CW3 Wiki`` [Understanding email notifications][18]
 
 ``CW3 Wiki`` [How to configure CW email][19]
 
+### Email Templates
+
 ``CW3 Wiki`` [How to customize email notification templates][20]
 
 ``TIP`` Put some thought into the content of your email templates. It makes a big difference for your members who receive good information.
+
 
 ## Payments <a name="payments"></a>
 
