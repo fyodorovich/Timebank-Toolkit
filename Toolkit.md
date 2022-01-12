@@ -1,5 +1,7 @@
 # The Timebanks Toolkit
 
+``TIP`` [Using the Toolkit](Usage.html)
+
 ## Sharing and Improving the Toolkit
 The toolkit is hosted by Github and managed using a version control system. This enables us to invite and accept changes from you. We can do this easily because the system manages the process of modification, additions, and deletions. We can monitor every single change, rolling backwards and forwards with only a few mouse-clicks. 
 
