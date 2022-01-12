@@ -52,6 +52,11 @@ There are five different coordinator roles, each has a special set of tasks: Adm
 
 ## Configuring Community Weaver <a name="configuring_cw3"></a>
 
+
+``CW3 Wiki`` [Configuring New Timebank][1]
+
+``TIP``: Do your own tests. Ensure your settings are working the way that you expect them to.
+
 1. [CW3 Help Pages](#cw3_help_pages)
 2. [General Settings](#general_settings)
 3. [Sign Up](#sign_up)
@@ -68,17 +73,12 @@ There are five different coordinator roles, each has a special set of tasks: Adm
 
 ``TRAP`` The information in the help pages can be confusing. Often there is no information, just a lot of links leading you in circles.
 
-### Configuration
 
-``CW3 Wiki`` [Configuring New Timebank][1]
-
-``TIP``: Do your own tests. Ensure your settings are working the way that you expect them to.
-
-## General <a name="general_settings"></a>
+### General <a name="general_settings"></a>
 
 ``CW3 Wiki`` [TimeBank General Settings][2]
 
-### Identity
+#### Identity
 
 The information you provide here will be used at the top of the page and at the bottom of the page.
 
@@ -108,7 +108,7 @@ The information you provide here will be used at the top of the page and at the 
    ``WARNING`` This number is displayed at the bottom of every page and in emails. It will definitely be indexed by search engines.
   
 
-### Features
+#### Features
 
 ``TIP`` The choices you make here controls the behaviour of CW3.
 
@@ -143,7 +143,7 @@ The information you provide here will be used at the top of the page and at the 
   If you have a Twitter account, use this setting to put social buttons on the page and link to your account
   
 
-### Language and Text
+#### Language and Text
 
 - Localise your settings.
 - These settings are important. You should set them appropriately.
@@ -153,18 +153,18 @@ The information you provide here will be used at the top of the page and at the 
   - Time Zone: Auckland
   - Restrict Member Time Zones: Pacific
 
-## Sign Up <a name="sign_up"></a>
+### Sign Up <a name="sign_up"></a>
 
 ``CW3 Wiki`` [Signup Settings][4]
 
-### Step 1: Sign Up
+#### Step 1: Sign Up
 
 **Allow anyone to sign up?**  
   ``TIP`` This is the same as the checkbox in General->Features. (But in this case, its in the right place)
   - You may not want this option checked.
   - If you have a custom sign up form, you need to turn this option OFF and redirect users to your sign up form. We suggest you use “Special Pages” to either present your form or to redirect users to your form.
 
-### Step 2: Profile
+#### Step 2: Profile
 
 ``TIP`` Be frugal with these options. Use the absolute minimum.
 `TRAP` If users do not provide answers to every one of the options you have selected their profile will not be marked as 100% complete.  
@@ -213,23 +213,23 @@ The **Time Zone** is pointless in NZ
 - Google+
 - Web address
 
-### Step 3: External Validation
+#### Step 3: External Validation
 
 ``TRAP``: These checkboxes to not do anything.  
  ``CRAP``: future version of CW3 is vaporware
 
-## Design <a name="design"></a>
+### Design <a name="design"></a>
 
 ``CW3 Wiki`` [Design Settings][6]
 
-### Fonts
+#### Fonts
 
 - The font you choose will be used everywhere.  
   ``TIP`` Tahoma, Trebuchet, and Verdana are designed for digital screens  
   ``TRAP`` Only three of the fonts in the list where designed for reading on computers.  
   ``CRAP`` It’s easier to get it wrong than it is to get it right. Eight of the eleven options are not recommended
 
-### Logo
+#### Logo
 
 ``CW3 Wiki`` [Site Logo][7]
 
@@ -250,7 +250,7 @@ The **Time Zone** is pointless in NZ
 - You can only provide one logo file
 - If your logo was not designed to fit in a circle, or was not designed for portrait mode, it will get munched.
 
-### Colours
+#### Colours
 
 ``CW3 Wiki``[Site Colours][8]
 
@@ -269,11 +269,11 @@ The **Time Zone** is pointless in NZ
  * [Mineral UI Color scheme][11] is designed for use on digital screens for the widest possible range of users (old, young, sight impaired, etc)  
  * The Mineral UI colour schemes will give you an approximate sense of what effect the [Relative Color Densities][12] will have.
 
-## Lists <a name="lists"></a>
+### Lists <a name="lists"></a>
 
 ``CW3 Wiki`` [wiki.timebanks.org/wiki/Time_Bank_Manage_Lists][13]
 
-### Service Categories
+#### Service Categories
 
 ``CW3 Wiki`` [wiki.timebanks.org/wiki/Service_Categories][14]
 
@@ -281,15 +281,15 @@ The **Time Zone** is pointless in NZ
  * If you delete all the categories, CW3 will crash  
  * At least one top-level category and one sub-category is required.
 
-### Tags
+#### Tags
 
 - Tags are used by coordinators, not members. Use them to mark (tag) a member account for use in filtering and reporting.
 
-### Affiliations
+#### Affiliations
 
 - This is just a list of things that people might affiliate with. It could be business, sporting teams or houses of the horoscope.
 
-### Counties
+#### Counties
 
 ``Tip`` clear the default entries
 
@@ -297,7 +297,7 @@ The **Time Zone** is pointless in NZ
 
 ``TIP`` clear the default entries
 
-### Community Timebanks
+#### Community Timebanks
 
 ``CW3 Wiki`` [wiki.timebanks.org/wiki/Community_Timebanks][15]
 
@@ -308,7 +308,7 @@ The **Time Zone** is pointless in NZ
   - Members can post their ads to any, all, or none of the community Timebanks.
 - All timebank members can see all other timebank members even if they are associated with different Community Timebanks.
 
-### Contact Form Categories
+#### Contact Form Categories
 
 ``CW3 Wiki`` [wiki.timebanks.org/wiki/Contact_Form#Managing_Contact_Forms][16]
 
@@ -318,7 +318,7 @@ The **Time Zone** is pointless in NZ
   ``CRAP`` They don’t work if the email server is broken.
 - Due to our email server hardware failure, this feature may not function as expected. If your contact form submission bounces, please write directly to your timebank coordinator. We regret this disturbance to your communications and are currently working to resolve this issue.
 
-## Email <a name="email"></a>
+### Email <a name="email"></a>
 
 ``CW3 Wiki`` [Email Settings][17]
 
@@ -330,18 +330,18 @@ Use the [instructions provided by CW3 help][17] for this task.
 
 ``CW3 Wiki`` [How to configure CW email][19]
 
-### Email Templates
+#### Email Templates
 
 ``CW3 Wiki`` [How to customize email notification templates][20]
 
 ``TIP`` Put some thought into the content of your email templates. It makes a big difference for your members who receive good information.
 
 
-## Payments <a name="payments"></a>
+### Payments <a name="payments"></a>
 
 ``CW3 Wiki`` [Payments][21]
 
-### Is your timebank a Pay-to-Play community?
+#### Is your timebank a Pay-to-Play community?
 
 If so, you’ll benefit from the payment features in CW3.
 
