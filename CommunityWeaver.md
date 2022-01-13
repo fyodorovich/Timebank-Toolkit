@@ -21,6 +21,7 @@ You'll want someone in your group who is comfortable being able to configure and
 
 1. [Assigning Coordinators](#assigning_coordinators)
 2. [Configuring CW3](#configuring_cw3)
+3. [Content of Special Pages](#special_pages)
 
 ### Coordinators <a name="assigning_coordinators"></a>
 
@@ -351,6 +352,24 @@ If so, you’ll benefit from the payment features in CW3.
 [Payment feature overview][22]  
 
 [Payment feature configuration][23]
+
+## Content of Special Pages <a name="special_pages"></a>
+
+CW3 allows you to generate web pages. You can create as many pages as you like within CW3. There is no stated limit. This is an excellent feature and really should be explored fully. Good content can build and bond your community together. 
+
+Within CW3, under the gear cog icon, look for "Manage, Pages." The link will reveal the Pages module. CW3 recognises two types of pages: regular pages and special pages. We'll look at what is special about special pages but before we do that we'll discuss regular pages. 
+
+### Regular Pages
+
+The admin and the outreach coordinater are able to create pages. These pages can contain any content. With a little planning, you are able to hyperlink news and pages. This allows you to generate more focussed content and to build on previous content without having to repeat yourself. Interactivity of this kind provides a richer and more rewarding experience for your members. 
+
+``TIP`` Use relative URLs to generate links to other pages and news items. 
+
+Every page and news item has an ID number, and it is used to create a URL. When you are editing a news item or a page, the ID number will be visible in your web browser location box. For example, in this URL, "https://wellingtonsouth.timebanks.org/page/2903" the ID number is 2903. The relative URL is "/page/2093".
+
+> Relative URLS for news items begin with "/news/"   
+> Relative URLs for regular and special pages begin with "/page/"  
+
 
 
 
