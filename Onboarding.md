@@ -4,9 +4,25 @@
 # Onboarding
 _Onboarding is one of the most important jobs for a coordinator_
 
-## Getting through the Sign-up Procedure
+## What is your Sign-up Procedure?
+CW3 has user account tools built-in. They allow people to register and login. This is perfect if your timebank does not require any validation or identity checking. This is the option with the least barriers to entry. 
 
-### Your role is to manage a vibrant community. 
+> If your timebank does not have any restriction on who becomes a member then you can use the CW3 registration tools. Do this by checking the “Allow anyone to sign up” checkbox in the config area. It’s on by default.
+
+Many timebanks will ask joining members for some form of identification, such as photo ID. Others may want proof of good character (references), or a background check from the Police or Ministry of Justice. Having requirements for social validation can help to ensure the timebank members are honest and can be trusted. A barrier of this sort has a strong social purpose but it introduces a responsibility and a need for timebank coordinators to manage this process.
+
+If you have any restrictions or requirements for new members then you may want to control the signup process yourself. This will enable you to inform your prospective members of the information that they need to supply and provide a way for them to begin the process.
+
+> If you have a custom sign up form, you want the option “allow anyone to signup” to be OFF 
+
+``TIP`` Redirect users to your sign up form. You can use a “Special Page” that is pinned to your home page. In that page you can direct users to your form.
+
+``
+
+### Custom Sign-up Procedures
+
+
+## Your role is to manage a vibrant community. 
 1. Where do those people come from? 
 2. Did you find them or did they find you? 
 3. Now that you have found each other, how do you convert them into an active and supported Timebanker?
