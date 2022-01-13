@@ -1,19 +1,20 @@
-# Onboarding! Getting the People in your Community through the Sign-up Procedure
+[Home](index.html) | [Toolkit](Toolkit.html) | Administration
 
-[Community Weaver](https://fyodorovich.github.io/Timebank-Toolkit/CommunityWeaver.html) | [Onboarding Software](https://fyodorovich.github.io/Timebank-Toolkit/OnboardingSoftware.html) 
+---
+# Onboarding
+_Onboarding is one of the most important jobs for a coordinator_
 
-## Onboarding is one of the most important jobs for a coordinator
+## Getting through the Sign-up Procedure
 
 ### Your role is to manage a vibrant community. 
 1. Where do those people come from? 
 2. Did you find them or did they find you? 
 3. Now that you have found each other, how do you convert them into an active and supported Timebanker?
 
-The process of generating a relationship of this sort has been closely studied in sales and marketing where the potential for profits is a motivator. Timebank may not have a for-profit motivation but we want the same broad outcomes. The clear message from all of the marketing advice is that developing a relationship with people in your community is a process. It requires a lot of input from you and you need to nurture your new members. 
-
 In the sales/marketing manuals they often say that there are seven touchpoints needed to convert a lead. [What are the seven touchpoints involved for Timebank?](Sales_cycle.html)
 
-  
+The process of generating a relationship has been closely studied in sales and marketing. Timebanks may not have the same motivation but we want the same broad outcomes. The clear message from all of the marketing advice is that developing a relationship with people in your community is a process. It requires a lot of input from you and you need to nurture your new members. 
+
 
 ## Establishing Identity and Trust
 > Engaging with people as they navigate this process can be the key to building an active community.
