@@ -1,7 +1,6 @@
-## Timebank Toolkit 
+[Home](index.html) | [Toolkit](Toolkit.html) | Key Findings
 
-[Community Weaver](https://fyodorovich.github.io/Timebank-Toolkit/Onboarding.html)
-
+---
 # Key Findings
 
 We found that the motivating value for timebank coordinators is the wellbeing that comes from connecting with people in the community and nurturing those relationships. This is heart-centered activity. 
