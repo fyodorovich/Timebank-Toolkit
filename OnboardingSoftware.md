@@ -1,17 +1,21 @@
-[Onboarding](https://fyodorovich.github.io/Timebank-Toolkit/Onboarding.html) | [Administration](https://fyodorovich.github.io/Timebank-Toolkit/Administration.html) | 
+[Home](index.html) | [Toolkit](Toolkit.html) | [Onboarding](Onboarding.html) | Software
 
-# Getting the Right Match for your Needs
-Getting people to sign up is big business! There are dedicated software platforms that are designed to provide you with as much information and as many tools as possible to snare customers.   
+---
+# Onboarding Software
 
-## Purpose Built Tools
-  - - HubSpot
+## Getting the Right Match for your Needs
+Getting people to sign up is big business! Large companies will spend millions to attract customers and there are dedicated software platforms that are designed to provide you with as much information and as many tools as possible to engage with potential customers. Timebanks are usually swimming in much shallower waters than those whales. 
+
+## Customer Relationships
+
+- HubSpot
     Sales tool with a generous free tier and a particularly good process for capturing and converting leads. 
-    It has a bulk email limit of 2000 per month, so it may not be suitable for broadcast communications unless your group is small. 
+    The free tier has a bulk email limit of 2000 per month, so it may not be suitable for broadcast communications if your group is larger.
+- 
    
 ## Generalist Tools
 - - Trello
 - - Asana
-- - Taguchi
 - - Podio
 - - Flock
 
