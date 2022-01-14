@@ -68,7 +68,6 @@ We've provided an appraisal of the different offerings from these providers. We'
 
 
 
-``TIP`` In our opinion, the scores are so close that we wouldn't use them to pick a winner. 
 
 |Task|Microsoft365|Google Workspace|Zoho Workplace|
 |---|---|---|---|
@@ -88,6 +87,9 @@ We've provided an appraisal of the different offerings from these providers. We'
 |Email System Manager|Exchange|||
 |||||
 |**Application Rating**|**75%**|**60%**|**70%**|
+
+
+``TIP`` In our opinion, the scores are so close that we wouldn't use them to pick a winner. 
 
 
 ![A bar chart and line chart comparing Google, Microsoft, and Zoho Online suites](OnlineSuitesCompared.png)
