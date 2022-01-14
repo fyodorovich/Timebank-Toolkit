@@ -90,4 +90,4 @@ We've provided an appraisal of the different offerings from these providers. We'
 |**Application Rating**|**75%**|**60%**|**70%**|
 
 
-![A bar chart and line chart comparing Google, Microsoft, and Zoho Online suites](OnlineSuitesCompared.jpg)
+![A bar chart and line chart comparing Google, Microsoft, and Zoho Online suites](OnlineSuitesCompared.png)
