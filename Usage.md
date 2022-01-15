@@ -19,8 +19,15 @@ Throughout the text we try to bring items to your attention. You'll see items th
 ``NOTICE`` ``WARNING`` and ``ALERT`` these are things you should know    
 ``Pros`` and ``Cons`` will give you sense of what the costs and benefits are   
 
-## Contributing
+## Sharing and Improving the Toolkit<a name="contributing"></a>
 
+The toolkit is hosted by Github and managed using a version control system. This enables us to invite and accept changes from you. We can do this easily because the system manages the process of modification, additions, and deletions. We can monitor every single change, rolling backwards and forwards with only a few mouse-clicks. 
+
+Behind the scenes is a continuous deployment system. This watches our repo, and if there are any changes it will proccess them. That ensures that updates to the toolkit repo are reflected in the web site within 15mins of us editing anything. 
+
+If you want to participate, set up an account on Github and fork the toolkit. When you are ready, send a pull request through to our repo. 
+
+### Contributing
 There are several ways to contribute. The simplest is to raise an issue on the repository. We'll be notified and have a look at your issue. 
 We'll make changes in accordance with your advice or we'll start a discussion with you about it.  
 
@@ -29,6 +36,7 @@ That will provide you with a full working copy.
 Make the changes or additions that you want to see included in the Toolkit and then send a pull request. We'll be able to look at your contributions and then either accept them in full or in part. 
 
 The beauty of having the toolkit under version control is that our combined efforts can allow the toolkit to grow, becomming better and more useful.  
+
 
 ## Foundations
 The toolkit has been built using markdown formatted text files in a Github repository. 
