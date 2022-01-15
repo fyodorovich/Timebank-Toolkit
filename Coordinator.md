@@ -1,0 +1,520 @@
+# Coordinating a Timebank  
+  
+## What is the Problem?  
+  
+### There are a lot of things to do  
+  
+* What techniques can we use to manage our work?  
+* Are you managing lots of the same thing or lots of different things?  
+    * When you have lots of the same thing to do  
+        * Aggregate them  
+              
+            When you have lots of the same thing to do, something that you will repeat, you want to have a strategy that scales well. You want to reduce the amount of time required to do the work and you don’t want to repeat things unnecessarily.   
+              
+            The first thing to think about is which parts of the job can be synthesised. Some parts of the job are unique and have to be done individually. Some parts of the job are common to every item and these are the things that you want to do once or as little as possible.   
+              
+            When you do a job once you start at the beginning and work through to the end. Most of us will have a sequence for performing jobs that makes sense and it works. Lots of jobs have sequence that you need to follow. There are things that go first and things that go last. But in the middle the sequence might not matter much. When you are doing a task a lot you’ll probably find that some ways are quicker or easier than others and these become your preferred technique.   
+              
+            When you break the jobs into the parts that are common and the parts that are unique it can upset your normal sequence. You might do all of the unique things first, then do all of the common things.   
+              
+            Another thing that you may find is that you are using tools are designed to do one job at a time. This forces you to repeat your work. You want to find tools that allow you to batch actions together, or find new ways to use your tools.   
+              
+            You’ll also notice that the some of the common tasks you can do once to all of the items. Doing something once is a good thing for humans. But some of the common tasks you will have to do over and again for every item. Doing something over and again is a good job for robots.  
+  
+            * Synthesise  
+            * Itemise  
+            * sequence  
+            * workflow  
+                * Organisational Tools  
+                * Workflow Tools  
+                * Implement Strategies  
+    * When you have lots of different things to do  
+        * There are a lot of time and management techniques that are easy to implement.  
+              
+            It can be overwhelming to have a lot of things to do. Especially when they all have different needs. There are a lot of strategies for handling busy and complex workloads. The thing they all have in common is that you should prioritise.    
+              
+            Think about what must be done now and what can be done now. These are two different sets of jobs.   
+              
+            Some things that can be done now don’t need to be done now. But if it will only take a moment, why not check them off your list?  
+              
+            Some things that must be done now aren’t easy to do immediately. What can you do immediately that will help them to progress? It might be something simple, like setting aside some time later during the day, when you can work on them.  
+  
+            * Pareto Analysis (a.k.a., the 80/20 rule)  
+                * The 80/20 rule is a technique created by the Italian economist Vilfredo Pareto. It’s the idea that 20% of actions are responsible for 80% of outcomes. The goal of Pareto analysis is to help you prioritize tasks that are most effective at solving problems.  
+                * **Good for:**  
+                    * Problem solving  
+                    * Situation Analysis  
+                * **How it works:**  
+                    * **1.    List some of the problems you are facing.** For example, you have a backlog of things that you need to get done  
+                    * **2.    Identify the root cause** **of each problem.** Maybe the backlog is because your time is being spent on other people’s tasks.  
+                    * **3.    Assign a score to each problem**: Assign higher numbers to more important problems  
+                    * **4.    Group problems together by cause**: Group together all the problems caused by spending your time on other people’s work.  
+                    * **5.    Add up the score of each group**: The group with the highest score is the issue you should work on first.  
+                    * **6.    Take action**.  
+            * Pomodoro Technique  
+                * The Pomodoro Technique was created by entrepreneur and author Francesco Cirillo. This technique uses a timer to break down your work into intervals. Each interval is known as a _Pomodoro,_ named after the tomato-shaped timer that Cirillo created.  
+                * **Good for:**  
+                    * Creative tasks  
+                    * Avoiding burn out  
+                * **How it works:**  
+                    * **1.    Choose a task you need to get done**.  
+                    * **2.    Set a timer (e.g., for 25 mins)**.  
+                    * **3.    Focus on the task at hand.**  
+                    * **4.    When the timer rings, put a checkmark on a piece of paper**.  
+                    * **5.    Take a short break:** Take a break for about three to five minutes. Go for a walk, grab a cup of coffee, do something non-work-related to give your brain a break.  
+                    * **6.    Repeat steps two to five**: Once you have completed this process four times, you can begin to take longer breaks (20–30 mins).  
+            * Eisenhower Matrix  
+                * Before Dwight Eisenhower became president in 1953, he served in the U.S. Army as an Allied Forces Commander during World War II. He was faced with difficult decisions every day that led him to invent what is now called the _Eisenhower matrix_, or the _urgent-important matrix_.  
+                * **Good for:**  
+                    * Strategy Sessions  
+                    * Leadership Roles  
+                * **How it works:**  
+                    * Organize your tasks into four separate quadrants, sorting them by important vs. unimportant and urgent vs. not urgent, as shown in the graphic below. Urgent tasks are those we feel need to get done immediately. Important tasks are those that contribute to your long-term goals or values. Ideally, you should only work on tasks in the top two quadrants—the other tasks, you should delegate or delete.  
+                    * …  
+            * Parkinson’s Law  
+                * British historian Cyril Northcote Parkinson became famous for the phrase “work expands so as to fill the time available for its completion.” In other words, the amount of time you give yourself to complete a task is the amount of time it will take you to complete that task.  
+                * **Good for:**  
+                    * Avoiding Procrastination  
+                    * Generating need/pressure  
+                * **How it works:**  
+                    * This is not a time management technique _per se_. It’s a law that, when understood, can be applied as one of the most beneficial time management methods out there—but you will have to put in the work. That means working more efficiently in shorter bursts of time. Here are some tips:  
+                        * **•    Try working without a computer charger.** This will force you to finish a project before your computer dies.  
+                        * **•    Get it done early.** Instead of finishing an essay by midnight, try to get it done by noon.  
+                        * **•    Set a deadline.** Give yourself a set time to do something—and then cut it in half.  
+                        * **•    Limit time for tasks.** Give yourself only 20 minutes in the morning to answer emails.  
+            * Time Blocking Method  
+                * Inventor Elon Musk is known for being productive. He manages his time so efficiently that he can work over [<u>80 hours a week][1]</u> and still make time for himself. What’s his secret? Time blocking.  
+                * **Good for:**  
+                    * Managing Split responsibilities, i.e., work/parenting  
+                * **How it works:**  
+                    * From the moment you wake up, assign each time block in your day to a task. These tasks can be anything from eating breakfast to studying for a test. Below are the steps Elon Musk uses to block his time:  
+                        * 1.    Divide a piece of paper into two columns. On the left, write down each hour of the day and create blocks of time such as half-hour or hour chunks.  
+                        * 2.    Estimate the time it’s going to take to complete each of your tasks and fit them into your time blocks.  
+                        * 3.    Add buffer times in between each time block to allow for adjustments during the day.  
+            * Getting Things Done (GTD) Method  
+                * Created by author David Allen, this process helps you get things done by recording tasks on paper and then breaking them down into actionable work items.  
+                * **Good for:**  
+                    * Creating focus  
+                    * Simplifying the task  
+                * **How it works:**  
+                    * **1.    Capture the actions that have your attention**: These actions are tasks that can relate to anything from work to school to your personal life.  
+                    * **2.    Clarify what they mean**: Decide whether the tasks that have your attention are actionable or not. If an item is not actionable, ignore it for now. If the item is actionable, do it, delegate it, or set it aside.  
+                    * **3.    Organize your actions**: Prioritize your list according to what you need to get done when.  
+                    * **4.    Reflect**: Review your list of actions frequently to determine your next priority. Cross off tasks you have accomplished and update your list.  
+                    * **5.    Engage**: Take the actions you can complete right now.  
+            * Rapid Planning Method (RPM)  
+                * “RPM” stands for “rapid planning method” or “result, purpose, and massive action plan.” It was developed by motivational speaker Tony Robbins as a way to train your brain to focus on a vision of what you want so you can make it real.  
+                * **Good for:**  
+                    * Setting goals  
+                    * Embedding Purpose  
+                * **How it works:**  
+                    * **1.    Capturing**: Write down all the tasks you need to accomplish this week.  
+                    * **2.    Chunking**: “Chunk” your tasks together by commonalities. Which items are personal? School-related? Career-focused?  
+                    * **3.    Create your own RPM blocks:** On the top of a new sheet of paper, make three columns: the task, the result you want from completing that task, and your purpose for completing it. Next, list the actions you can take to get there.  
+                    * **4.    Create an empowering role for yourself**: If you’re a student, you might call yourself the “Study Queen.” Anything that will get you jazzed about completing your goal.  
+            * Pickle Jar Theory  
+                * This theory helps you figure out what is useful and what is not useful in your daily life. It allows you to plan tasks with time to spare and set priorities for your day.  
+                * **Good for:**  
+                    * Visual thinkers  
+                    * Concrete thinkers  
+                * **How it works:**  
+                    * Imagine a pickle jar full of sand, pebbles, and rocks. The sand is at the bottom and the rocks sit at the top.  
+                        * **1.    The sand**: This represents disrupting elements of your day, such as phone calls, text messages, emails, social media, etc.  
+                        * **2.    The pebbles**: This represents tasks that need to be completed, but can be done on another day or by someone else.  
+                        * **3.    The rocks**: These are the most important tasks that need to get done today.  
+                        * Begin by thinking about how your tasks for the day would fit into the above categories. Then make a task list starting with the rocks and ending with sand (if time permits). Include an honest time estimate next to each. Try not to plan more than six hours of an eight-hour working day. This will leave buffer time for the pebbles and sand.  
+            * Eat That Frog Technique  
+                * “Eat a live frog the first thing in the morning and nothing worse will happen to you the rest of the day.”  
+                * This quote is attributed to 18th-century French writer Nicolas Chamfort:  
+                * Start your day by doing the most onerous tasks first and getting them out of the way.  
+                * Good for:  
+                    * Overcoming obstacles  
+                    * Chipping away at large jobs  
+                * How it works:  
+                    * **1.    Get clear on a goal**. What do you want to achieve most?  
+                    * **2.    Write it down**.  
+                    * **3.    Set a deadline**.  
+                    * **4.    Compile a list** of things you need to do to achieve your goal.  
+                    * **5.    Organize this list in order of priority**. The most important items are probably the most difficult. These are your “frogs.”  
+                    * **6.    Take action**. If you have more than one frog on your plate, eat the nastiest one first.  
+                    * **7.    Repeat this cycle every day** so that you’re always doing something that will push you toward your goal.  
+  
+### Getting People to be Members  
+  
+This is one of the most important jobs for a coordinator.   
+Your role is to manage a vibrant community.   
+Where do those people come from?   
+Did you find them or did they find you?   
+Now that you have found each other, how do you convert an acquaintance into an active and supported Timebanker?  
+  
+The process of generating a relationship of this sort has been closely studied in sales and marketing where the potential for profits is a motivator. Timebank may not have a for-profit motivation but we want the same broad outcomes. The clear message from all of the marketing advice is that developing a relationship with people in your community is a process. It requires a lot of input from you and you need to nurture your new members.   
+  
+In the sales/marketing manuals they often say that there are seven touchpoints needed to convert a lead. What are the seven touchpoints involved for Timebank?  
+  
+* Signup / Onboarding  
+    * The Seven Stages of the Sales Cycle  
+        * Prospecting  
+            * outreach  
+            * advertising  
+            * events  
+            * web presence  
+        * Making Contact  
+            * conversation  
+            * online enquiries  
+        * Qualifying the Lead  
+            * sign up  
+            * referees  
+            * background check  
+        * Nurturing the Lead  
+            * introduction days  
+            * Training  
+        * Making an Offer  
+            * starting with credit  
+            * welcome packs  
+        * Handling Objections  
+            * technical difficulties  
+            * physical / access issue  
+            * social issues  
+        * Closing the Sale  
+            * establishing a first trade  
+* Which Sign up form?  
+      
+    If your timebank does not have any restriction on who becomes a member then you can use the CW3 registration tools. Do this by checking the “Allow anyone to sign up” checkbox in the config area. It’s on by default.   
+      
+    If you have any restrictions or requirements for new members then you may want to control the signup process yourself. This will enable you to inform your prospective members of the information that they need to supply and provide a way for them to begin the process.   
+      
+    If you have a custom sign up form, you need to turn option “allow anyone to signup” option OFF and redirect users to your sign up form. We suggest you use a “Special Page” that is pinned to your home page. In that page you can direct users to your form.  
+  
+    * CW3  
+    * Custom Build  
+        * Google Forms  
+        * Jot Forms  
+        * Air Tables  
+        * WordPress  
+        * HubSpot  
+  
+### Communicating with the Group  
+  
+* Broadcast Communications  
+    * CW3  
+        Link: [wiki.timebanks.org/wiki/Broadcast_Emails][2]  
+  
+    * Social Media  
+        * Facebook  
+        * Everyone Else  
+            * Twitter  
+            * Instagram  
+            * Tik-tok  
+    * SMS  
+    * Bulk Email Services  
+        * Mailchimp  
+        * Many other services  
+    * Web  
+        * Static  
+        * Permanent  
+        * You need people to visit  
+* CW3 Outreach Coordinator Tools  
+    Link: [wiki.timebanks.org/wiki/Coordinator_Permissions#Outreach_Coordinator][3]  
+  
+    * Pages  
+        * Best for stable long-form content  
+    * News  
+        * Best for short form items. These can be used as click-bait to drive readers to Pages or Events  
+    * Alerts  
+        * These are “emergency” or “immediate action” notifications. They are inserted in the top right hand corner of the window.  
+    * Links  
+        * Intended to provide an index or directory of links to your own, or external content.  
+    * Broadcast Emails  
+  
+### Engaging your Community, Driving Activity  
+  
+* Events  
+    * Organising  
+        * Project management tools  
+    * Invitations  
+        * Print  
+        * Web  
+        * Email  
+        * Social  
+        * SMS  
+  
+### Legal and Financial Responsibilities  
+  
+* Reporting  
+* The Board  
+* Keeping Books  
+  
+### Setting up CW3  
+  
+* CW3 Help Pages  
+    Link: [wiki.timebanks.org/wiki/Community_Weaver_3][4]  
+  
+    * The help pages address two different groups of readers: coordinators and members  
+    * TRAP: The information in the help pages can be confusing. Often there is no information, just a lot of links leading you in circles.  
+    * The online Community Weaver manual for coordinators  
+        Link: [wiki.timebanks.org/wiki/Help_for_Coordinators][5]  
+  
+    * Coordinator configuration options for your timebank  
+        Link: [wiki.timebanks.org/wiki/Category:Coordinator_Options][6]  
+  
+* Configuration  
+    Link: [wiki.timebanks.org/wiki/Configuring_a_New_Timebank][7]  
+  
+    * TIP: Do your own tests. Ensure your settings are working the way that you expect them to.  
+    * General  
+        Link: [wiki.timebanks.org/wiki/TimeBank_General_Settings][8]  
+  
+        * Identity  
+            * The information you provide here will be used at the top of the page and at the bottom of the page.  
+            * Site Name  
+                * Appears at the top left of the page in bold and same colour as the theme. Also appears at the bottom left with the address and telephone number.  
+            * Email Subject Brand  
+                * This is used to identify email by prefixing the subject with this text in square brackets. It would be a good idea to keep this fairly short.  
+            * Slogan  
+                * This is displayed beneath the logo, which appears on most pages.  
+            * Footer Message  
+                * This can be HTML. You can includes images, text formatting, and CSS. We don’t suggest that you try to include javascript/ECMAscript as it would probably conflict with the CW3 code.  
+            * Site Email Address  
+                Link: [wiki.timebanks.org/wiki/TimeBank_Email_Address][9]  
+  
+                * This email address is used by CW3 to direct communications to coordinators  
+                * CRAP  
+                    * At the beginning of 2022 it is broken and has been broken for some time.  
+            * Postal Address  
+                * WARNING: This address is displayed at the bottom of every page and in emails. It will definitely be indexed by search engines.  
+            * Phone Number  
+                * WARNING: This number is displayed at the bottom of every page and in emails. It will definitely be indexed by search engines.  
+        * Features  
+            * The choices you make here controls the behaviour of CW3.  
+            * Signup Page  
+                * Allow anyone to signup as a member?  
+                    * When checked, anyone can sign up  
+                        * Pros  
+                            * Easy to sign up  
+                        * Cons  
+                            * Hard to manage who signs up  
+                            * If you have referee checks, or  any other requirement, such as identity validation, then you may need a different sign up form. For a user, having to sign up multiple times is confusing and can undermine confidence.  
+                    * WARNING: If you allow anyone to sign up there is more to do. Go to Configure->Signup and follow the instructions there.  
+            * Member Privacy  
+                * Check this box at all times  
+                    * Pros  
+                        * MEMBER PRIVACY!  
+                    * Cons  
+                        * Cannot share user offers/requests with FaceBook  
+            * External Links open in new window  
+                * Generates a new browser tab for links outside CW3. This setting benefits users who are younger than the internet.  
+            * Default Ad Expiration  
+                * Choose the period that you think best suits the sort of exchanges for your group. Users can override this easily, but if they don’t need to change it, there is less friction in the offer/request process.  
+            * Facebook  
+            * Facebook Like Page  
+            * Twitter  
+            * Twitter User Name  
+            * If you have a Facebook group, use this setting to put social buttons on the page and link to your group  
+            * If you have a Twitter account, use this setting to put social buttons on the page and link to your account  
+        * Language and Text  
+            * Localise your settings.  
+            * These settings are important. You should set them appropriately.  
+            * In Aotearoa / New Zealand the settings would typically be  
+                * Default Country: New Zealand  
+                * Language: English  
+                * Time Zone: Auckland  
+                * Restrict Member Time Zones: Pacific  
+    * Sign Up  
+        Link: [wiki.timebanks.org/wiki/TimeBank_Signup_Settings][10]  
+  
+        * Step 1: Sign Up  
+            * Allow anyone to sign up?  
+                * This is the same as the checkbox in General->Features. (But in this case, its in the right place)  
+            * You may not want this option checked.  
+            * If you have a custom sign up form, you need to turn this option OFF and redirect users to your sign up form. We suggest you use “Special Pages” to either present your form or to redirect users to your form.  
+        * Step 2: Profile  
+            * TIP  
+                * Be frugal with these options. Use the absolute minimum.  
+                    * Time Zone  
+                        * Pointless in NZ  
+                    * Neighbourhood  
+                        * USA-centric. In NZ we have suburbs and don’t usually need any further breakdown.  
+                        * Users who enter their address will have included their suburb already. Asking for their “neighbourhood” is a duplication.  
+                        * If you are going to use this you MUST provide a list of neighbourhoods.  
+                        * If you do not use this, ensure that the list of neighbourhoods is empty.  
+                        * GOTCHA: Users enter neighbourhoods that are not in your list.  
+                        * GOTCHA: The implementation is a bit messy. You’ll find places where “neighbourhood” is an option.  
+                    * County  
+                        * USA-centric. Could be useful in wide-spread groups but the language is wrong, so you may not get reliable inputs.  
+                        * If you use this you MUST provide a list of “counties”  
+                        * If you do not use this make sure the list of counties is empty.  
+                        * GOTCHA: the implementation is messy. You’ll find places where “county” is an option.  
+            * TRAP  
+                * If users do not provide answers to every one of the options you select their profile will not be marked as 100% complete.  
+            * CRAP  
+                * CW3 actives recommends that MOST of options that they offer SHOULD NOT BE USED  
+                    Link: [wiki.timebanks.org/wiki/Member_Signup_Settings#IMPORTANT_RECOMMENDATIONS][11]  
+  
+                    * Profile options that are Not Recommended for use in Sign Up Forms.  
+                        * Neighborhood  
+                            County  
+                            Nickname  
+                            Phone  
+                            Phone (Work)  
+                            Phone (Home)  
+                            Phone (Cell)  
+                            Fax  
+                            Alternate email  
+                            Alternate email (home)  
+                            Alternate email (work)  
+                            Twitter  
+                            Facebook  
+                            Linkedin  
+                            Google+  
+                            Web address  
+  
+        * Step 3: External Validation  
+            * TIP: These checkboxes to not do anything.  
+            * TRAP:  see TIP  
+            * CRAP: future version of CW3 is vaporware  
+    * Design  
+        Link: [wiki.timebanks.org/wiki/TimeBank_Design_Settings][12]  
+  
+        * Fonts  
+            * The font you choose will be used everywhere.  
+            * TIP  
+                * Tahoma, Trebuchet, and Verdana are designed for digital screens  
+            * TRAP  
+                * Only three of the fonts in the list where designed for reading on computers.  
+            * CRAP  
+                * It’s easier to get it wrong than it is to get it right. Eight of the eleven options are not recommended  
+        * Logo  
+            Link: [wiki.timebanks.org/wiki/TimeBank_Design_Settings#Site_Logo][13]  
+  
+            * Use a minimum size of 500 x 500 pixels  
+            * TRAP  
+                * The site will crop your logo using a circular boundary.  
+                * The site will put your logo into narrow columns  
+            * CRAP  
+                * You can only provide one logo file  
+                * If your logo was not designed to fit in a circle, or was not designed for portrait mode, you will be unhappy.  
+            * TIP  
+                * Use a version of your logo that is approximately square  
+        * Colours (Colors)  
+            Link: [wiki.timebanks.org/wiki/TimeBank_Design_Settings#Site_Colors][14]  
+  
+            * TRAP  
+                * Actual designers who think in colour were never consulted by the programmers who developed CW3  
+                * There are too many colour options  
+                * [Relative Color Densities][15] are used for reasons that have no relevance for end-users.  
+            * CRAP  
+                * You must use all the options  
+                * The options work against each other  
+                * No matter what colours you choose. The site will use Red (#FF0000), Orange (#FFA500), Yellow(#FFFF00), and Blue (#0000FF) for various purposes.  
+                    Link: [ou.edu/research/electron/internet/bgcolors.shtml][16]  
+  
+            * TIP  
+                * [Mineral UI Color scheme][17] is designed for use on digital screens for the widest possible range of users (old, young, sight impaired, etc)  
+                * The Mineral UI colour schemes will give you an approximate sense of what effect the [Relative Color Densities][18] will have.  
+    * Lists  
+        Link: [wiki.timebanks.org/wiki/Time_Bank_Manage_Lists][19]  
+  
+        * Service Categories  
+            Link: [wiki.timebanks.org/wiki/Service_Categories][20]  
+  
+            * WARNING - DO NOT DELETE ALL THE CATEGORIES  
+                * If you delete all the categories, CW3 will crash  
+                * At least one top-level category and one sub-category is required.  
+        * Tags  
+            * Tags are used by coordinators, not members. Use them to mark (tag) a member account for use in filtering and reporting.  
+        * Affiliations  
+            * This is just a list of things that people might affiliate with. It could be business, sporting teams or houses of the horoscope.  
+        * Counties  
+            * Tip: clear the default entries  
+        * Neighbourhoods  
+            * TIP: clear the default entries  
+        * Community Timebanks  
+            Link: [wiki.timebanks.org/wiki/Community_Timebanks][21]  
+  
+            * can also be thought of as branches or sub-timebanks,  
+            * This allows Sub-groups within your timebank  
+            * If you do create community TimeBanks they are completely optional. Coordinators don’t have any control over which communities the members choose to be in.  
+                * If community TimeBanks are created, members can choose to be in any, all, or none of them.  
+                * Members can post their ads to any, all, or none of the community Timebanks.  
+            * All timebank members can see all other timebank members even if they are associated with different Community Timebanks.  
+        * Contact Form Categories  
+            Link: [wiki.timebanks.org/wiki/Contact_Form#Managing_Contact_Forms][22]  
+  
+            * Contact forms can be used by anyone, and is accessible on every page on your Timebank as an **Envelope** icon in the toolbar  
+            * TIP  
+                * Make contact forms for different purposes  
+            * TRAP  
+                * The contact form is a source of attempted spam or phishing messages  
+            * CRAP  
+                * They don’t work if the email server is broken.  
+            * Due to our email server hardware failure, this feature may not function as expected. If your contact form submission bounces, please write directly to your timebank coordinator. We regret this disturbance to your communications and are currently working to resolve this issue.  
+    * Email  
+        Link: [wiki.timebanks.org/wiki/Configuring_a_New_Timebank#Email][23]  
+  
+        * Currently affected by email server outage but still needs to be setup correctly.  
+        * [Understanding email notifications][24]  
+        * [How to configure CW email][25]  
+        * [How to customize email notification templates][26]  
+        * TIP  
+            * Put some thought into the templates. It makes a big difference to users to receive good information, even when they know it’s bot-driven.  
+    * Payments  
+        Link: [wiki.timebanks.org/wiki/Configuring_a_New_Timebank#Payments][27]  
+  
+        * Is your timebank a Pay-to-Play community? If so, you’ll benefit from the payment features in CW3.  
+        * [Payment feature overview][28]  
+        * [Payment feature configuration][29]  
+    * See Also  
+* Types of Coordinators  
+    * There are five different coordinator roles, each has a special set of tasks.  
+    * Admin, Member, and Member Support are able to do stuff for members.  
+    * You can assign coordinator roles to lots of people, so they share the workload.  
+    * You can also assign multiple coordinator roles to a single person  
+    * Admin  
+        * responsible for the site-wide aspects of the Community Weaver site and has access to everything in the timebank, especially all site-wide configurations  
+        * This coordinator does everything  
+    * Member  
+        * responsible for supporting and managing Community Weaver memberships.  
+        * This coordinator handles member profiles and activities  
+    * Member Support  
+        * responsible to support members posting offers and requests as well as recording their exchanges  
+        * This coordinator can give members a hand with exchanges  
+    * Outreach  
+        * responsible for publicity and outreach in Community Weaver  
+        * This coordinator is responsible for marketing, communications, and web content  
+    * Payments  
+        * responsible for managing member payment processing  
+        * This coordinator handles the accounts  
+    * [Timebank coordinator's roles and permissions][30]  
+* Due to our [email server hardware failure][31], the site email address is temporarily out of service. Email sent to the CW site's email address will not be sent to coordinators. Please inform your members of this issue and that they will need to send their emails directly to a coordinator's email address. We regret this disturbance to communications with your timebank members and are currently working to resolve this issue.  
+  
+[1]: https://www.vox.com/2018/11/2/18053428/recode-decode-full-podcast-transcript-elon-musk-tesla-spacex-boring-company-kara-swisher  
+[2]: http://wiki.timebanks.org/wiki/Broadcast_Emails  
+[3]: http://wiki.timebanks.org/wiki/Coordinator_Permissions#Outreach_Coordinator  
+[4]: http://wiki.timebanks.org/wiki/Community_Weaver_3  
+[5]: http://wiki.timebanks.org/wiki/Help_for_Coordinators  
+[6]: http://wiki.timebanks.org/wiki/Category:Coordinator_Options  
+[7]: http://wiki.timebanks.org/wiki/Configuring_a_New_Timebank  
+[8]: http://wiki.timebanks.org/wiki/TimeBank_General_Settings  
+[9]: http://wiki.timebanks.org/wiki/TimeBank_Email_Address  
+[10]: http://wiki.timebanks.org/wiki/TimeBank_Signup_Settings  
+[11]: http://wiki.timebanks.org/wiki/Member_Signup_Settings#IMPORTANT_RECOMMENDATIONS  
+[12]: http://wiki.timebanks.org/wiki/TimeBank_Design_Settings  
+[13]: http://wiki.timebanks.org/wiki/TimeBank_Design_Settings#Site_Logo  
+[14]: http://wiki.timebanks.org/wiki/TimeBank_Design_Settings#Site_Colors  
+[15]: http://wiki.timebanks.org/wiki/TimeBank_Design_Settings#Relative_Color_Densities  
+[16]: https://www.ou.edu/research/electron/internet/bgcolors.shtml  
+[17]: https://mineral-ui.netlify.app/color  
+[18]: http://wiki.timebanks.org/wiki/TimeBank_Design_Settings#Relative_Color_Densities  
+[19]: http://wiki.timebanks.org/wiki/Time_Bank_Manage_Lists  
+[20]: http://wiki.timebanks.org/wiki/Service_Categories  
+[21]: http://wiki.timebanks.org/wiki/Community_Timebanks  
+[22]: http://wiki.timebanks.org/wiki/Contact_Form#Managing_Contact_Forms  
+[23]: http://wiki.timebanks.org/wiki/Configuring_a_New_Timebank#Email  
+[24]: http://wiki.timebanks.org/wiki/Notification_Emails_used_in_CW  
+[25]: http://wiki.timebanks.org/wiki/TimeBank_Email_Configuration  
+[26]: http://wiki.timebanks.org/wiki/TimeBank_Email_Notifications_-_Customization  
+[27]: http://wiki.timebanks.org/wiki/Configuring_a_New_Timebank#Payments  
+[28]: http://wiki.timebanks.org/wiki/Payment_feature_overview  
+[29]: http://wiki.timebanks.org/wiki/Payment_feature_setup  
+[30]: http://wiki.timebanks.org/wiki/Coordinator_Permissions  
+[31]: http://wiki.timebanks.org/wiki/TimeBank_Email_Address  
