@@ -354,6 +354,10 @@ If so, you’ll benefit from the payment features in CW3.
 [Payment feature configuration][23]
 
 ## Content of Special Pages <a name="special_pages"></a>
+CW3 expects you to provide a certain amount of content as web pages. It calls the web pages that you are required to provide _special pages_. 
+
+```TIP``` Provide good content for the special pages, you can include images and formatting.    
+```GOTCHA``` If you only use a single sentence as content on a special page, most people will only see a big empty white page.    
 
 CW3 allows you to generate web pages. You can create as many pages as you like within CW3. There is no stated limit. This is an excellent feature and really should be explored fully. Good content can build and bond your community together. 
 
@@ -369,6 +373,31 @@ Every page and news item has an ID number, and it is used to create a URL. When 
 
 > Relative URLS for news items begin with "/news/"   
 > Relative URLs for regular and special pages begin with "/page/"  
+
+### Special Pages
+Special pages are used to describe things, like the mission of the timebank, the code of conduct, membership info, subscription instructions, and so on. These special pages need good content. Without good content your timebank web site will provide a confusing, underwhelming experience. 
+
+> The worst thing that you can do with these pages is provide a short sentence of plain text. 
+
+When the page is displayed that sentence will appear in the top left corner of the page beneath the menu. The rest of the page will be blank and the dominant impression is that the page is empty. People may not even notice the little sentence you provided. 
+
+> The best thing you can do is to provide structured text and include images
+
+Start by giving your special pages a structured outline, for example:
+```
+hero image
+Title
+section one
+text
+section two
+text and image
+section three
+text
+```
+
+Use HTML formatting so that it has visual appeal. Include images to convey ideas. The special pages may not be the most interesting aspect of the web site but they will be viewed frequently. Make them appealing. 
+
+---
 
 
 
