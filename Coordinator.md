@@ -1,10 +1,14 @@
 # Coordinating a Timebank  
   
-## What is the Problem?  
-  
-### There are a lot of things to do  
-  
-* What techniques can we use to manage our work?  
+- [Managing your Workload  ]("#Managing")
+- [Getting People to become Members]("#Members")
+- [Communicating with your Group]("#Communicating")
+- [Engaging your Community and Driving Activity]("#Engaging")
+- [Legal and Financial Responsibilities]("#Legal")
+- [Setting up CW3]("#Settings")
+
+## Managing your Workload <a name="Managing"></a>
+### What techniques can we use to manage our work?  
 * Are you managing lots of the same thing or lots of different things?  
     * When you have lots of the same thing to do  
         * Aggregate them  
@@ -40,104 +44,40 @@
             Some things that must be done now aren’t easy to do immediately. What can you do immediately that will help them to progress? It might be something simple, like setting aside some time later during the day, when you can work on them.  
   
             * Pareto Analysis (a.k.a., the 80/20 rule)  
-                * The 80/20 rule is a technique created by the Italian economist Vilfredo Pareto. It’s the idea that 20% of actions are responsible for 80% of outcomes. The goal of Pareto analysis is to help you prioritize tasks that are most effective at solving problems.  
                 * **Good for:**  
                     * Problem solving  
                     * Situation Analysis  
-                * **How it works:**  
-                    * **1.    List some of the problems you are facing.** For example, you have a backlog of things that you need to get done  
-                    * **2.    Identify the root cause** **of each problem.** Maybe the backlog is because your time is being spent on other people’s tasks.  
-                    * **3.    Assign a score to each problem**: Assign higher numbers to more important problems  
-                    * **4.    Group problems together by cause**: Group together all the problems caused by spending your time on other people’s work.  
-                    * **5.    Add up the score of each group**: The group with the highest score is the issue you should work on first.  
-                    * **6.    Take action**.  
             * Pomodoro Technique  
-                * The Pomodoro Technique was created by entrepreneur and author Francesco Cirillo. This technique uses a timer to break down your work into intervals. Each interval is known as a _Pomodoro,_ named after the tomato-shaped timer that Cirillo created.  
                 * **Good for:**  
                     * Creative tasks  
                     * Avoiding burn out  
-                * **How it works:**  
-                    * **1.    Choose a task you need to get done**.  
-                    * **2.    Set a timer (e.g., for 25 mins)**.  
-                    * **3.    Focus on the task at hand.**  
-                    * **4.    When the timer rings, put a checkmark on a piece of paper**.  
-                    * **5.    Take a short break:** Take a break for about three to five minutes. Go for a walk, grab a cup of coffee, do something non-work-related to give your brain a break.  
-                    * **6.    Repeat steps two to five**: Once you have completed this process four times, you can begin to take longer breaks (20–30 mins).  
             * Eisenhower Matrix  
-                * Before Dwight Eisenhower became president in 1953, he served in the U.S. Army as an Allied Forces Commander during World War II. He was faced with difficult decisions every day that led him to invent what is now called the _Eisenhower matrix_, or the _urgent-important matrix_.  
                 * **Good for:**  
                     * Strategy Sessions  
                     * Leadership Roles  
-                * **How it works:**  
-                    * Organize your tasks into four separate quadrants, sorting them by important vs. unimportant and urgent vs. not urgent, as shown in the graphic below. Urgent tasks are those we feel need to get done immediately. Important tasks are those that contribute to your long-term goals or values. Ideally, you should only work on tasks in the top two quadrants—the other tasks, you should delegate or delete.  
-                    * …  
             * Parkinson’s Law  
-                * British historian Cyril Northcote Parkinson became famous for the phrase “work expands so as to fill the time available for its completion.” In other words, the amount of time you give yourself to complete a task is the amount of time it will take you to complete that task.  
                 * **Good for:**  
                     * Avoiding Procrastination  
                     * Generating need/pressure  
-                * **How it works:**  
-                    * This is not a time management technique _per se_. It’s a law that, when understood, can be applied as one of the most beneficial time management methods out there—but you will have to put in the work. That means working more efficiently in shorter bursts of time. Here are some tips:  
-                        * **•    Try working without a computer charger.** This will force you to finish a project before your computer dies.  
-                        * **•    Get it done early.** Instead of finishing an essay by midnight, try to get it done by noon.  
-                        * **•    Set a deadline.** Give yourself a set time to do something—and then cut it in half.  
-                        * **•    Limit time for tasks.** Give yourself only 20 minutes in the morning to answer emails.  
             * Time Blocking Method  
-                * Inventor Elon Musk is known for being productive. He manages his time so efficiently that he can work over [<u>80 hours a week][1]</u> and still make time for himself. What’s his secret? Time blocking.  
                 * **Good for:**  
                     * Managing Split responsibilities, i.e., work/parenting  
-                * **How it works:**  
-                    * From the moment you wake up, assign each time block in your day to a task. These tasks can be anything from eating breakfast to studying for a test. Below are the steps Elon Musk uses to block his time:  
-                        * 1.    Divide a piece of paper into two columns. On the left, write down each hour of the day and create blocks of time such as half-hour or hour chunks.  
-                        * 2.    Estimate the time it’s going to take to complete each of your tasks and fit them into your time blocks.  
-                        * 3.    Add buffer times in between each time block to allow for adjustments during the day.  
             * Getting Things Done (GTD) Method  
-                * Created by author David Allen, this process helps you get things done by recording tasks on paper and then breaking them down into actionable work items.  
                 * **Good for:**  
                     * Creating focus  
                     * Simplifying the task  
-                * **How it works:**  
-                    * **1.    Capture the actions that have your attention**: These actions are tasks that can relate to anything from work to school to your personal life.  
-                    * **2.    Clarify what they mean**: Decide whether the tasks that have your attention are actionable or not. If an item is not actionable, ignore it for now. If the item is actionable, do it, delegate it, or set it aside.  
-                    * **3.    Organize your actions**: Prioritize your list according to what you need to get done when.  
-                    * **4.    Reflect**: Review your list of actions frequently to determine your next priority. Cross off tasks you have accomplished and update your list.  
-                    * **5.    Engage**: Take the actions you can complete right now.  
             * Rapid Planning Method (RPM)  
-                * “RPM” stands for “rapid planning method” or “result, purpose, and massive action plan.” It was developed by motivational speaker Tony Robbins as a way to train your brain to focus on a vision of what you want so you can make it real.  
                 * **Good for:**  
                     * Setting goals  
                     * Embedding Purpose  
-                * **How it works:**  
-                    * **1.    Capturing**: Write down all the tasks you need to accomplish this week.  
-                    * **2.    Chunking**: “Chunk” your tasks together by commonalities. Which items are personal? School-related? Career-focused?  
-                    * **3.    Create your own RPM blocks:** On the top of a new sheet of paper, make three columns: the task, the result you want from completing that task, and your purpose for completing it. Next, list the actions you can take to get there.  
-                    * **4.    Create an empowering role for yourself**: If you’re a student, you might call yourself the “Study Queen.” Anything that will get you jazzed about completing your goal.  
             * Pickle Jar Theory  
-                * This theory helps you figure out what is useful and what is not useful in your daily life. It allows you to plan tasks with time to spare and set priorities for your day.  
                 * **Good for:**  
                     * Visual thinkers  
                     * Concrete thinkers  
-                * **How it works:**  
-                    * Imagine a pickle jar full of sand, pebbles, and rocks. The sand is at the bottom and the rocks sit at the top.  
-                        * **1.    The sand**: This represents disrupting elements of your day, such as phone calls, text messages, emails, social media, etc.  
-                        * **2.    The pebbles**: This represents tasks that need to be completed, but can be done on another day or by someone else.  
-                        * **3.    The rocks**: These are the most important tasks that need to get done today.  
-                        * Begin by thinking about how your tasks for the day would fit into the above categories. Then make a task list starting with the rocks and ending with sand (if time permits). Include an honest time estimate next to each. Try not to plan more than six hours of an eight-hour working day. This will leave buffer time for the pebbles and sand.  
             * Eat That Frog Technique  
-                * “Eat a live frog the first thing in the morning and nothing worse will happen to you the rest of the day.”  
-                * This quote is attributed to 18th-century French writer Nicolas Chamfort:  
-                * Start your day by doing the most onerous tasks first and getting them out of the way.  
                 * Good for:  
                     * Overcoming obstacles  
                     * Chipping away at large jobs  
-                * How it works:  
-                    * **1.    Get clear on a goal**. What do you want to achieve most?  
-                    * **2.    Write it down**.  
-                    * **3.    Set a deadline**.  
-                    * **4.    Compile a list** of things you need to do to achieve your goal.  
-                    * **5.    Organize this list in order of priority**. The most important items are probably the most difficult. These are your “frogs.”  
-                    * **6.    Take action**. If you have more than one frog on your plate, eat the nastiest one first.  
-                    * **7.    Repeat this cycle every day** so that you’re always doing something that will push you toward your goal.  
   
 ### Getting People to be Members  
   
