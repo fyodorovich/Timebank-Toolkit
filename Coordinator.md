@@ -19,28 +19,10 @@ do somethings a lot.
 ``TIP`` _Apply a [time and management technique](TimeManagement.html) that suits the situation_  
               
   
-## Getting People to be Members  
-  
-This is one of the most important jobs for a coordinator. Your role is to manage a vibrant community. Where do those people come from? Did you find them or did they find you? When you have found each other, how do you nurture and support them to become an active and committed Timebanker?  
-  
-The process of generating a relationship of this sort has been closely studied in sales and marketing where the potential for profits is a motivator. Timebank may not have a for-profit motivation but we want the same broad outcomes. The clear message from all of the marketing advice is that [developing a relationship with people in your community is a process](Onboarding.html). It requires a lot of input from you and you need to nurture your new members.   
- 
+## Getting People to be Members  <a name="Members"></a>
 
-* Which Sign up form?  
-      
-    If your timebank does not have any restriction on who becomes a member then you can use the CW3 registration tools. Do this by checking the “Allow anyone to sign up” checkbox in the config area. It’s on by default.   
-      
-    If you have any restrictions or requirements for new members then you may want to control the signup process yourself. This will enable you to inform your prospective members of the information that they need to supply and provide a way for them to begin the process.   
-      
-    If you have a custom sign up form, you need to turn option “allow anyone to signup” option OFF and redirect users to your sign up form. We suggest you use a “Special Page” that is pinned to your home page. In that page you can direct users to your form.  
-  
-    * CW3  
-    * Custom Build  
-        * Google Forms  
-        * Jot Forms  
-        * Air Tables  
-        * WordPress  
-        * HubSpot  
+This is one of the most important jobs for a coordinator. Your role is to manage a vibrant community. Where do those people come from? Did you find them or did they find you? When you have found each other, how do you nurture and support them to [become an active and committed Timebanker](Members.html)?  
+
   
 ### Communicating with the Group  
   
