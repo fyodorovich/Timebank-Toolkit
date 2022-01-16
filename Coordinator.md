@@ -11,54 +11,21 @@
 
 _What techniques can we use to manage our work?_
 
-The way to reduce your workload depends on the type of work you are doing. Are you repeating the same thing with minor variations or are you managing lots of things that are different from one another?
+The way to reduce your workload depends on the type of work you are doing. Are you repeating the same thing with minor variations or are you managing lots of things that are different from one another? Most of us will find that we need to do both: manage a variety of jobs and 
+do somethings a lot.  
 
-``TIP`` _When you have lots of the same thing to do: aggregate and automate these jobs_  
+``TIP`` _When you have lots of the same thing to do: [aggregate and automate these jobs](Automate.html)_  
 
-``TIP`` _Apply a time and management technique that suits the situation_  
+``TIP`` _Apply a [time and management technique](TimeManagement.html) that suits the situation_  
               
-[I need to Manage a Variety of Jobs](TimeManagement.html)  
-[I have to do the Same thing Everyday](Automation.html)  
+  
+## Getting People to be Members  
+  
+This is one of the most important jobs for a coordinator. Your role is to manage a vibrant community. Where do those people come from? Did you find them or did they find you? When you have found each other, how do you nurture and support them to become an active and committed Timebanker?  
+  
+The process of generating a relationship of this sort has been closely studied in sales and marketing where the potential for profits is a motivator. Timebank may not have a for-profit motivation but we want the same broad outcomes. The clear message from all of the marketing advice is that [developing a relationship with people in your community is a process](Onboarding.html). It requires a lot of input from you and you need to nurture your new members.   
+ 
 
-  
-### Getting People to be Members  
-  
-This is one of the most important jobs for a coordinator.   
-Your role is to manage a vibrant community.   
-Where do those people come from?   
-Did you find them or did they find you?   
-Now that you have found each other, how do you convert an acquaintance into an active and supported Timebanker?  
-  
-The process of generating a relationship of this sort has been closely studied in sales and marketing where the potential for profits is a motivator. Timebank may not have a for-profit motivation but we want the same broad outcomes. The clear message from all of the marketing advice is that developing a relationship with people in your community is a process. It requires a lot of input from you and you need to nurture your new members.   
-  
-In the sales/marketing manuals they often say that there are seven touchpoints needed to convert a lead. What are the seven touchpoints involved for Timebank?  
-  
-* Signup / Onboarding  
-    * The Seven Stages of the Sales Cycle  
-        * Prospecting  
-            * outreach  
-            * advertising  
-            * events  
-            * web presence  
-        * Making Contact  
-            * conversation  
-            * online enquiries  
-        * Qualifying the Lead  
-            * sign up  
-            * referees  
-            * background check  
-        * Nurturing the Lead  
-            * introduction days  
-            * Training  
-        * Making an Offer  
-            * starting with credit  
-            * welcome packs  
-        * Handling Objections  
-            * technical difficulties  
-            * physical / access issue  
-            * social issues  
-        * Closing the Sale  
-            * establishing a first trade  
 * Which Sign up form?  
       
     If your timebank does not have any restriction on who becomes a member then you can use the CW3 registration tools. Do this by checking the “Allow anyone to sign up” checkbox in the config area. It’s on by default.   
