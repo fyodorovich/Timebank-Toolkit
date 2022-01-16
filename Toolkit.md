@@ -10,6 +10,7 @@
 - [Coordinating a Timebank](Coordinator.html)    
   - [Preparing Yourself](TimeManagement.html)    
   - [Administration](Administration.html)    
+  - [Building Membership](Members.html)    
   - [Onboarding](Onboarding.html)    
   - [Outreach](Outreach.html)    
 - [Tools for the Organisation](Organisation.html)    
