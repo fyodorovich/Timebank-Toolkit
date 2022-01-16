@@ -9,75 +9,61 @@
 
 ## Managing your Workload <a name="Managing"></a>
 ### What techniques can we use to manage our work?  
-* Are you managing lots of the same thing or lots of different things?  
-    * When you have lots of the same thing to do  
-        * Aggregate them  
+
+#### Are you managing lots of the same thing or lots of different things?  
+
+##### When you have lots of the same thing to do  
+
+**Aggregate your Work** 
               
-            When you have lots of the same thing to do, something that you will repeat, you want to have a strategy that scales well. You want to reduce the amount of time required to do the work and you don’t want to repeat things unnecessarily.   
-              
-            The first thing to think about is which parts of the job can be synthesised. Some parts of the job are unique and have to be done individually. Some parts of the job are common to every item and these are the things that you want to do once or as little as possible.   
-              
-            When you do a job once you start at the beginning and work through to the end. Most of us will have a sequence for performing jobs that makes sense and it works. Lots of jobs have sequence that you need to follow. There are things that go first and things that go last. But in the middle the sequence might not matter much. When you are doing a task a lot you’ll probably find that some ways are quicker or easier than others and these become your preferred technique.   
-              
-            When you break the jobs into the parts that are common and the parts that are unique it can upset your normal sequence. You might do all of the unique things first, then do all of the common things.   
-              
-            Another thing that you may find is that you are using tools are designed to do one job at a time. This forces you to repeat your work. You want to find tools that allow you to batch actions together, or find new ways to use your tools.   
-              
-            You’ll also notice that the some of the common tasks you can do once to all of the items. Doing something once is a good thing for humans. But some of the common tasks you will have to do over and again for every item. Doing something over and again is a good job for robots.  
+When you have lots of the same thing to do, something that you will repeat, you want to have a strategy that scales well. You want to reduce the amount of time required to do the work and you don’t want to repeat things unnecessarily.   
+  
+The first thing to think about is which parts of the job can be synthesised. Some parts of the job are unique and have to be done individually. Some parts of the job are common to every item and these are the things that you want to do once or as little as possible.   
+  
+When you do a job once you start at the beginning and work through to the end. Most of us will have a sequence for performing jobs that makes sense and it works. Lots of jobs have sequence that you need to follow. There are things that go first and things that go last. But in the middle the sequence might not matter much. When you are doing a task a lot you’ll probably find that some ways are quicker or easier than others and these become your preferred technique.   
+  
+When you break the jobs into the parts that are common and the parts that are unique it can upset your normal sequence. You might do all of the unique things first, then do all of the common things.   
+  
+Another thing that you may find is that you are using tools are designed to do one job at a time. This forces you to repeat your work. You want to find tools that allow you to batch actions together, or find new ways to use your tools.   
+  
+You’ll also notice that the some of the common tasks you can do once to all of the items. Doing something once is a good thing for humans. But some of the common tasks you will have to do over and again for every item. Doing something over and again is a good job for robots.  
+
+
   
             * Synthesise  
             * Itemise  
-            * sequence  
+            * Sequence  
             * workflow  
                 * Organisational Tools  
                 * Workflow Tools  
                 * Implement Strategies  
-    * When you have lots of different things to do  
-        * There are a lot of time and management techniques that are easy to implement.  
+		
+		
+##### When you have lots of different things to do  
+
+``TIP`` Time and management techniques are easy to implement
               
-            It can be overwhelming to have a lot of things to do. Especially when they all have different needs. There are a lot of strategies for handling busy and complex workloads. The thing they all have in common is that you should prioritise.    
-              
-            Think about what must be done now and what can be done now. These are two different sets of jobs.   
-              
-            Some things that can be done now don’t need to be done now. But if it will only take a moment, why not check them off your list?  
-              
-            Some things that must be done now aren’t easy to do immediately. What can you do immediately that will help them to progress? It might be something simple, like setting aside some time later during the day, when you can work on them.  
+It can be overwhelming to have a lot of things to do. Especially when they all have different needs and actions. Fortunately, there are some great strategies for handling busy and complex workloads. They all differ a bit, and that's partly because we all have different approaches, and partly because different situations need a different approach.      
+
   
-          * Pareto Analysis (a.k.a., the 80/20 rule)  
-	* Good for:  
-		* Problem solving  
-		* Situation Analysis  
-* Pomodoro Technique  
-	* Good for:  
-		* Creative tasks  
-		* Avoiding burn out  
-* Eisenhower Matrix  
-	* Good for:  
-		* Strategy Sessions  
-		* Leadership Roles  
-* Parkinson’s Law  
-	* Good for:  
-		* Avoiding Procrastination  
-		* Generating need/pressure  
-* Time Blocking Method  
-	* Good for:  
-		* Managing Split responsibilities, i.e., work/parenting  
-* Getting Things Done (GTD) Method  
-	* Good for:  
-		* Creating focus  
-		* Simplifying the task  
-* Rapid Planning Method (RPM)  
-	* Good for:  
-		* Setting goals  
-		* Embedding Purpose  
-* Pickle Jar Theory  
-	* Good for:  
-		* Visual thinkers  
-		* Concrete thinkers  
-* Eat That Frog Technique  
-	* Good for:  
-		* Overcoming obstacles  
-		* Chipping away at large jobs  
+1. [Pareto Analysis](Pareto.html) (a.k.a., the 80/20 rule)  
+    Good for: Problem solving and Situation Analysis  
+2. [Pomodoro Technique](Pomodoro.html)  
+    Good for: Creative tasks  and Avoiding burn out  
+3. [Eisenhower Matrix](Eisenhower.html)  
+    Good for:  Strategy Sessions  and Leadership Roles  
+4. [Parkinson’s Law](Parkinson.html)
+    Good for:  Avoiding Procrastination and Generating need/pressure  
+5. [Time Blocking Method](TimeBlock.html)  
+   Good for:  Managing Split responsibilities, i.e., work/parenting  
+6. [Getting Things Done (GTD) Method](GetThingsDone.html)  
+    Good for:   Creating focus  
+7. [Rapid Planning Method](Rapid.html)  
+   Good for:   Setting goals  and Embedding Purpose  
+8. [Pickle Jar Theory](Pickle.html)  
+Good for:  Visual thinkers and Concrete thinkers  
+9. [Eat That Frog Technique](EatTheFrog.html)  
+   Good for:   Overcoming obstacles  and Chipping away at large jobs  
   
 ### Getting People to be Members  
   
