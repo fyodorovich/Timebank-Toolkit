@@ -7,9 +7,11 @@
 
 - [Research Findings](Findings.html)    
 - [Setting up CW3](CommunityWeaver.html)    
-- [Administration](Administration.html)    
-- [Onboarding](Onboarding.html)    
-- [Outreach](Outreach.html)    
+- [Coordinating a Timebank](Coordinator.html)    
+  - [Preparing Yourself](CommunityWeaver.html)    
+  - [Administration](Administration.html)    
+  - [Onboarding](Onboarding.html)    
+  - [Outreach](Outreach.html)    
 - [Tools for the Organisation](Organisation.html)    
-- [Productivity](Productivity.html)    
+- [Productivity](Productivity.html) & [Automation](Automate.html)     
 
