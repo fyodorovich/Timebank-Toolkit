@@ -1,11 +1,11 @@
 # Coordinating a Timebank  
   
-- [Managing your Workload]("#Managing")
-- [Getting People to become Members]("#Members")
-- [Communicating with your Group]("#Communicating")
-- [Engaging your Community and Driving Activity]("#Engaging")
-- [Legal and Financial Responsibilities]("#Legal")
-- [Setting up CW3]("#Settings")
+- [Managing your Workload](#Managing)
+- [Getting People to become Members](#Members)
+- [Communicating with your Group](#Communicating)
+- [Engaging your Community and Driving Activity](#Engaging)
+- [Legal and Financial Responsibilities](#Legal)
+- [Setting up CW3](#Settings)
 
 ## Managing your Workload <a name="Managing"></a>
 
