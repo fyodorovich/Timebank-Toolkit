@@ -11,40 +11,15 @@
 
 _What techniques can we use to manage our work?_
 
-It can be overwhelming to have a lot of things to do. Especially when they all have different needs and actions. Fortunately, there are some great strategies for handling busy and complex workloads. They all differ a bit, and that's partly because we all have different approaches, and partly because different situations need a different approach.   
+The way to reduce your workload depends on the type of work you are doing. Are you repeating the same thing with minor variations or are you managing lots of things that are different from one another?
 
-**Are you managing lots of the same thing or lots of different things?**
+``TIP`` _When you have lots of the same thing to do: aggregate and automate these jobs_  
 
-``TIP`` When you have lots of the same thing to do: aggregate and automate these jobs
-
-
-		
-		
-### When you have lots of different things to do  
-
-``TIP`` Time and management techniques are easy to implement
+``TIP`` _Apply a time and management technique that suits the situation_  
               
-It can be overwhelming to have a lot of things to do. Especially when they all have different needs and actions. Fortunately, there are some great strategies for handling busy and complex workloads. They all differ a bit, and that's partly because we all have different approaches, and partly because different situations need a different approach.      
+[I need to Manage a Variety of Jobs](TimeManagement.html)  
+[I have to do the Same thing Everyday](Automation.html)  
 
-  
-1. [Pareto Analysis](Pareto.html) (a.k.a., the 80/20 rule)  
-    Good for: Problem solving and Situation Analysis  
-2. [Pomodoro Technique](Pomodoro.html)  
-    Good for: Creative tasks  and Avoiding burn out  
-3. [Eisenhower Matrix](Eisenhower.html)  
-    Good for:  Strategy Sessions  and Leadership Roles  
-4. [Parkinson’s Law](Parkinson.html)
-    Good for:  Avoiding Procrastination and Generating need/pressure  
-5. [Time Blocking Method](TimeBlock.html)  
-   Good for:  Managing Split responsibilities, i.e., work/parenting  
-6. [Getting Things Done (GTD) Method](GetThingsDone.html)  
-    Good for:   Creating focus  
-7. [Rapid Planning Method](Rapid.html)  
-   Good for:   Setting goals  and Embedding Purpose  
-8. [Pickle Jar Theory](Pickle.html)  
-Good for:  Visual thinkers and Concrete thinkers  
-9. [Eat That Frog Technique](EatTheFrog.html)  
-   Good for:   Overcoming obstacles  and Chipping away at large jobs  
   
 ### Getting People to be Members  
   
