@@ -1,6 +1,6 @@
 # Coordinating a Timebank  
   
-- [Managing your Workload  ]("#Managing")
+- [Managing your Workload]("#Managing")
 - [Getting People to become Members]("#Members")
 - [Communicating with your Group]("#Communicating")
 - [Engaging your Community and Driving Activity]("#Engaging")
