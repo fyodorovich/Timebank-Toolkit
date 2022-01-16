@@ -43,41 +43,41 @@
               
             Some things that must be done now aren’t easy to do immediately. What can you do immediately that will help them to progress? It might be something simple, like setting aside some time later during the day, when you can work on them.  
   
-            * Pareto Analysis (a.k.a., the 80/20 rule)  
-                * **Good for:**  
-                    * Problem solving  
-                    * Situation Analysis  
-            * Pomodoro Technique  
-                * **Good for:**  
-                    * Creative tasks  
-                    * Avoiding burn out  
-            * Eisenhower Matrix  
-                * **Good for:**  
-                    * Strategy Sessions  
-                    * Leadership Roles  
-            * Parkinson’s Law  
-                * **Good for:**  
-                    * Avoiding Procrastination  
-                    * Generating need/pressure  
-            * Time Blocking Method  
-                * **Good for:**  
-                    * Managing Split responsibilities, i.e., work/parenting  
-            * Getting Things Done (GTD) Method  
-                * **Good for:**  
-                    * Creating focus  
-                    * Simplifying the task  
-            * Rapid Planning Method (RPM)  
-                * **Good for:**  
-                    * Setting goals  
-                    * Embedding Purpose  
-            * Pickle Jar Theory  
-                * **Good for:**  
-                    * Visual thinkers  
-                    * Concrete thinkers  
-            * Eat That Frog Technique  
-                * Good for:  
-                    * Overcoming obstacles  
-                    * Chipping away at large jobs  
+          * Pareto Analysis (a.k.a., the 80/20 rule)  
+	* Good for:  
+		* Problem solving  
+		* Situation Analysis  
+* Pomodoro Technique  
+	* Good for:  
+		* Creative tasks  
+		* Avoiding burn out  
+* Eisenhower Matrix  
+	* Good for:  
+		* Strategy Sessions  
+		* Leadership Roles  
+* Parkinson’s Law  
+	* Good for:  
+		* Avoiding Procrastination  
+		* Generating need/pressure  
+* Time Blocking Method  
+	* Good for:  
+		* Managing Split responsibilities, i.e., work/parenting  
+* Getting Things Done (GTD) Method  
+	* Good for:  
+		* Creating focus  
+		* Simplifying the task  
+* Rapid Planning Method (RPM)  
+	* Good for:  
+		* Setting goals  
+		* Embedding Purpose  
+* Pickle Jar Theory  
+	* Good for:  
+		* Visual thinkers  
+		* Concrete thinkers  
+* Eat That Frog Technique  
+	* Good for:  
+		* Overcoming obstacles  
+		* Chipping away at large jobs  
   
 ### Getting People to be Members  
   
