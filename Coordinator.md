@@ -11,6 +11,8 @@
 
 _What techniques can we use to manage our work?_
 
+It can be overwhelming to have a lot of things to do. Especially when they all have different needs and actions. Fortunately, there are some great strategies for handling busy and complex workloads. They all differ a bit, and that's partly because we all have different approaches, and partly because different situations need a different approach.   
+
 **Are you managing lots of the same thing or lots of different things?**
 
 ``TIP`` When you have lots of the same thing to do: aggregate and automate these jobs
@@ -18,7 +20,7 @@ _What techniques can we use to manage our work?_
 
 		
 		
-##### When you have lots of different things to do  
+### When you have lots of different things to do  
 
 ``TIP`` Time and management techniques are easy to implement
               
