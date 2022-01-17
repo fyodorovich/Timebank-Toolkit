@@ -7,4 +7,35 @@
 ## Facebook
 
 ## Why Bulk Mail Services?
-
+  
+## CW3  
+  
+``CW3 Link`` [wiki.timebanks.org/wiki/Broadcast_Emails][1]  
+  
+## Social Media  
+  
+### Facebook  
+  
+### Everyone Else  
+* Twitter  
+* Instagram  
+* Tik-tok  
+  
+## SMS  
+  
+## Bulk Email Services  
+  
+### Mailchimp  
+  
+### Many other services  
+  
+## Web  
+  
+### Static  
+  
+### Permanent  
+  
+### You need people to visit  
+  
+  
+[1]: http://wiki.timebanks.org/wiki/Broadcast_Emails  
