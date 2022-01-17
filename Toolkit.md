@@ -8,7 +8,7 @@
 - [Research Findings](Findings.html)    
 - [Setting up CW3](CommunityWeaver.html)    
 - [Coordinating a Timebank](Coordinator.html)    
-  - [Preparing Yourself](TimeManagement.html)    
+  - [Preparing yourself and your Team](TimeManagement.html)    
   - [Administration Coordinator](Administration.html)    
   - [Membership Coordinator](Members.html)    
   - [Communications Coordinator](Outreach.html)    
