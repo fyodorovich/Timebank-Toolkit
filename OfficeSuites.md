@@ -21,45 +21,47 @@ We've provided an appraisal of the different offerings from these providers. We'
 
 #### Zoho
 ``Pros`` 
-  - Zoho provided the most comprehensive suite of tools.   
-  - Its tools have the most features
-  - Excellent user interface
-  - Modular tool universe allows you to choose what you pay for
-  - Offers a free tier for small number of users
-  
-  ``Cons``
-  - Offers the smallest capacity for all resources, such as amount of storage per user. 
-  - Cost grows as you add features
-  - Not as widely used
+- Zoho provided the most comprehensive suite of tools.   
+- Its tools have the most features
+- Excellent user interface
+- Modular tool universe allows you to choose what you pay for
+- Offers a free tier for small number of users
+
+``Cons``
+- Offers the smallest capacity for all resources, such as amount of storage per user. 
+- Cost grows as you add features
+- Not as widely used
+
+``TRAP`` Offers the lowest cost of entry but can become more expensive 
 
 #### Google
 ``Pros``
-    - It's good on the basics   
-    - Many people already have an account
-    - It is familiar
-    - Many other people, groups, and businesses use it
-    - offers a free tier for individuals
+- It's good on the basics   
+- Many people already have an account  
+- It is familiar  
+- Many other people, groups, and businesses use it  
+- offers a free tier for individuals  
     
 ``Cons`` 
-   - Google provides the least features for each of the tools
-   - minimal creative tools: photo, drawing, layout, design, video
-   - Company culture
-   - active monopolist
+- Google provides the least features for each of the tools  
+- minimal creative tools: photo, drawing, layout, design, video  
+- Company culture  
+- active monopolist  
 
 #### Microsoft
 ``Pros`` 
-   - Good features that reflect its heritage
-   - Desktop and Online tools are equivalent
-   - Desktop and Online users can share the same documents   
-   - offers a free tier
-   - offers a very affordable "family" tier
-   - offers the most capacity for storage and resources
+- Good features that reflect its heritage
+- Desktop and Online tools are equivalent
+- Desktop and Online users can share the same documents   
+- offers a free tier
+- offers a very affordable "family" tier
+- offers the most capacity for storage and resources
 
 ``Cons``
   - Does not have creative tools: photo, drawing, layout, design, video
 
 
-
+### Ratings
 
 |Task|Microsoft365|Google Workspace|Zoho Workplace|
 |---|---|---|---|
@@ -85,3 +87,73 @@ We've provided an appraisal of the different offerings from these providers. We'
 
 
 ![A bar chart and line chart comparing Google, Microsoft, and Zoho Online suites](OnlineSuitesCompared.png)
+
+
+**Microsoft 365**  
+Task|Application|Ease of Use|Toolset|Power User|Technical Hurdle|Score
+-|-|-|-|-|-|-
+Email|Outlook|***|****|****|**|70%
+Collaboration|Teams|***|****|*****|**|75%
+Video conference|Teams|***|****|****|**|70%
+Calendar|Calendar|***|****|*****|**|75%
+Notepad|OneNote|*****|****|****|**|80%
+Whiteboard|OneNote|****|****|***|**|70%
+Reminders|ToDo|*****|****|***|**|75%
+Word Processor|Word|***|****|*****|**|75%
+Spreadsheet|Excel|***|****|*****|**|75%
+Presentation|PowerPoint|**|***|***|**|55%
+Online Forms|Forms|****|****|****|***|70%
+Document Management|SharePoint|***|*****|*****|***|75%
+Cloud Storage|OneDrive|*****|****|****|**|80%
+Email Account Manager|Exchange|*|****|****|****|50%
+Median Value Overall||||||75%
+
+**Google Workspace**  
+Task|Application|Ease of Use|Toolset|Power User|Technical Hurdle|Score
+-|-|-|-|-|-|-
+Email|Gmail|***|***|***|**|60%
+Collaboration|Chat|***|***|***|**|60%
+Video conference|Meet|***|***|***|**|60%
+Calendar|Calendar|***|***|****|**|65%
+Notepad|Keep|**|**|**|**|45%
+Whiteboard|Jamboard|****|***|**|**|60%
+Reminders|Keep|****|**|**|**|55%
+Word Processor|Docs|***|***|***|**|60%
+Spreadsheet|Sheets|***|***|***|**|60%
+Presentation|Slides|**|***|***|**|55%
+Online Forms|Forms|***|****|****|***|65%
+Document Management|Google Docs + Google Sites|****|***|***|***|60%
+Cloud Storage|Drive|*****|****|****|**|80%
+Email Account Manager|-||||*****|0%
+Median Value Overall||||||60%
+
+
+**Zoho Workplace**  
+Task|Application|Ease of Use|Toolset|Power User|Technical Hurdle|Score
+-|-|-|-|-|-|-
+Email|Mail|****|***|***|**|65%
+Collaboration|Connect|****|****|****|**|75%
+Video conference|Cliq|****|****|****|**|75%
+Calendar|Mail - Calendar|****|****|****|**|75%
+Notepad|Mail - Notes|****|****|****|**|75%
+Whiteboard|Project|****|****|****|**|75%
+Reminders|Mail - Reminders|****|****|****|**|75%
+Word Processor|Writer|***|***|***|**|60%
+Spreadsheet|Sheets|***|***|***|**|60%
+Presentation|Show|***|***|***|**|60%
+Online Forms|Forms|***|***|***|***|55%
+Document Management|Docs|****|***|***|***|60%
+Cloud Storage|WorkDrive|*****|****|****|**|80%
+Email Account Manager|-||||*****|0%
+Median Value Overall||||||70%
+
+
+**How the Scoring Works**
+Item|Scoring
+-|-
+Technical Hurdle|**Low Scores are Better**
+Ease of Use|High Scores are Better
+Tool Set|High Scores are Better
+Power User|High Scores are Better
+Overall Score|High Scores are Better
+Median Value|High Scores are Better
