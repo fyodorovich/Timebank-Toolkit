@@ -1,3 +1,5 @@
+[Home](index.html) | [Toolkit](Toolkit.html)
+
 # Building a Community 
 
 ## Getting People to be Members 
