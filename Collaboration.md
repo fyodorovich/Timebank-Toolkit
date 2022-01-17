@@ -1,4 +1,4 @@
-[Home](index.html) | [Toolkit](Toolkit.html) | [Organisation](Organisation.html) | Collaboration
+[Home](index.html) | [Toolkit](Toolkit.html) | [Organisation](Organisation.html)
 
 ---
 # Collaborating Online
