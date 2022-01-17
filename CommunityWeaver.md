@@ -238,8 +238,7 @@ The **Time Zone** is pointless in NZ
 
 ``TIP``
 
-- Use a minimum logo size of 500 x 500 pixels
-  
+- Use a minimum logo size of 500 x 500 pixels  
 - Use a version of your logo that is approximately square
   
 
