@@ -1,6 +1,6 @@
-[Home](index.html) | [Toolkit](Toolkit.html) | Administration
+[Home](index.html) | [Toolkit](Toolkit.html) 
 
----
+
 # Onboarding
 _Onboarding is one of the most important jobs for a coordinator_
 
