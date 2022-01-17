@@ -28,48 +28,20 @@ This is one of the most important jobs for a coordinator. Your role is to manage
   
 ### Communicating with the Group  <a name="Communicating"></a>
   
+
+* CW3 Outreach Coordinator Tools  
+    Link: [wiki.timebanks.org/wiki/Coordinator_Permissions#Outreach_Coordinator][3]  
+  
 * Broadcast Communications  
     * CW3  
         Link: [wiki.timebanks.org/wiki/Broadcast_Emails][2]  
   
-    * Social Media  
-        * Facebook  
-        * Everyone Else  
-            * Twitter  
-            * Instagram  
-            * Tik-tok  
-    * SMS  
-    * Bulk Email Services  
-        * Mailchimp  
-        * Many other services  
-    * Web  
-        * Static  
-        * Permanent  
-        * You need people to visit  
-* CW3 Outreach Coordinator Tools  
-    Link: [wiki.timebanks.org/wiki/Coordinator_Permissions#Outreach_Coordinator][3]  
-  
-    * Pages  
-        * Best for stable long-form content  
-    * News  
-        * Best for short form items. These can be used as click-bait to drive readers to Pages or Events  
-    * Alerts  
-        * These are “emergency” or “immediate action” notifications. They are inserted in the top right hand corner of the window.  
-    * Links  
-        * Intended to provide an index or directory of links to your own, or external content.  
-    * Broadcast Emails  
   
 ### Engaging your Community, Driving Activity  <a name="Engaging"></a>
   
 * Events  
     * Organising  
-        * Project management tools  
     * Invitations  
-        * Print  
-        * Web  
-        * Email  
-        * Social  
-        * SMS  
   
 ### Legal and Financial Responsibilities  <a name="Legal"></a>
   
@@ -79,16 +51,10 @@ This is one of the most important jobs for a coordinator. Your role is to manage
   
 ### Setting up CW3  <a name="Settings"></a>
 
-``CW3 Link`` [wiki.timebanks.org/wiki/Community_Weaver_3][4]  
-``CW3 Link`` [wiki.timebanks.org/wiki/Help_for_Coordinators][5]  
-``CW3 Link`` [wiki.timebanks.org/wiki/Category:Coordinator_Options][6]  
-
 Community Weaver has a lot of settings and options. Our [setup guide to configuring CW3](CommunityWeaver.html) walks through the most important steps you should take to ensure that your timebank is operating at its best. 
 
 
 [1]: https://www.vox.com/2018/11/2/18053428/recode-decode-full-podcast-transcript-elon-musk-tesla-spacex-boring-company-kara-swisher  
 [2]: http://wiki.timebanks.org/wiki/Broadcast_Emails  
 [3]: http://wiki.timebanks.org/wiki/Coordinator_Permissions#Outreach_Coordinator  
-[4]: http://wiki.timebanks.org/wiki/Community_Weaver_3  
-[5]: http://wiki.timebanks.org/wiki/Help_for_Coordinators  
-[6]: http://wiki.timebanks.org/wiki/Category:Coordinator_Options  
+
