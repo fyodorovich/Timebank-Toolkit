@@ -150,10 +150,10 @@ The information you provide here will be used at the top of the page and at the 
 - Localise your settings.
 - These settings are important. You should set them appropriately.
 - In Aotearoa / New Zealand the settings would typically be
-  - Default Country: New Zealand
-  - Language: English
-  - Time Zone: Auckland
-  - Restrict Member Time Zones: Pacific
+  - **Default Country**: New Zealand
+  - **Language**: English
+  - **Time Zone**: Auckland
+  - **Restrict Member Time Zones**: Pacific
 
 ### Sign Up <a name="sign_up"></a>
 
@@ -168,7 +168,7 @@ The information you provide here will be used at the top of the page and at the 
 
 #### Step 2: Profile
 
-``TIP`` Be frugal with these options. Use the absolute minimum.
+``TIP`` Be frugal with these options. Use the absolute minimum.  
 `TRAP` If users do not provide answers to every one of the options you have selected their profile will not be marked as 100% complete.  
 `CRAP` CW3 actives recommends that **most options should not be used**
 
