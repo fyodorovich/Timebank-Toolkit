@@ -34,14 +34,13 @@ If you are using a collaborative productivity suite your documents will be onlin
 ## Cloud Backup    
 If you are using a cloud based productivity suite, all of those documents are already stored and backed up. 
 
-**These services manage your documents and photo libraries, email, and messages**  
-While they don't advertise themselves as a cloud backup you are able to use them for that purpose. 
+While they don't advertise themselves as a cloud backup you are able to use them for that purpose. The default setups are pretty reliable. 
 - Apple iCloud  
 - Google Drive  
 - Microsoft One Drive 
  
 **These services offer full backups of hard drives.**  
-These services provide continuous backup of your computer, except for the operating system. They are excellent value. 
+These services provide continuous backup of your computer, except for the operating system. If you are serious about backups, and want more comprehensive backup these are excellent value.  
 
 - BackBlaze  
 - iDrive  
