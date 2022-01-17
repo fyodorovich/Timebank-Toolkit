@@ -11,7 +11,6 @@
   - [Preparing Yourself](TimeManagement.html)    
   - [Administration Coordinator](Administration.html)    
   - [Membership Coordinator](Members.html)    
-    - [Onboarding](Onboarding.html)    
   - [Communications Coordinator](Outreach.html)    
 - [Tools for the Organisation](Organisation.html)    
 - [Productivity](Productivity.html) & [Automation](Automate.html)     
