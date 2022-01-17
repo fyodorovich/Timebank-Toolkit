@@ -10,8 +10,7 @@ Timebanks can benefit from the enormous amount of research into human behaviour 
 1. [Handling Objections](#Handling_Objections)
 1. [Closing the Sale](#Closing_the_Sale)
 
-## Prospecting<a name="Prospecting"></a>
-### Finding your audience
+## Prospecting<a name="Prospecting"></a> - Finding your audience
 For timebanks, the prospecting phase may consist of outreach communications, advertising, events, and web presence. Make it easy for people to be able to contact you. Provide one-touch tools for them to initiate a query. 
 
 ## Making Contact<a name="Making_Contact"></a>
