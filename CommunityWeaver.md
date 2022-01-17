@@ -1,4 +1,4 @@
-[Home](index.html) | [Toolkit](Toolkit.html) | Community Weaver 3
+[Home](index.html) | [Toolkit](Toolkit.html) 
 
 ---
 
