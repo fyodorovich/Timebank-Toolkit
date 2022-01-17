@@ -1,1 +1,1 @@
-# Outreach
+# Outreach - the Communications Coordinator
