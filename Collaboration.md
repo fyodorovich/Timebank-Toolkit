@@ -3,6 +3,10 @@
 ---
 # Collaborating Online
 
+> Applications running online, are also called services, software as a service (SaaS), or platforms. 
+> All of these collaborative suites run online, so it does not matter which operating system you use
+> They can be used from desktop, laptop, tablet, or mobile
+
 ``TIP`` Collaborating online is easiest when everyone uses the same tools.
 
 ## The Back Story
@@ -11,13 +15,7 @@ Collaborating traditionally required a group of people to be in the same space. 
 ## Office Suites
 Collaboration tools suitable for businesses of all sizes, across all sectors, are readily available. Driven by the huge influx of income and demand during the last two years, the range, quality, and functionality of these services has improved enormously. 
 
-We are looking at suites of collaboration tools from three service providers: Google, Microsoft, and Zoho. 
-
-> Applications running online, are also called services, software as a service (SaaS), or platforms. 
-> All of these collaborative suites run online, so it does not matter which operating system you use
-> They can be used from desktop, laptop, tablet, or mobile
-
-### Office Productivity Suites  
+We are look at suites of collaboration tools from [three service providers: Google, Microsoft, and Zoho](OfficeSuites.html). 
   
 * Microsoft 365  
     * Business Basics  
@@ -27,10 +25,9 @@ We are looking at suites of collaboration tools from three service providers: Go
         * NZ$432 for team of 4 ($9 per user per month)  
 * Zoho       
     Offers the same services as G Suite, but without ads and without selling your data. Overall better privacy than G Suite  
-    * Workplace  
+    * Workplace One
         * AU$192 for team of 4 ($4 per user per month)  
         * Free plan for up to five users. Lower limits on usage.  
-            Link: [workplace.zoho.com.au/signup][2]  
   
 ### Collaboration Software  
   
