@@ -1,7 +1,5 @@
 [Home](index.html) | [Toolkit](Toolkit.html) 
 
----
-
 # Community Weaver 3 (CW3)
 
 
