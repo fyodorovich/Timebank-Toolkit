@@ -1,3 +1,5 @@
+[Home](index.html) | [Toolkit](Toolkit.html)
+
 # Automating your Workflow
               
 ## Aggregating your Work
