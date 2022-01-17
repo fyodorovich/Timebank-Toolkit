@@ -31,5 +31,5 @@ According what's achievable within your community you may also provide welcome p
 Some people will need more help than others. They may experience technical difficulties, access issues, or social issues. Be prepared to help these people into the community. 
 
 ## Closing the Sale<a name="Closing_the_Sale"></a>
-We've been told that establishing a successful trade as soon as possible is a good indicator of long term engagement. The longer it takes a new member to close their first trade, the less committed they are to your fcoup. There can be many things at play, but as a rule of thumb, **you want to get a new member trading as quickly as possible**. 
+During our research we have been told that establishing a successful trade as soon as possible is a good indicator of long term engagement. The longer it takes a new member to perform their first trade the less committed they are to your group. Obviously there can be many things at play but as a rule of thumb **you want to get a new member trading as quickly as possible**. 
 
