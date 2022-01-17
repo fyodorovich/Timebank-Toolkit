@@ -11,13 +11,8 @@ If your timebank _does not have any restriction on who becomes a member_ then yo
       
 If you have any _restrictions or requirements_ for new members then you may want to control the signup process yourself. This will enable you to inform your prospective members of the information that they need to supply and provide a way for them to begin the process.   
       
-If you have a custom sign up form, you need to turn option “allow anyone to signup” option OFF and redirect users to your sign up form. CW3 doesn't make it easy to roll-your-own sign up procedure. The best that we can suggest is that you use a “Special Page” that is pinned to your home page. In that page you can direct users to your custom built signup form.  
 
 ### Custom Building a form
-There are a lot of different options for building a custom sign up form. 
+If you have a custom sign up form, you need to turn option “allow anyone to signup” option OFF and redirect users to your sign up form. CW3 doesn't make it easy to roll-your-own sign up procedure. The best that we can suggest is that you use a “Special Page” that is pinned to your home page. In that page you can direct users to your custom built signup form.  
 
-        * Google Forms  
-        * Jot Forms  
-        * Air Tables  
-        * WordPress  
-        * HubSpot  
+There are a lot of different options for building a custom sign up form. If your timebank is using one of the [three collaboration suites](Collaboration.html) we discuss, you can use their form builder to generate your signup form. The process of [getting people interested in timebanking to join your timebank](Onboarding.html) requires effort and skill. Your goal is to make it easy and enjoyable, if that's out of reach, you want it to be quick and painless. 
