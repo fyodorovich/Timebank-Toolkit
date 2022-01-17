@@ -26,7 +26,7 @@ do somethings a lot.
 This is one of the most important jobs for a coordinator. Your role is to manage a vibrant community. Where do those people come from? Did you find them or did they find you? When you have found each other, how do you nurture and support them to [become an active and committed Timebanker](Members.html)?  
 
   
-### Communicating with the Group  <a name="Communicating"></a>
+## Communicating with the Group  <a name="Communicating"></a>
   
 
 * CW3 Outreach Coordinator Tools  
@@ -37,19 +37,19 @@ This is one of the most important jobs for a coordinator. Your role is to manage
         Link: [wiki.timebanks.org/wiki/Broadcast_Emails][2]  
   
   
-### Engaging your Community, Driving Activity  <a name="Engaging"></a>
+## Engaging your Community, Driving Activity  <a name="Engaging"></a>
   
 * Events  
     * Organising  
     * Invitations  
   
-### Legal and Financial Responsibilities  <a name="Legal"></a>
+## Legal and Financial Responsibilities  <a name="Legal"></a>
   
 * Reporting  
 * The Board  
 * Keeping Books  
   
-### Setting up CW3  <a name="Settings"></a>
+## Setting up CW3  <a name="Settings"></a>
 
 Community Weaver has a lot of settings and options. Our [setup guide to configuring CW3](CommunityWeaver.html) walks through the most important steps you should take to ensure that your timebank is operating at its best. 
 
