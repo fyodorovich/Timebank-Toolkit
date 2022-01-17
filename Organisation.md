@@ -3,42 +3,9 @@
 
 # Meeting the Needs of the Organisation
   
-## Team Tools  
+## Team Tools : Collaborating online
   
-### Office Productivity Suites  
-  
-* Microsoft 365  
-    * Business Basics  
-        * NZ$365 for team of 4 ( $7.60 per user per month)  
-* Google Workspace  
-    * Business Starter  
-        * NZ$432 for team of 4 ($9 per user per month)  
-* Zoho       
-    Offers the same services as G Suite, but without ads and without selling your data. Overall better privacy than G Suite  
-    * Workplace  
-        * AU$192 for team of 4 ($4 per user per month)  
-        * Free plan for up to five users. Lower limits on usage.  
-            Link: [workplace.zoho.com.au/signup][2]  
-  
-### Collaboration Software  
-  
-* Microsoft 365  
-* Slack  
-* Trello  
-    Link: [trello.com][3]  
-  
-* Asana  
-    Link: [asana.com][4]  
-      
-    Asana is an extremely flexible task management and collaboration tool. Built-in project management features are lacking, but that’s solved thanks to a huge range of app integrations.  
-  
-* Podio  
-    Link: [podio.com][5]  
-  
-* Flock  
-    Link: [flock.com][6]  
-  
-* Discord  
+[Collaboration for Office groups, remote teams, and ad-hoc groups](Collaboration.html)
   
 ## Cloud Storage  
   
