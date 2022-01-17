@@ -20,6 +20,7 @@
 * Twitter  
 * Instagram  
 * Tik-tok  
+* Youtube
   
 ## SMS  
   
@@ -36,6 +37,10 @@
 ### Permanent  
   
 ### You need people to visit  
+
+## Print
+
+## Radio
   
   
 [1]: http://wiki.timebanks.org/wiki/Broadcast_Emails  
