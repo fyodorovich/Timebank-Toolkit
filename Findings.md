@@ -1,6 +1,6 @@
-[Home](index.html) | [Toolkit](Toolkit.html) | Research Findings
+[Home](index.html) | [Toolkit](Toolkit.html) 
 
----
+
 # Research Findings
 
 ## Key Findings
