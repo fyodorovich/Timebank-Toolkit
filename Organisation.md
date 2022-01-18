@@ -1,4 +1,4 @@
-[Home](index.html) | [Toolkit](Toolkit.html)
+[Home](index.md) | [Toolkit](Toolkit.md)
 
 
 # Meeting the Needs of the Organisation
@@ -11,7 +11,7 @@
   
 ## Team Tools : Collaborating online <a name="collaboration"></a>
   
-[Collaboration for Office groups, remote teams, and ad-hoc groups](Collaboration.html)
+[Collaboration for Office groups, remote teams, and ad-hoc groups](Collaboration.md)
 
 Unless you are 
   

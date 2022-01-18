@@ -1,4 +1,4 @@
-[Home](index.html) | [Toolkit](Toolkit.html) 
+[Home](index.md) | [Toolkit](Toolkit.md) 
 
 
 # Research Findings
@@ -17,5 +17,5 @@ Outreach activities are all those associated with communicating with your group,
 
 The domain of engagement encompasses and extends beyond onboarding and outreach; it is, however, harder to provide effective technological solutions for the many varied ways that people engage in that more relational aspect of the work.
 
-The broad purpose of the [toolkit](Toolkit.html) is to enable coordinators to be productive in these areas. Our focus is on the use of software tools to support your activity. We provide an introduction to the types of tools that you will need and outline the direction to follow. It will never be a complete solution, but we hope that it will be some help.
+The broad purpose of the [toolkit](Toolkit.md) is to enable coordinators to be productive in these areas. Our focus is on the use of software tools to support your activity. We provide an introduction to the types of tools that you will need and outline the direction to follow. It will never be a complete solution, but we hope that it will be some help.
  

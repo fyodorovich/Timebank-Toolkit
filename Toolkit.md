@@ -1,19 +1,19 @@
-[Home](index.html) | Toolkit
+[Home](index.md) | Toolkit
 
 # The Timebanks Toolkit
 
-``TIP`` [Using the Toolkit](Usage.html)   
-``TIP`` [Contributing to the Toolkit](Usage.html#contributing)
+``TIP`` [Using the Toolkit](Usage.md)   
+``TIP`` [Contributing to the Toolkit](Usage.md#contributing)
 
 ## Sections
 
-- [Research Findings](Findings.html)    
-- [Setting up CW3](CommunityWeaver.html)    
-- [Coordinating a Timebank](Coordinator.html)    
-  - [Preparing yourself and your Team](TimeManagement.html)    
-  - [Administration Coordinator](Administration.html)    
-  - [Membership Coordinator](Members.html)    
-  - [Communications Coordinator](Outreach.html)    
-- [Tools for the Organisation](Organisation.html)    
-- [Productivity](Productivity.html) & [Automation](Automate.html)     
+- [Research Findings](Findings.md)    
+- [Setting up CW3](CommunityWeaver.md)    
+- [Coordinating a Timebank](Coordinator.md)    
+  - [Preparing yourself and your Team](TimeManagement.md)    
+  - [Administration Coordinator](Administration.md)    
+  - [Membership Coordinator](Members.md)    
+  - [Communications Coordinator](Outreach.md)    
+- [Tools for the Organisation](Organisation.md)    
+- [Productivity](Productivity.md) & [Automation](Automate.md)     
 

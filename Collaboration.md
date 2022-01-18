@@ -1,4 +1,4 @@
-[Home](index.html) | [Toolkit](Toolkit.html) | [Organisation](Organisation.html)
+[Home](index.md) | [Toolkit](Toolkit.md) | [Organisation](Organisation.md)
 
 ---
 # Collaborating Online
@@ -15,7 +15,7 @@ Collaborating traditionally required a group of people to be in the same space. 
 ## Office Suites
 Collaboration tools suitable for businesses of all sizes, across all sectors, are readily available. Driven by the huge influx of income and demand during the last two years, the range, quality, and functionality of these services has improved enormously. 
 
-We are look at suites of collaboration tools from [three service providers: Google, Microsoft, and Zoho](OfficeSuites.html). 
+We are look at suites of collaboration tools from [three service providers: Google, Microsoft, and Zoho](OfficeSuites.md). 
   
 * Microsoft 365  
     * Business Basics  

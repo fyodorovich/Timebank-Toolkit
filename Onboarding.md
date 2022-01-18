@@ -1,4 +1,4 @@
-[Home](index.html) | [Toolkit](Toolkit.html) 
+[Home](index.md) | [Toolkit](Toolkit.md) 
 
 
 # Onboarding
@@ -9,7 +9,7 @@ _Onboarding is one of the most important jobs for a coordinator_
 2. Did you find them or did they find you? 
 3. Now that you have found each other, how do you convert them into an active and supported Timebanker?
 
-In the sales/marketing manuals they often say that there are seven touchpoints needed to convert a lead. [What are the seven touchpoints involved for Timebank?](Sales_cycle.html)
+In the sales/marketing manuals they often say that there are seven touchpoints needed to convert a lead. [What are the seven touchpoints involved for Timebank?](Sales_cycle.md)
 
 The process of generating a relationship has been closely studied in sales and marketing. Timebanks may not have the same motivation but we want the same broad outcomes. The clear message from all of the marketing advice is that developing a relationship with people in your community is a process. It requires a lot of input from you and you need to nurture your new members. 
 
