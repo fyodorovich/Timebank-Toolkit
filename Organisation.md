@@ -12,6 +12,8 @@
 ## Team Tools : Collaborating online <a name="collaboration"></a>
   
 [Collaboration for Office groups, remote teams, and ad-hoc groups](Collaboration.html)
+
+Unless you are 
   
 
 
@@ -19,7 +21,7 @@
 
 Cloud Storage is the cloud version of your hard drive where you'd place all the files that you want to work on and share with others. 
 
-Cloud Backups are services designed to store entire hard drives (except for the operating system). They are like insurance, you don't want to use it even though you have it. Backup systems aren't designed for day-to-day activity. You only access your backup if you need to retrieve and replace your lost or damaged document. 
+Cloud Backups are services designed to store entire hard drives (except for the operating system). Backup systems aren't designed for day-to-day activity. You only access your backup if you need to retrieve and replace your lost or damaged document.
 
 ``TIP`` Documents that are in the cloud don’t really need an external backup service. 
 
