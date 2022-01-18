@@ -109,7 +109,7 @@ Cloud Storage|OneDrive|&#11089;&#11089;&#11089;&#11089;&#11089;|&#11089;&#11089;
 Email Account Manager|Exchange|&#11089;|&#11089;&#11089;&#11089;&#11089;|&#11089;&#11089;&#11089;&#11089;|&#11089;&#11089;&#11089;&#11089;|50%
 Median Value Overall||||||75%
 
-&#11089;&#11089;Google Workspace&#11089;&#11089;  
+**Google Workspace**
 
 Task|Application|Ease of Use|Toolset|Power User|Technical Hurdle|Score
 -|-|-|-|-|-|-
@@ -130,7 +130,7 @@ Email Account Manager|-||||&#11089;&#11089;&#11089;&#11089;&#11089;|0%
 Median Value Overall||||||60%
 
 
-&#11089;&#11089;Zoho Workplace&#11089;&#11089;  
+**Zoho Workplace**
 
 Task|Application|Ease of Use|Toolset|Power User|Technical Hurdle|Score
 -|-|-|-|-|-|-
