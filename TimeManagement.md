@@ -7,29 +7,29 @@ It can be overwhelming to have a lot of things to do, especially when they all h
 Applying good time management techniques can reduce your workload and ensure that you make time for yourself. 
   
   
-[Pareto Analysis](Pareto.html) (a.k.a., the 80/20 rule)  
+[Pareto Analysis](timeManagement/Pareto.html) (a.k.a., the 80/20 rule)  
 ``Good for``  Problem solving and Situation Analysis  
 
-[Pomodoro Technique](Pomodoro.html)  
+[Pomodoro Technique](timeManagement/Pomodoro.html)  
 ``Good for``  Creative tasks  and Avoiding burn out  
 
-[Eisenhower Matrix](Eisenhower.html)  
+[Eisenhower Matrix](timeManagement/Eisenhower.html)  
 ``Good for``  Strategy Sessions  and Leadership Roles  
 
-[Parkinson’s Law](Parkinson.html)  
+[Parkinson’s Law](timeManagement/Parkinson.html)  
 ``Good for``  Avoiding Procrastination and Generating need/pressure  
 
-[Time Blocking Method](TimeBlock.html)  
+[Time Blocking Method](timeManagement/TimeBlock.html)  
 ``Good for``  Managing Split responsibilities, i.e., work/parenting  
 
-[Getting Things Done (GTD) Method](GetThingsDone.html)  
+[Getting Things Done (GTD) Method](timeManagement/GetThingsDone.html)  
 ``Good for``   Creating focus  
 
-[Rapid Planning Method](Rapid.html)  
+[Rapid Planning Method](timeManagement/Rapid.html)  
 ``Good for``  Setting goals  and Embedding Purpose  
 
-[Pickle Jar Theory](Pickle.html)  
+[Pickle Jar Theory](timeManagement/Pickle.html)  
 ``Good for``  Visual thinkers and Concrete thinkers  
 
-[Eat That Frog Technique](EatTheFrog.html)  
+[Eat That Frog Technique](timeManagement/EatTheFrog.html)  
 ``Good for``  Overcoming obstacles  and Chipping away at large jobs  
