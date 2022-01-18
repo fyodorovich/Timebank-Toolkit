@@ -152,6 +152,7 @@ Median Value Overall||||||70%
 
 
 **How the Scoring Works**
+
 Item|Scoring
 -|-
 Technical Hurdle|**Low Scores are Better**
