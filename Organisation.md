@@ -2,57 +2,56 @@
 
 
 # Meeting the Needs of the Organisation
+
+
+* [Collaborating Online](#collaboration)
+* [Online Storage and Backup](#differences)
+* [File Sharing in the Cloud[(#sharing)
+* [File Backup in the Cloud](#backup)
   
-## Team Tools : Collaborating online
+## Team Tools : Collaborating online <a name="collaboration"></a>
   
 [Collaboration for Office groups, remote teams, and ad-hoc groups](Collaboration.html)
   
 
 
-**What is the difference between Cloud Backup and Cloud Storage?**  
-
-Cloud Backups are services designed to store entire hard drives, except for the operating system. They aren't designed for day-to-day activity. You only access your backup if you need to retrieve and replace your lost or damaged document. 
+**What is the difference between Cloud Backup and Cloud Storage?**  <a name="differences"></a>
 
 Cloud Storage is the cloud version of your hard drive where you'd place all the files that you want to work on and share with others. 
+
+Cloud Backups are services designed to store entire hard drives (except for the operating system). They are like insurance, you don't want to use it even though you have it. Backup systems aren't designed for day-to-day activity. You only access your backup if you need to retrieve and replace your lost or damaged document. 
 
 ``TIP`` Documents that are in the cloud don’t really need an external backup service. 
 
 If you are using a collaborative productivity suite your documents will be online and backed up automatically. These companies store your documents on systems that are always accessible. So, any documents that you create using these services are going to be stored. In addition, there are options for recovering deleted documents within the first few months. 
 
 
-## Cloud Storage  
+## Cloud Storage  <a name="sharing"></a>
   
 ### Cheaper Options ( ~ US$2 / month )
-* Apple iCloud  
-* Google Workspace  
-* Microsoft One Drive  
-* [iceDrive](1)  
+* [Apple iCloud](https://support.apple.com/en-gb/guide/icloud/mm3d17a80e23/icloud)  
+* [Google Workspace](https://workspace.google.com/products/drive/)  
+* [Microsoft One Drive](https://www.microsoft.com/en-nz/microsoft-365/onedrive/online-cloud-storage)
+* [iceDrive](https://icedrive.net)  
   
 ### More expensive options
-* Box  
-* Dropbox  
+* [Box](https://www.box.com)  
+* [Dropbox](https://www.dropbox.com)  
 
   
-## Cloud Backup    
+## Cloud Backup    <a name="backup"></a>
 If you are using a cloud based productivity suite, all of those documents are already stored and backed up. 
 
 While they don't advertise themselves as a cloud backup you are able to use them for that purpose. The default setups are pretty reliable. 
-- Apple iCloud  
-- Google Drive  
-- Microsoft One Drive 
+* [Apple iCloud](https://support.apple.com/en-gb/guide/icloud/mm3d17a80e23/icloud)  
+* [Google Workspace](https://workspace.google.com/products/drive/)  
+* [Microsoft One Drive](https://www.microsoft.com/en-nz/microsoft-365/onedrive/online-cloud-storage)
  
 **These services offer full backups of hard drives.**  
 These services provide continuous backup of your computer, except for the operating system. If you are serious about backups, and want more comprehensive backup these are excellent value.  
 
-- BackBlaze  
-- iDrive  
-- CrashPlan  
+- [BackBlaze](https://www.backblaze.com)  
+- [iDrive](https://www.idrive.com)  
+- [CrashPlan](https://www.crashplan.com/en-us/)  
  
-  
-[1]: https://icedrive.net  
-[2]: https://workplace.zoho.com.au/signup?type=org&plan=free  
-[3]: https://trello.com  
-[4]: https://asana.com  
-[5]: https://podio.com  
-[6]: https://www.flock.com  
-[7]: https://nodered.org  
+ 
