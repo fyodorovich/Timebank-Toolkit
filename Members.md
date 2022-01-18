@@ -1,8 +1,3 @@
----
-Title: Building a Community Together
-layout: default
----
-
 [Home](index.html) | [Toolkit](Toolkit.html)
 
 # Building a Community 
