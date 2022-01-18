@@ -7,11 +7,13 @@
   
 [Collaboration for Office groups, remote teams, and ad-hoc groups](Collaboration.html)
   
+
+
 **What is the difference between Cloud Backup and Cloud Storage?**  
 
 Cloud Backups are services designed to store entire hard drives, except for the operating system. They aren't designed for day-to-day activity. You only access your backup if you need to retrieve and replace your lost or damaged document. 
 
-Cloud Storage is for day to day use. This is where you'd place all the files that you want to work on and share with others. 
+Cloud Storage is the cloud version of your hard drive where you'd place all the files that you want to work on and share with others. 
 
 ``TIP`` Documents that are in the cloud don’t really need an external backup service. 
 
@@ -24,9 +26,9 @@ If you are using a collaborative productivity suite your documents will be onlin
 * Apple iCloud  
 * Google Workspace  
 * Microsoft One Drive  
-* iceDrive  
+* [iceDrive](1)  
   
-### More exmpensive options
+### More expensive options
 * Box  
 * Dropbox  
 
