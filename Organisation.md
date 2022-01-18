@@ -6,7 +6,7 @@
 
 * [Collaborating Online](#collaboration)
 * [Online Storage and Backup](#differences)
-* [File Sharing in the Cloud[(#sharing)
+* [File Sharing in the Cloud](#sharing)
 * [File Backup in the Cloud](#backup)
   
 ## Team Tools : Collaborating online <a name="collaboration"></a>
