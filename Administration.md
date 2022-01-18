@@ -1,4 +1,4 @@
-[Home](index.html) | [Toolkit](Toolkit.html)
+[Home](index.md) | [Toolkit](Toolkit.md)
 
 ---
 # Administration Coordinator
