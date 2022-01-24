@@ -379,16 +379,21 @@ Special pages are used to describe things, like the mission of the timebank, the
 
 When the page is displayed that sentence will appear in the top left corner of the page beneath the menu. The rest of the page will be blank and the dominant impression is that the page is empty. People may not even notice the little sentence you provided. 
 
-> The best thing you can do is to provide structured text and include images
+> The best thing you can do is to provide well structured content and include images
+
+### A Rough outline for Providing Content
 
 Start by giving your special pages a structured outline, for example:
 ```
 hero image
-Title
+title
+
 section one
 text
+
 section two
 text and image
+
 section three
 text
 ```
