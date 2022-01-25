@@ -2,28 +2,15 @@
 
 # Meeting the Needs of the Organisation
 
-* [Collaborating with your Team](#collaboration)
 * [File Sharing and File Backup Services](#differences)
-	* [Data Storage in the Cloud](#storage)
-	* [File Sharing in the Cloud](#sharing)
-	* [Data Backup in the Cloud](#backup)
+* [File Storage in the Cloud](#storage)
+* [Data Backup in the Cloud](#backup)
+* [File Transfer in the Cloud](#sharing)
 
 ## Overview
 
 Your timebank will generate a considerable variety of work and that work will have its own needs for maintenance. 
 
-## Collaboration with your Team <a name="collaboration"></a>
-
-Collaborating with a distributed team requires good [communications software](#communications), effective [project management software](#management), and an [appropriate swag of tools for words, numbers and images](#office) 
-
-
-### Office Suites <a name="office"></a>
-
-The means for working online exploded recently. There are so many tools that provide the means to share documents that we  have a special page to discuss [Collaboration for Office groups, remote teams, and ad-hoc groups](Collaboration.md).
-
-There is a lot of cross-over with [communications software](#communications). In the three office suites that we focus on, every one of them includes video conferencing and messaging tools. 
-
-### Project Management Tools <a name="management"></a>
 
 ## Cloud Backup, Cloud Storage, and  File Sharing  <a name="differences"></a>
 
@@ -41,7 +28,7 @@ Dedicated **File Sharing services** tend to be for storage and transfer of docum
 
 If you are using a [collaborative productivity suite](Collaboration.md) your documents will be online and backed up automatically. These companies store your documents on systems that are always accessible. Any documents that you create using these services are going to be stored in the cloud, i.e., **cloud storage**. You can typically share these, directly or via download links, i.e., **file sharing**. In addition, there are options for recovering deleted documents, for a few months after they were deleted, i.e., **cloud backup**. In short, the online office tools provides all three services. 
 
-### Cloud Storage  <a name="storage"></a>
+### Cloud Storage for Active Files  <a name="storage"></a>
 
 #### Cheaper Options ( ~ US$2 / month )
 
@@ -61,17 +48,19 @@ If you are using a [collaborative productivity suite](Collaboration.md) your doc
 > If you are using a cloud based productivity suite, all of those documents are already stored and backed up. 
 
 
-#### Built-in Extras with your Operating System
+#### Using the Built-in Extras provided with your Operating System
 All of the big players are providing a small amount cloud storage as a free service for users of their hardware. They also offer increased storage volumes for an extra fee. These backup services are tightly integrated with the operating system and the software. 
 
 ``PRO`` It's a great user experience  
-``CON`` Being so tightly tied into one player may restrict you  
+``CON`` Being so tightly tied into one system may restrict you when you collaborate 
+
 
 * [Apple iCloud](https://support.apple.com/en-gb/guide/icloud/mm3d17a80e23/icloud)  
 * [Google Workspace](https://workspace.google.com/products/drive/)  
 * [Microsoft One Drive](https://www.microsoft.com/en-nz/microsoft-365/onedrive/online-cloud-storage)
 
-#### Comprehensive Backup Service
+
+#### Dedicated Backup Services
 These services provide continuous backup of your computer, except for the operating system. If you are serious about backups, and want comprehensive backup security these services are excellent value.  
 
 - [BackBlaze](https://www.backblaze.com)  
@@ -79,8 +68,8 @@ These services provide continuous backup of your computer, except for the operat
 - [CrashPlan](https://www.crashplan.com/en-us/)  
 
 
-### File Sharing <a name="sharing"></a>
-These file sharing companies allow you to store files online. However, their fees for storage tend to be higher than companies which describe themselves as cloud storage. 
+### File Transfer <a name="sharing"></a>
+These file transfer/sharing companies allow you to store files online. However, their fees for storage tend to be higher than companies which describe themselves as cloud storage. 
 
 Both of the services we list below allow ad-hoc file transfers for free. The free transfers have a ceiling on the maximum file size but those limits are generous enough for most needs. 
 
