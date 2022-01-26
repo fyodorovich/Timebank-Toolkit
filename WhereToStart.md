@@ -18,7 +18,7 @@ and possibly the third time) you do something on a computer it is time-consuming
 At some point, there is less to do because everything is already in place and you 
 only need to make a few changes. 
 
-``TIP`` If you are not a computer person use your phone as much as possible. 
+``TIP`` If you are not a computer person use your phone or a tablet as much as possible. Phone and tablet apps are designed for non-geeks. 
 
 ## What does the job involve? 
 
@@ -40,23 +40,33 @@ If it is a one-off email that you are sending to a big group put their email add
 ### Numbers
 Use a spreadsheet for anything that involves keeping track of numbers. They are really good at that. 
 
-``TIP`` people often use spreadsheets to arrange things in columns. It works pretty well, and also suggests that you are a super-organised person who is into spreadsheets. 
+``TIP`` People often use spreadsheets to arrange things neatly in columns.  
+
+``PRO`` It works pretty well, and also suggests that you are a super-organised person who is into spreadsheets. 
 
 ``TRAP`` At some point you will want to print your list or do something else with it and it will look awful, or print over three pages sideways. 
 
 ### Dates
-Use your Calendar. 
+Use your Calendar, Reminders, To-Do lists
 
 ### Pictures
 
 #### Photo or Pixel Editor
-
+Canva
+Affinity Photo
+Adobe Photoshop
+Gimp
 #### Illustrations
-
+Affinity Designer
+Adobe Illustrator
+Inkscape
 #### Video
-
-### Mostly Words, also pictures
-
+-- 
+### Print, Publishing (Mostly Words, also pictures)
+Affinity Publisher
+Adobe Indesign
+Scribus
 #### Word Processor
+
 
 ### Does it involve a list of things? 

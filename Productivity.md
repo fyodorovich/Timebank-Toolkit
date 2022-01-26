@@ -17,7 +17,6 @@ Collaborating with a distributed team requires good [communications software](#c
 
 
 ### Office Suites <a name="office"></a>
-
 The means for working online exploded recently. There are so many tools that provide the means to share documents that we  have a special page to discuss [Collaboration for Office groups, remote teams, and ad-hoc groups](Collaboration.md).
 
 There is a lot of cross-over with [communications software](#com	munications). In the three office suites that we focus on, every one of them includes video conferencing and messaging tools. 
