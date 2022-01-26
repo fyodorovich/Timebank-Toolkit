@@ -1,3 +1,5 @@
+[Home](index.md) | [Toolkit](Toolkit.md) 
+
 # Office Productivity Tools
 
 *Looking for Simplicity on the far side of Complexity*
