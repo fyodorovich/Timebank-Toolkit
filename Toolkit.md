@@ -15,5 +15,6 @@
   - [Membership Coordinator](Members.md)    
   - [Communications Coordinator](Outreach.md)    
 - [Tools for the Organisation](Organisation.md)    
-- [Productivity](Productivity.md) & [Automation](Automate.md)     
+- [Productivity](Productivity.md)  
+-  [Automation](Automate.md)     
 
