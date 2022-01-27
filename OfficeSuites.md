@@ -83,10 +83,12 @@ We've provided an appraisal of the different offerings from these providers. We'
 |**Application Rating**|**75%**|**60%**|**70%**|
 
 
-``TIP`` In our opinion, the scores are so close that we wouldn't use them to pick a winner. 
+``TIP`` 
+> In our opinion, these scores are so close that we wouldn't use them to pick a winner. 
 
 
-![A bar chart and line chart comparing Google, Microsoft, and Zoho Online suites](OnlineSuitesCompared.png)
+
+![Visualising Google, Microsoft, and Zoho Online suites](OnlineSuitesCompared.png)
 
 
 **Microsoft 365**  

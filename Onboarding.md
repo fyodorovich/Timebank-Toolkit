@@ -54,16 +54,29 @@ If your group only has a small number of new memberships occurring at any time y
 ## What is your Sign-up Procedure?
 CW3 has user account tools built-in. They allow people to register and login. This is perfect if your timebank does not require any validation or identity checking. This is the option with the least barriers to entry. 
 
+``TIP``
 > If your timebank does not have any restriction on who becomes a member then you can use the CW3 registration tools. Do this by checking the “Allow anyone to sign up” checkbox in the config area. It’s on by default.
 
 Many timebanks will ask joining members for some form of identification, such as photo ID. Others may want proof of good character (references), or a background check from the Police or Ministry of Justice. Having requirements for social validation can help to ensure the timebank members are honest and can be trusted. A barrier of this sort has a strong social purpose but it introduces a responsibility and a need for timebank coordinators to manage this process.
 
-If you have any restrictions or requirements for new members then you may want to control the signup process yourself. This will enable you to inform your prospective members of the information that they need to supply and provide a way for them to begin the process.
+If you have any restrictions or requirements for new members then you may want to control the signup process yourself. This will enable you to inform your prospective members of the information that they need to supply and provide a way for them to begin the process.  
 
+``TIP``
 > If you have a custom sign up form, you want the option “allow anyone to signup” to be OFF 
 
-``TIP`` Redirect users to your sign up form. You can use a “Special Page” that is pinned to your home page. In that page you can direct users to your form.
+``TIP`` 
+>Redirect users to your sign up form. You can use a “Special Page” that is pinned to your home page. In that page you can direct users to your form.
 
 
 ### Custom Sign-up Procedures
 
+There are many ways to present potential users with a different sign-up form. The [office suites from Google, Microsoft and Zoho](OfficeSuites.md) that we discuss all offer the ability to generate online forms. 
+
+There are also services that use forms as their reason for being. 
+
+All of these, the office tools and the specialist tools, can be integrated with other services. 
+
+[Airtable](https://www.airtable.com) ``Free Tier`` Unlimited bases, 1,200 records per base, 2GB of attachments per base
+[Jotform](https://www.jotform.com)  ``Free Tier`` 5 Forms, 100 submissions per month  
+[Survey Monkey](https://www.surveymonkey.com) Basic plan ( free ) is crippled  
+[Type Form](https://www.typeform.com) ``Free Tier`` 10 questions per form, 10 submissions per month  

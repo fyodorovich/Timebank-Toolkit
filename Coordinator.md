@@ -9,16 +9,18 @@
 - [Legal and Financial Responsibilities](#Legal)
 - [Setting up CW3](#Settings)
 
-## Managing your Workload <a name="Managing"></a>
+## Managing your Workload <a name="Managing"></a> ##
 
 _What techniques can we use to manage our work?_
 
 The way to reduce your workload depends on the type of work you are doing. Are you repeating the same thing with minor variations or are you managing lots of things that are different from one another? Most of us will find that we need to do both: manage a variety of jobs and 
 do somethings a lot.  
 
-``TIP`` _When you have lots of the same thing to do: [aggregate and automate these jobs](Automate.md)_  
+``TIP`` 
+>When you have lots of the same thing to do: [aggregate and automate these jobs](Automate.md)
 
-``TIP`` _Apply a [time and management technique](TimeManagement.md) that suits the situation_  
+``TIP`` 
+>Apply a [time and management technique](TimeManagement.md) that suits the situation
               
   
 ## Getting People to be Members  <a name="Members"></a>

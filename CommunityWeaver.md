@@ -2,7 +2,6 @@
 
 # Community Weaver 3 (CW3)
 
-
 [Community Weaver 3](https://timebanks.org/communityweaver3/) is the current software platform for Timebanks provided by [Timebanks.org](https://timebanks.org/timebanks/) when you start a Timebank.
 
 You'll want someone in your group who is comfortable being able to configure and administer Community Weaver to manage your Timebank. This guide will provide you with some basics, some warnings and some tips.
@@ -57,7 +56,8 @@ There are five different coordinator roles, each has a special set of tasks: Adm
 
 ``CW3 Wiki`` [Configuring New Timebank][1]
 
-``TIP``: Do your own tests. Ensure your settings are working the way that you expect them to.
+``TIP``
+>Do your own tests. Ensure your settings are working the way that you expect them to.
 
 1. [CW3 Help Pages](#cw3_help_pages)
 2. [General Settings](#general_settings)
@@ -112,7 +112,8 @@ The information you provide here will be used at the top of the page and at the 
 
 #### Features
 
-``TIP`` The choices you make here controls the behaviour of CW3.
+``TIP`` 
+> The choices you make here controls the behaviour of CW3.
 
 **Signup Page**
   - Allow anyone to signup as a member?
@@ -125,11 +126,9 @@ The information you provide here will be used at the top of the page and at the 
 
 ``WARNING`` If you allow anyone to sign up there is more to do. Go to [Configure->Signup](#sign_up) and follow the instructions there.
           
-**Member Privacy**
-  ``TIP`` Always check this box
-  
-  ``Pro`` MEMBER PRIVACY
-  
+**Member Privacy**  
+  ``TIP`` Always check this box  
+  ``Pro`` MEMBER PRIVACY  
   ``Con`` Cannot share user offers/requests with FaceBook
   
 **External Links open in new window**  

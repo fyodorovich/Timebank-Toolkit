@@ -22,7 +22,7 @@ only need to make a few changes.
 
 ## What does the job involve? 
 
-### People
+### Information about People
 Names, Phone numbers, email addresses, Social accounts. 
 
 ### Words

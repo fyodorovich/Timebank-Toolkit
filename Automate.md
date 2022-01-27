@@ -18,17 +18,17 @@ Start experimenting with what you can do with your phone, tablet, laptop and des
 1. finding the number (even if it's a favourite), 
 1. then initiating the call
 
-The alternative is to tell your digital assistant to make the call,  "Hey Siri!" "Alexa!" or "OK google!", "Call Janni". Your phone or computer will start the call. You don't even need to pick up the phone until they have answered. 
+The alternative is to tell your digital assistant to make the call,  "Hey Siri", "Alexa", "Hi Bixby" or "OK google" - "Call Janni". Your phone or computer will start the call. You don't even need to pick up the phone until they have answered. 
 
 Setting reminders and calendar dates is just as easy. "Hey Siri! Schedule a meeting with Anna tomorrow at 2pm". There is no way that you can do that faster with your fingers and thumbs! 
 
-``TIP``  Voice assistants learn through practice, the more you use them, the better they are.
+``TIP``  *Voice assistants learn through practice, the more you use them, the better they are.*
 
-``CRAP`` Noisy environments interfere with the voice assistant's ability to understand you.
+``CRAP`` *Noisy environments interfere with the voice assistant's ability to understand you.*
 
  ### Gearing Up
 
-If your geek rating is "fluffy" then setting up an n8n.io workflow may seem like torture but the odds are that someone in your network will be able to set them up without blinking. 
+If your geek rating is ``*fluffy*`` then setting up an n8n.io workflow may seem like torture but the odds are that someone in your network will be able to set them up without blinking. 
 
 There are many tasks which can be managed by workflows. As an administrator or a coordinator, ***you don't want your hours chewed up*** by logins, password resets, switching between apps, download/upload cycles, and so on and so on. Any task that occurs frequently and is computer based is a candidate for a workflow.
 
@@ -56,7 +56,8 @@ You’ll also notice that the some of the common tasks you can do once to all of
 
 Computers, phones, watches, speakers, TV's, and a lot of other things, are able to respond to voice activated commands. We suggest that you get into the habit of telling your things what to do, they can pick up the slack, leaving you free for more important things.
 
-``TIP`` ***Digital assistants are surprisingly easy to use and productive.*** 
+``TIP``
+> Digital assistants are surprisingly easy to use and productive
 
 ### Siri
 
@@ -69,8 +70,6 @@ Shortcuts are workflows that you set up to perform specific tasks. They can be s
 ### Cortana
 
 Cortana is a virtual assistant developed by Microsoft which uses the Bing search engine to perform tasks such as setting reminders and answering questions for the user.
-
-Microsoft began reducing the prevalence of Cortana and converting it from an assistant into different software integrations in 2019.[9] It was split from Windows 10's search bar in April 2019. 
 
 In January 2020, the Cortana mobile app was removed from certain markets and <u>on the 31st of March 2021, the Cortana mobile app was shut down globally.</u>
 

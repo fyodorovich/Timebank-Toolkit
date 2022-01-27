@@ -14,9 +14,8 @@ Getting people to sign up is big business! Large companies will spend millions t
 - 
    
 ## Generalist Tools
-- - Trello
-- - Asana
-- - Podio
-- - Flock
+- Trello
+- Asana
+- Flock
 
 

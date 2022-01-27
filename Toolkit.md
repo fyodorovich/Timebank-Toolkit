@@ -2,8 +2,8 @@
 
 # The Timebanks Toolkit
 
-``TIP`` [Using the Toolkit](Usage.md)   
-``TIP`` [Contributing to the Toolkit](Usage.md#contributing)
+ [Using the Toolkit](Usage.md)   
+ [Contributing to the Toolkit](Usage.md#contributing)
 
 ## Sections
 
