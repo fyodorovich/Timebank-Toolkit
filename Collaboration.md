@@ -27,7 +27,7 @@ We look at suites of collaboration tools from [three service providers: Google, 
 
 ### Costs 
 
-	Costs at January 2022
+	Costs correct at February 2022
 	
 Provider|Plan Name|Team of 4|Monthly
 --|--|--|--
