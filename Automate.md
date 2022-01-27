@@ -50,7 +50,7 @@ Another thing that you may find is that you are using tools are designed to do o
 You’ll also notice that the some of the common tasks you can do once to all of the items. Doing something once is a good thing for humans. But some of the common tasks you will have to do over and again for every item. Doing something over and again is a good job for robots.  
 
 
-![Organising Workflows](Workflows.jpg)
+![Organising Workflows](workflows.jpg)
 
 
 ## Digital Assistants
