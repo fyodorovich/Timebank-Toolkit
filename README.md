@@ -12,4 +12,4 @@ We aim to benefit:
 ### Contributing 
 If you want to participate in an ongoing way you can fork the toolkit. When you are ready, send a pull request through to our repo. 
 
-If you want to contribute in an ad-hoc way, simply send us an issue request and we'll address the suggestions that you have. 
+If you want to contribute in an ad-hoc way, simply send us an issue request and we'll address the suggestions that you have.
