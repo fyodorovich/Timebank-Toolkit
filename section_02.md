@@ -1,35 +1,4 @@
-Home | [Toolkit](Toolkit.md)
-
-# Timebank Toolkit: a working guide for Timebank Administrators 
-
-_Keeping the core values of reciprocity and community – and the people who bring it to life – at heart_
-
-## Who is this toolkit for?
-
-We aim to benefit:
-- the coordinators, steering committees, and admins, of [Aotearoa / New Zealand’s timebanks](TimebanksANZ.md)
-- new or old, big or small, rural or urban
-- the practice of timebanking, in its many flavours
-
-## Introduction
-During the second half of 2021 [Wellington Timebank](https://wellingtonsouth.timebanks.org) funded a [research project](http://www.newtowncommunity.org.nz/timebank-toolkit.md) which was tasked with developing a toolkit for Timebank coordinators and administrators. The broad purpose of the research was to document [our collective experience](https://docs.google.com/presentation/d/1f6Fky5CK_OfiQzhPGYmj78ezXj6Ov03WlkWU3oR77gE/edit#slide=id.p) and to [use the findings](Findings.md)  to provide administrators with a [broad overview of the activities they will engage in](Toolkit.md), and this document which has a more practical focus. 
-
-
-## Setting up a Timebank
-Section one: [Setting up a Timebank](section_01.md)
-
-This section covers the following steps
-1. Create a Core.
-2. Secure Funding. 
-3. Build Community. 
-4. Choosing your platform for Timebanking 
-5. Running activities 
-6. Website 
-
-
-## Membership and Administration
-
-Section two: [Membership and Administration](section_02.md)
+# Membership and Administration
 
  - this would be more likely under administration (a lot of this is similar to Colin's admin workflow) 
 ​​https://docs.google.com/document/d/1g1sWjAQ-fipWz3ilMmrQmYTItnl4aO_EpypTM_qzAaQ/edit 
@@ -57,22 +26,3 @@ Key tools and alternative tools - headings with alternative tools to…
 NB: for CW3 and orientation bits
 https://docs.google.com/document/d/1QohoeF2x2u6Jd0ZjTrWHhBckYo9rbARhRGlVbe1o9OE/edit?usp=sharing 
  
-
-## Running a Timebank 
-
-Section three [Running a Timebank](section_03.md)
-
-COMMUNICATIONS AND NETWORK/ENGAGEMENT 
-
-Newsletters (weekly and/or monthly) MAILCHIMP EXAMPLE AND USE
-
-Social media engagement - FACEBOOK, INSTAGRAM
-
-Content creation for the above - CANVA AND OTHER EXAMPLES
-
-Apps and software section - here's an example of how this can be used in a Timebank context, for specific favourite apps (zapier and trello especially) 
-
-Monthly meetings and organisation
-
-
-
