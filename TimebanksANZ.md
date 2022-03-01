@@ -11,9 +11,7 @@
 | Canterbury | [Mid Canterbury TimeBank](https://www.mctimebank.nz) |
 | Canterbury | [Selwyn Timebank ](http://www.selwyntimebank.net.nz/) |
 | Canterbury | [TimeBank Hurunui ](https://www.facebook.com/TimeBankHurunui/) |
-| Northland | [Kaitaia TimeBank](https://www.facebook.com/taitokerautimebank/) |
 | Northland | [Tai Tokerau Timebank ](http://www.facebook.com/taitokerautimebank) |
-| Northland | [Whangaroa and Kerikeri Timebank](http://www.facebook.com/taitokerautimebank) |
 | Otago | [Dunedin TimeBank ](https://dunedin.timebanks.org) |
 | Taranaki | [Taranaki South](https://www.facebook.com/TaranakiTimeBank) |
 | Taranaki | [Taranaki TimeBank ](https://www.facebook.com/TaranakiTimeBank) |
