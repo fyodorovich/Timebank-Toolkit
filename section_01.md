@@ -20,7 +20,7 @@ The processes are described in more detail in [How to Build a Timebank](https://
 <dd>Keeping your community engaged requires continuous contact in one form or another. Create lots of different activities throughout the year as a way to bring people together.<br><a href="activityCalendar.md">Here's an example calendar</a>
 </dd>
 <dt>Website</dt>
-<dd>it is a good idea to have a Timebank Website of your own - for when people search your timebank on google, this might have some info about your Timebank, what is a Timebank, and might direct new members to sign up via G form, and members to the Timebanking platform that is being used. 
+<dd>it is a good idea to have a Timebank Website of your own - for when people search your timebank on google, this might have some info about your Timebank, what is a Timebank, and might direct new members to your sign up form, and members to the Timebanking platform that is being used. 
 </dd>
 </dl>
 
