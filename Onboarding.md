@@ -76,7 +76,7 @@ There are also services that use forms as their reason for being.
 
 All of these, the office tools and the specialist tools, can be integrated with other services. 
 
-[Airtable](https://www.airtable.com) ``Free Tier`` Unlimited bases, 1,200 records per base, 2GB of attachments per base
+[Airtable](https://www.airtable.com) ``Free Tier`` Unlimited bases, 1,200 records per base, 2GB of attachments per base   
 [Jotform](https://www.jotform.com)  ``Free Tier`` 5 Forms, 100 submissions per month  
-[Survey Monkey](https://www.surveymonkey.com) Basic plan ( free ) is crippled  
+[Survey Monkey](https://www.surveymonkey.com) Basic plan ( free ) is crippled   
 [Type Form](https://www.typeform.com) ``Free Tier`` 10 questions per form, 10 submissions per month  
