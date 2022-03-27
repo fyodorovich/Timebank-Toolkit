@@ -22,9 +22,9 @@ Sending mail is big business and there are a lot of different providers.
 
 `TIP` All of the bulk email suppliers have bracket pricing models that are based on *number of emails being sent* and sometimes the *number of people in your address book*. Shopping around will get you the best deal.
 
-If you are using **WordPress** for your website you can easily connect to [**Mailgun**](https://www.mailgun.com/pricing/) and [**SendGrid**](https://sendgrid.com) using *a plugin* dedicated to that purpose. Your web developer will think that is a piece of cake. 
+If you are using **[WordPress](https://wordpress.com)** for your website you can easily connect to [**Mailgun**](https://www.mailgun.com/pricing/) and [**SendGrid**](https://sendgrid.com) using *a plugin* dedicated to that purpose. Your web developer will think that is a piece of cake. Once you have your WordPress website setup with a plugin, you can control your email marketing from your own website. There's [WordPress plugins for MailChimp](https://wordpress.org/plugins/tags/mailchimp/) too. 
 
-[MailChimp email marketing - beginners video guide](https://youtu.be/ppQ8w90OpV4)
+MailChimp provides a *user portal* that gives you complete control of the bulk-mail process. The portal is fairly complex. There are a lot of moving parts to become familiar with. Start out by watching some [beginners video guides](https://youtu.be/ppQ8w90OpV4). 
 
 
 ### Facebook
