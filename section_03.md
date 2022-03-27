@@ -7,6 +7,8 @@ Regular communications are a really valuable part of building your membership. E
 
 ### Newsletters 
 
+Newsletters can look great and be enjoyable. [Here's a fantastic template to begin with](https://drive.google.com/file/d/1P6xInjPmHggj7FsJ4jjXS61NTcTfS2Am/view?usp=sharing).
+
 #### How often will you talk with your members?
 
 Everyone has a different level of engagement so you want to target your audience. Most timebanks are engaging in a weekly post with some opting for a monthly mail out. 
@@ -24,7 +26,7 @@ Sending mail is big business and there are a lot of different providers.
 
 If you are using **[WordPress](https://wordpress.com)** for your website you can easily connect to [**Mailgun**](https://www.mailgun.com/pricing/) and [**SendGrid**](https://sendgrid.com) using *a plugin* dedicated to that purpose. Your web developer will think that is a piece of cake. Once you have your WordPress website setup with a plugin, you can control your email marketing from your own website. There's [WordPress plugins for MailChimp](https://wordpress.org/plugins/tags/mailchimp/) too. 
 
-MailChimp provides a *user portal* that gives you complete control of the bulk-mail process. The portal is fairly complex. There are a lot of moving parts to become familiar with. Start out by watching some [beginners video guides](https://youtu.be/ppQ8w90OpV4). 
+MailChimp provides a *user portal* that gives you complete control of the bulk-mail process. The portal is fairly complex but [the main tasks are covered in this guide](https://docs.google.com/document/d/1qqijThiNmymbRXec053YYK8pb1vESQnD39JjkXrVO4s/edit?usp=sharing). There are a lot of moving parts to become familiar with. Start out by watching some [beginners video guides](https://youtu.be/ppQ8w90OpV4). 
 
 
 ### Facebook
@@ -48,17 +50,24 @@ These videos are produced in the USA for wanna-bee influencers and work-from-hom
 Community groups can learn a lot from these marketing techniques. You have to make changes to be relevant to your group but the underlying methods remain the same. And that includes the buy-me-now messaging. Your "product" is different to theirs but you still want to have people knocking on your door to join and participate. 
 
 ### Creating Content
+Getting good software can be one of the most difficult challenges. There is plenty of software, and you get what you pay for. We've collected some [links, descriptions, and information about different types of software into a spreadsheet](https://docs.google.com/spreadsheets/d/1fXHUGRq2porgzNEuqoUS8D0HdChdiEA4VbYsflfdZLM/edit?usp=sharing) which you can use as a starting point. 
 
+#### Images: Canva
 
-Here's an example of how we're using Canva in a Timebank context, 
+One of the standouts was that everyone was using [Canva](https://www.canva.com). 
 
-[Using Canva to create Newsletters](https://docs.google.com/document/d/1qqijThiNmymbRXec053YYK8pb1vESQnD39JjkXrVO4s/edit?usp=sharing)
+Here's an example of how we're [using Canva to create Newsletters](https://docs.google.com/document/d/1qqijThiNmymbRXec053YYK8pb1vESQnD39JjkXrVO4s/edit?usp=sharing). 
 
+### Staff
+
+Put policies in place for your workplace. Everyone deserves to work in a safe environment that encourages and fulfils them. This sample [staff agreement discusses those things](https://docs.google.com/document/d/1tVQCwyZby9VwJPAH4GOJOWu3cqPyzjo1/edit?usp=sharing&ouid=107264652407614741759&rtpof=true&sd=true). 
 
 ### Volunteers
-You'll need help. For some of you, that means learning to share the workload.
+You'll need help. For some of you, that means learning to share the workload. Volunteers should be happy to abide by the rules that are set by your organisation. Asking them to commit by signing a volunteer agreement [such as this agreement](https://docs.google.com/document/d/14dCSA97gNIM5SdP4hNafWG6rqoSaPFni/edit?usp=sharing&ouid=107264652407614741759&rtpof=true&sd=true) or [this agreement](https://docs.google.com/document/d/1IsmAlI-P4UDASZxVktacwMrLpmXKBvsT/edit?usp=sharing&ouid=107264652407614741759&rtpof=true&sd=true) makes that explicit and allows you to specify what is required of them. 
 
 Volunteers come in all shapes and sizes. You have to look after them. Having [a volunteer introduction / guidebook](https://drive.google.com/file/d/14YmqUD1mnOcBjsM_rhH3Bgpm40ED4Y7T/view) that they can refer to and learn from is a great way to do this. 
+
+You also have to consider their rights and privacy, even though they are willing to donate their time and energy, they may not want to be the poster-child for your group. [Providing them with the option to allow or refuse the use of their image in photographs](https://docs.google.com/document/d/1_oe26CXzakTTGB-KpkRqdY1Rl6ncuz8y/edit?usp=sharing&ouid=107264652407614741759&rtpof=true&sd=true), in print or online is important.
 
 ### Monthly meetings and organisation
 

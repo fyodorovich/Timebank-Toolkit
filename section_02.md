@@ -37,11 +37,13 @@ Organisations that request criminal records checks [must  demonstrate that they 
 
 ### Do you want to do an orientation? 
 
-Think about what stage in the process that you want to organise an orientation. 
+Think about what stage in the process that you want to organise an orientation. This document lays out [a plan for the important steps to cover from sign-up to orientation](https://docs.google.com/document/d/1unViW-gAMgcoyXf_9eGpXqm_ElzC81EW/edit?usp=sharing&ouid=107264652407614741759&rtpof=true&sd=true).
 
 At an orientation the new member can learn about Timebanking - and discover what further steps are needed to join. 
 
-[Here is an orientation setup for organisers](https://docs.google.com/document/d/1Ur4KnHxYjW8xIW5hbzPwzEW8-Vlze7-PLewuktXrqWs/edit?usp=sharing) 
+Here is a [sample agreement form for members](https://docs.google.com/document/d/1H38uPwDBd_zU3FfH9PCmPNTJDdz4KWJF/edit?usp=sharing&ouid=107264652407614741759&rtpof=true&sd=true). 
+
+Here is [an orientation setup manual for organisers](https://docs.google.com/document/d/1Ur4KnHxYjW8xIW5hbzPwzEW8-Vlze7-PLewuktXrqWs/edit?usp=sharing) 
 
 Here is an [orientation day hand-out for new members](https://docs.google.com/document/d/1QohoeF2x2u6Jd0ZjTrWHhBckYo9rbARhRGlVbe1o9OE/)
 
