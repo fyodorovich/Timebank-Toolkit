@@ -58,12 +58,15 @@ One of the standouts was that everyone was using [Canva](https://www.canva.com).
 
 Here's an example of how we're [using Canva to create Newsletters](https://docs.google.com/document/d/1qqijThiNmymbRXec053YYK8pb1vESQnD39JjkXrVO4s/edit?usp=sharing). 
 
-### Staff
+## Staff
 
 Put policies in place for your workplace. Everyone deserves to work in a safe environment that encourages and fulfils them. This sample [staff agreement discusses those things](https://docs.google.com/document/d/1tVQCwyZby9VwJPAH4GOJOWu3cqPyzjo1/edit?usp=sharing&ouid=107264652407614741759&rtpof=true&sd=true). 
 
+### Coordinators
+As a coordinators, everything will fall into your lap. You will be responsible for keeping your timebank sailing. Just what is involved? Checkout [the Wellington timebank coordinators manual](https://docs.google.com/document/d/1r0X2qynn9TOagBGdiyLZ_gh7V719zf5N/edit?usp=sharing&ouid=107264652407614741759&rtpof=true&sd=true). You may want to adjust it to suit your situation. 
+
 ### Volunteers
-You'll need help. For some of you, that means learning to share the workload. Volunteers should be happy to abide by the rules that are set by your organisation. Asking them to commit by signing a volunteer agreement [such as this agreement](https://docs.google.com/document/d/14dCSA97gNIM5SdP4hNafWG6rqoSaPFni/edit?usp=sharing&ouid=107264652407614741759&rtpof=true&sd=true) or [this agreement](https://docs.google.com/document/d/1IsmAlI-P4UDASZxVktacwMrLpmXKBvsT/edit?usp=sharing&ouid=107264652407614741759&rtpof=true&sd=true) makes that explicit and allows you to specify what is required of them. 
+Coordinators need help. For some of you, that means learning to share the workload. Volunteers should be happy to abide by the rules that are set by your organisation. Asking them to commit by signing a volunteer agreement [such as this agreement](https://docs.google.com/document/d/14dCSA97gNIM5SdP4hNafWG6rqoSaPFni/edit?usp=sharing&ouid=107264652407614741759&rtpof=true&sd=true) or [this agreement](https://docs.google.com/document/d/1IsmAlI-P4UDASZxVktacwMrLpmXKBvsT/edit?usp=sharing&ouid=107264652407614741759&rtpof=true&sd=true) makes that explicit and allows you to specify what is required of them. 
 
 Volunteers come in all shapes and sizes. You have to look after them. Having [a volunteer introduction / guidebook](https://drive.google.com/file/d/14YmqUD1mnOcBjsM_rhH3Bgpm40ED4Y7T/view) that they can refer to and learn from is a great way to do this. 
 
