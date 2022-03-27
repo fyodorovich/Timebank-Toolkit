@@ -1,13 +1,18 @@
 # Membership and Administration
 
- - this would be more likely under administration [a lot of this is similar to Colin's admin workflow](
-​​https://docs.google.com/document/d/1g1sWjAQ-fipWz3ilMmrQmYTItnl4aO_EpypTM_qzAaQ/edit )
+When setting up a Timebank you will need to decide on a sign up process. Can the person sign up solely online or do they need to meet in person? Here is an example of a sign up process... [Timebank Membership Workflow](https://docs.google.com/document/d/1aX72oQ8eHg-DUvBkyz47sffFZZ38cxj-LiOR9mYOI5s/edit). 
 
-When setting up a Timebank you will need to decide on a sign up process. Can the person sign up solely online or do they need to meet in person? Here is an example of a sign up process... LINK COLINS SIGN UP PROCESS DOC. If you decide it can be done online then you can either use CW3 directly - you will receive an email when a new member signs up, and you can then respond directly to this with an email with sign up details (EXAMPLE OF SIGN UP DETAIL EMAIL) or you could have a google form (EXAMPLE OF G FORM) that will create a user database on excel that you can use to keep track of sign ups. You could also use an integrator tool (EXAMPLE OF TOOL) to send an automatic email. (EXAMPLE OF INTEGRATOR TOOL USES - e.g create trello board, send sign up response, send referee check etc). 
+If you decide it can be done online then you can either use CW3 directly - you will receive an email when a new member signs up, and you can then respond directly to this with an email with sign up details. Here's an [example email](https://docs.google.com/document/d/1q1QbZX53q4rygu3c_iIsbTDhAoqq25Eisecd4m2jy9g/edit?usp=sharing)
 
-Reference checks for new sign ups - if you decide to do reference checks, how might you conduct these - you could do it the old fashioned way by calling the referees, or you could use a google form (EXAMPLE OF GOOGLE FORM) 
+When you use online forms, such as this [ Jot Form](http://form.jotform.co/72362960301854) and this [Google Form](https://docs.google.com/forms/d/1q-hw5Qgo5Tejgci-n2oolA-McxZBhy-oh9api9Lw8jY/edit) they will create a user database automatically. These can be sent to [Google Sheets](https://www.jotform.com/help/228-how-to-integrate-forms-with-google-sheets/) or [Airtable](https://www.jotform.com/integrations/airtable), where new members are immediately placed into your spreadsheets. 
 
-Keeping track of your sign up process - where are you in the process? What tools can you use to keep track of this? (EXAMPLES OF TRELLO - SCREEN SHOTS OF TRELLO SET UP, OTHER EXAMPLES IF YOU HAVE SOME)
+These automatic tasks are called "integrations" and provide you with lots of possibilities. You could also use an integration to send an automatic email.  [Jot form and MailChimp](https://www.jotform.com/integrations/mailchimp). You'll find that integrations for all the major services.
+
+
+Keeping track of your sign up process - where are you in the process? What tools can you use to keep track of this? [Here's a document used by Wellington for this purpose](https://docs.google.com/document/d/1QohoeF2x2u6Jd0ZjTrWHhBckYo9rbARhRGlVbe1o9OE/edit)
+
+
+Reference checks for new sign ups - if you decide to do reference checks, how might you conduct these - you could do it the old fashioned way by calling the referees, or you could use an online form [Here is an example of a form for referrees](https://docs.google.com/forms/d/1M2FeahoeAsj_bykBzbHVlYbnYZo-lmh4ytXcfiaBiOM/edit)
 
 Do you want to do police checks? - (HOW TO GUIDE FOR DOING A POLICE CHECK NZ)
 
