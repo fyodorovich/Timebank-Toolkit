@@ -22,6 +22,7 @@ The processes are described in more detail in [How to Build a Timebank](https://
 
 
 ## Choosing your platform
+
 There are several platforms that can be used. Depending on your size and your intentions.
 
 Read the discussion of <a href="https://docs.google.com/document/d/15vyl1RpmJBHJXYlia0Pwt5mB9eSSUq0MTYGDxQfwlYg/edit?usp=sharing"> the current options for time banking platforms</a>
@@ -37,6 +38,7 @@ Keeping your community engaged requires continuous contact in one form or anothe
 
 ## Website
 It is a good idea to have a Timebank Website of your own - for when people search your timebank on google, this might have some info about your Timebank, what is a Timebank, and might direct new members to your sign up form, and members to the Timebanking platform that is being used. 
+
 
 * [Wix](https://www.wix.com/)
 * [Wordpress](https://wordpress.com/free/)
