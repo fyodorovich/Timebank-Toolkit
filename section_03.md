@@ -55,6 +55,11 @@ Here's an example of how we're using Canva in a Timebank context,
 [Using Canva to create Newsletters](https://docs.google.com/document/d/1qqijThiNmymbRXec053YYK8pb1vESQnD39JjkXrVO4s/edit?usp=sharing)
 
 
+### Volunteers
+You'll need help. For some of you, that means learning to share the workload.
+
+Volunteers come in all shapes and sizes. You have to look after them. Having [a volunteer introduction / guidebook](https://drive.google.com/file/d/14YmqUD1mnOcBjsM_rhH3Bgpm40ED4Y7T/view) that they can refer to and learn from is a great way to do this. 
+
 ### Monthly meetings and organisation
 
 Think that building a team of volunteers is hard? Wait until you try to find a time when they will commit to meet for an hour! 
