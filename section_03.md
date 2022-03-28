@@ -95,4 +95,6 @@ Think that building a team of volunteers is hard? Wait until you try to find a t
 
 [Loomio](https://www.loomio.com/product) offers a workspace for discussion and decision making, bringing together conversations, information, opinions, proposals and outcomes in one place
 
+## Need more support? Contacts
 
+Connect with timebanks around the country to seek further support. You can find many of them on the [TimeBank Aotearoa New Zealand page](https://timeexchange.co.nz/timebanks/) (there's a contact address listed there as well).
