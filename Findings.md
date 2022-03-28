@@ -3,6 +3,8 @@
 
 # Research Findings
 
+The research that led to this toolkit is perhaps best presented by the ["Synthesis Report"](https://docs.google.com/presentation/d/1f6Fky5CK_OfiQzhPGYmj78ezXj6Ov03WlkWU3oR77gE/edit#slide=id.p). A presentation of which, to the Software Working Group in the midst of the project, was recorded [here](https://www.youtube.com/watch?v=Wt2_JXMeBUY).
+
 ## Key Findings
 
 We found that the motivating value for timebank coordinators is the wellbeing that comes from connecting with people in the community and nurturing those relationships. This is heart-centered activity. 
