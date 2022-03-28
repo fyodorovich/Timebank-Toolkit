@@ -21,3 +21,6 @@ The domain of engagement encompasses and extends beyond onboarding and outreach;
 
 The broad purpose of the [toolkit](Toolkit.md) is to enable coordinators to be productive in these areas. Our focus is on the use of software tools to support your activity. We provide an introduction to the types of tools that you will need and outline the direction to follow. It will never be a complete solution, but we hope that it will be some help.
  
+## Who we talked to
+
+See the report for the specifics, but you can get a general sense of the timebanks we were focussed on from this slightly outdated [list on the Timebanks of Aotearoa New Zealand website](https://timeexchange.co.nz/timebanks), or by searching for New Zealand timebanks on the [global timebanks search](https://community.timebanks.org/).
