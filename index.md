@@ -35,5 +35,8 @@ Section three: [Running a Timebank](section_03.md)
 
 This section deals with communications, networking, and engagement. Find help with **newsletters, social media engagement, content creation, and what apps and software to use**; you'll also find tips and tools regarding monthly meetings and organisation guidelines. 
 
+---
 
+### Contribute
 
+This work was started with the generous support of Lotto NZ, but has, and will always be, a labour of love, grown out of soil tilled by many hands. If you would like to make suggestions, add links, etc., please get in touch or go ahead and make suggestions by visiting [github.com/fyodorovich/Timebank-Toolkit](https://github.com/fyodorovich/Timebank-Toolkit).
