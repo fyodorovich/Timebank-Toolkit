@@ -3,6 +3,8 @@
 
 # Research Findings
 
+The research that led to this toolkit is perhaps best presented by the ["Synthesis Report"](https://docs.google.com/presentation/d/1f6Fky5CK_OfiQzhPGYmj78ezXj6Ov03WlkWU3oR77gE/edit#slide=id.p). A presentation of which, to the Software Working Group in the midst of the project, was recorded [here](https://www.youtube.com/watch?v=Wt2_JXMeBUY).
+
 ## Key Findings
 
 We found that the motivating value for timebank coordinators is the wellbeing that comes from connecting with people in the community and nurturing those relationships. This is heart-centered activity. 
@@ -19,3 +21,6 @@ The domain of engagement encompasses and extends beyond onboarding and outreach;
 
 The broad purpose of the [toolkit](Toolkit.md) is to enable coordinators to be productive in these areas. Our focus is on the use of software tools to support your activity. We provide an introduction to the types of tools that you will need and outline the direction to follow. It will never be a complete solution, but we hope that it will be some help.
  
+## Who we talked to
+
+See the report for the specifics, but you can get a general sense of the timebanks we were focussed on from this slightly outdated [list on the Timebanks of Aotearoa New Zealand website](https://timeexchange.co.nz/timebanks), or by searching for New Zealand timebanks on the [global timebanks search](https://community.timebanks.org/).
