@@ -39,7 +39,7 @@ You can connect pretty-much anything, so don't be limited. If you want to get so
 
 ### Reference checks for new sign ups
 
-If you decide to do reference checks, there are a variety of ways to check in with the "referees" your potential member has made available for you to contact - you could do it the old fashioned way by calling the referees, or you could use an online form, a questionnaire they can fill out at any time (this can save time playing 'phone tag' and make emailing referees simpler). [Here is an example of a form for referrees](https://docs.google.com/forms/d/1M2FeahoeAsj_bykBzbHVlYbnYZo-lmh4ytXcfiaBiOM/edit).
+If you decide to do reference checks, there are a variety of ways to check in with the "referees" your potential member has made available for you to contact - you could do it the old fashioned way by calling the referees, or you could use an online form, a questionnaire they can fill out at any time (this can save time playing 'phone tag' and make emailing referees simpler). [Here is an example of a form for referees](https://docs.google.com/forms/d/1M2FeahoeAsj_bykBzbHVlYbnYZo-lmh4ytXcfiaBiOM/edit).
 
 ### Code of Conduct for your timebank
 
