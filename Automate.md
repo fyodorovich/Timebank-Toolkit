@@ -23,7 +23,7 @@ Setting reminders and calendar dates is just as easy. "Hey Siri! Schedule a meet
 
  ### Gearing Up
 
-If your geek rating is ``*fluffy*`` then setting up an n8n.io workflow may seem like torture but the odds are that someone in your network will be able to set them up without blinking. 
+If your geek rating is ``fluffy`` then setting up an n8n.io workflow may seem like torture but the odds are that someone in your network will be able to set them up without blinking. 
 
 There are many tasks which can be managed by workflows. As an administrator or a coordinator, ***you don't want your hours chewed up*** by logins, password resets, switching between apps, download/upload cycles, and so on and so on. Any task that occurs frequently and is computer based is a candidate for a workflow.
 
