@@ -53,7 +53,7 @@ In New Zealand you can obtain a [Ministry of Justice criminal (MOJ) record check
 
 There are small fees for both of these services. At the time of writing it they were about $11 per request.
 
-`TIP` [individuals can apply to obtain their own criminal record](https://www.justice.govt.nz/criminal-records/get-your-own/) from the Ministry of Justice. At the time of writing it’s free to request a copy of your own criminal record. 
+💡  [individuals can apply to obtain their own criminal record](https://www.justice.govt.nz/criminal-records/get-your-own/) from the Ministry of Justice. At the time of writing it’s free to request a copy of your own criminal record. 
 
 Organisations providing services to vulnerable people (this includes children, older people and people with special needs) can ask the [New Zealand Police to vet](http://www.police.govt.nz/advice/businesses-and-organisations/vetting) (check) people who want to work or volunteer for them.
 
