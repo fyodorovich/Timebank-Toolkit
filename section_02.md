@@ -11,6 +11,21 @@ If you decide it can be done online then you can either use CommunityWeaver3 (CW
 
 ⚠️ A number of coordinators told the toolkit team that the information collected by CW3 is _not enough!_ That's why many timebanks start with a "form", like a survey or online application tool, and then ask people to join CW3 as an additional action (see Template 1 in the example email above).
 
+### Custom Sign-up Procedures
+
+*If you use CW3 and you have a custom sign up form, you need to turn option “allow anyone to signup” option OFF and redirect users to your sign up form. CW3 doesn’t make it easy to roll-your-own sign up procedure. The best that we can suggest is that you use a “Special Page” that is pinned to your home page. In that page you can direct users to your custom built signup form.*
+
+There are many ways to present potential users with a different sign-up form. The [office suites from Google, Microsoft and Zoho](OfficeSuites.md) that we discuss all offer the ability to generate online forms. 
+
+There are also services that use forms as their reason for being. 
+
+All of these, the office tools and the specialist tools, can be integrated with other services. 
+
+[Airtable](https://www.airtable.com) ``Free Tier`` Unlimited bases, 1,200 records per base, 2GB of attachments per base   
+[Jotform](https://www.jotform.com)  ``Free Tier`` 5 Forms, 100 submissions per month  
+[Survey Monkey](https://www.surveymonkey.com) Basic plan ( free ) is crippled   
+[Type Form](https://www.typeform.com) ``Free Tier`` 10 questions per form, 10 submissions per month  
+
 When you use online forms, such as this [Jot Form](http://form.jotform.co/72362960301854) and this [Google Form](https://docs.google.com/forms/d/1q-hw5Qgo5Tejgci-n2oolA-McxZBhy-oh9api9Lw8jY/edit) they will create a user database automatically. These can be sent to [Google Sheets](https://www.jotform.com/help/228-how-to-integrate-forms-with-google-sheets/) or [Airtable](https://www.jotform.com/integrations/airtable), where new members are immediately placed into your spreadsheets. 
 
 These automatic tasks are called "integrations" and provide you with lots of possibilities. You could also use an integration to send an automatic email; for example: [Jot Form's MailChimp integration](https://www.jotform.com/integrations/mailchimp). You'll find that many popular services already have integrations, and even if they do not there are tools to help bridge those gaps, too! A couple of timebanks, like Wellington and Addington, use [Zapier](https://zapier.com/) for this.

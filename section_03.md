@@ -1,5 +1,12 @@
 # Running a Timebank 
 
+## Managing your Workload <a name="Managing"></a>
+
+When you have to manage a variety of jobs it can be overwhelming, sometimes having the right  [time and management technique](TimeManagement.md) that suits the situation can help you out.
+
+ When you have lots of the same thing to do over and again, think about how you can [aggregate and automate these jobs](Automate.md)
+
+
 ## Communications and Networking/Engagement 
 
 Regular communications are a really valuable part of building your membership. Email is a good place to start because it is easy and it is everywhere. 

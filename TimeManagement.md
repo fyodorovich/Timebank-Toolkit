@@ -1,8 +1,7 @@
 # Time Management Techniques
 
-``TIP`` 
->Time and management techniques are easy to implement
-           
+> 💡Time and management techniques are easy to implement
+
 It can be overwhelming to have a lot of things to do, especially when they all have different needs and actions. Fortunately, there are some great strategies for handling busy and complex workloads. They all differ a bit, and that's partly because we all have different approaches, and partly because different situations are better suited to a different approach. For that reason, its good to have a few different strategies and use the one that fits best. 
 
 Applying good time management techniques can reduce your workload and ensure that you make time for yourself. 

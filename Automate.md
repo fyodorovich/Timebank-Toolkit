@@ -1,9 +1,3 @@
-[Home](index.md) | [Toolkit](Toolkit.md)
-
-In this document:
-
-{{TOC}}
-
 # Automating your Work
 
 ## Getting Started
@@ -57,8 +51,8 @@ You’ll also notice that the some of the common tasks you can do once to all of
 
 Computers, phones, watches, speakers, TV's, and a lot of other things, are able to respond to voice activated commands. We suggest that you get into the habit of telling your things what to do, they can pick up the slack, leaving you free for more important things.
 
-``TIP``
-> Digital assistants are surprisingly easy to use and productive
+
+> 💡 Digital assistants are surprisingly easy to use and productive
 
 ### Siri
 
