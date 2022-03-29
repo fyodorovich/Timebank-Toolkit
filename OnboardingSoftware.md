@@ -1,4 +1,4 @@
-[Home](index.md) | [Toolkit](Toolkit.md) | [Onboarding](Onboarding.md) | Software
+| [Onboarding](Onboarding.md) | Software
 
 ---
 # Onboarding Software

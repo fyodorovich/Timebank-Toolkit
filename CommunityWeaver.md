@@ -1,4 +1,4 @@
-[Home](index.md) | [Toolkit](Toolkit.md) 
+
 
 # Community Weaver 3 (CW3)
 
