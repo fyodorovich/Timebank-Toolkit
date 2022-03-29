@@ -32,6 +32,8 @@ Your "platform" is the application people access on their computers and phones i
 
 * [**The current options for time banking platforms**](https://docs.google.com/document/d/15vyl1RpmJBHJXYlia0Pwt5mB9eSSUq0MTYGDxQfwlYg/edit?usp=sharing)
 
+The majority of timebanks in New Zealand / Aoteroa are using [Community Weaver 3](https://timebanks.org/communityweaver3/). We've got a guide to [best practices for setting up Community Weaver](https://fyodorovich.github.io/Timebank-Toolkit/CommunityWeaver.html) here.
+
 Also of note: some communities still use [Community Forge](https://communityforge.net/en/node/1087), and there may soon be opportunities or software available through [Seeds](https://joinseeds.earth/) or other socially-minded "web3" or "blockchain" initiatives (read the "current options" for details).
 	
 ## Running activities

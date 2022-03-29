@@ -1,5 +1,3 @@
-Home | [Toolkit](Toolkit.md)
-
 # Timebank Toolkit: a working guide for Timebank Coordinators 
 
 _Keeping the core values of reciprocity and community – and the people who bring it to life – at heart._

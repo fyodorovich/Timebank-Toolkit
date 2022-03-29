@@ -27,9 +27,15 @@ That said, many timebank coordinators use [Trello](https://trello.com) or a docu
 ![](managing_onboarding1.PNG)
 _Example Trello dashboard from MCT_
 
-Trello let's you simply drag and drop "cards" that, as in the above example, may each correspond to one person. The cards can have more details hidden inside, like contact details, creating a nice, clean dashboard that also has everything to had.
+Trello let's you simply drag and drop "cards" that, as in the above example, may each correspond to one person. The cards can have more details hidden inside, like contact details, creating a nice, clean dashboard that also has everything to hand.
 
-💡 Timebanks like Wellington Timebank and Addington Timebank have created automations XXX using Zapier that make their management with Trello, and related outreach emails they have to send, even more quick and easy. Contact them for recommendations.
+💡 Timebanks like Wellington Timebank and Addington Timebank have created automations using Zapier that make their management with Trello, and related outreach emails they have to send, even more quick and easy. 
+Some examples are: 
+* Google form to Trello 
+* Google form to Gmail sign-up email
+* Google form to Referee check email
+
+You can connect pretty-much anything, so don't be limited. If you want to get some first-hand advice contact the Wellington Timebank and Addington Timebank for recommendations.
 
 ### Reference checks for new sign ups
 
