@@ -10,7 +10,7 @@ We aim to benefit:
 - the practice of timebanking, in its many flavours
 
 ## Introduction
-During the second half of 2021 [Wellington Timebank](https://wellingtonsouth.timebanks.org) funded a [research project](http://www.newtowncommunity.org.nz/timebank-toolkit) which was tasked with developing a toolkit for Timebank coordinators and administrators. The broad purpose of the research was to document [our collective experience](https://docs.google.com/presentation/d/1f6Fky5CK_OfiQzhPGYmj78ezXj6Ov03WlkWU3oR77gE/edit#slide=id.p) and to [use the findings](Findings.md)  to provide administrators with this [toolkit](Toolkit.md).
+During the second half of 2021 [Wellington Timebank](https://wellingtonsouth.timebanks.org) funded a [research project](http://www.newtowncommunity.org.nz/timebank-toolkit) which was tasked with developing a toolkit for Timebank coordinators and administrators. The broad purpose of the research was to document [our collective experience](https://docs.google.com/presentation/d/1f6Fky5CK_OfiQzhPGYmj78ezXj6Ov03WlkWU3oR77gE/edit#slide=id.p) and to [use the findings](Findings.md)  to provide administrators with this toolkit.
 
 After talking with numerous timebank staff and coordinators, we want to share with you what we found to be **the best tools, tech, and processes you can use to help your timebank flourish (and share it onwards!)**
 
