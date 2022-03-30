@@ -102,6 +102,12 @@ Think that building a team of volunteers is hard? Wait until you try to find a t
 
 [Loomio](https://www.loomio.com/product) offers a workspace for discussion and decision making, bringing together conversations, information, opinions, proposals and outcomes in one place
 
+## Your Office Setup
+Unless you are lucky enough to have an IT team that provides all of these things, you will need to think about which set of plain-old-business-suite tools you use.  We take a look at the three biggest in the game in [Tools for your workplace](OfficeSuites.md) 
+
+If you need backup, file storage, or file transfer services for all of the amazing things that you are creating, take a look at [Tools for the Organisation](Organisation.md) 
+
+
 ## Need more support? Contacts
 
 Connect with timebanks around the country to seek further support. You can find many of them on the [TimeBank Aotearoa New Zealand page](https://timeexchange.co.nz/timebanks/) (there's a contact address listed there as well).

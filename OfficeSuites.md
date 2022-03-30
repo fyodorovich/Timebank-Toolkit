@@ -1,5 +1,3 @@
-| [Organisation](Organisation.md)
-
 # Office Suites
 Collaboration tools suitable for businesses of all sizes, across all sectors, are readily available. Driven by the huge influx of income and demand during the last two years, the range, quality, and functionality of these services has improved enormously. 
 
