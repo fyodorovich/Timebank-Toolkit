@@ -25,10 +25,10 @@ Applying good time management techniques can reduce your workload and ensure tha
 [Getting Things Done (GTD) Method](timeManagement/GetThingsDone.md)  
 ``Good for``   Creating focus  
 
-[Rapid Planning Method](timeManagement/Rapid.md)  
+[Rapid Planning Method](timeManagement/RapidPlan.md)  
 ``Good for``  Setting goals  and Embedding Purpose  
 
-[Pickle Jar Theory](timeManagement/Pickle.md)  
+[Pickle Jar Theory](timeManagement/PickleJar.md)  
 ``Good for``  Visual thinkers and Concrete thinkers  
 
 [Eat That Frog Technique](timeManagement/EatTheFrog.md)  
