@@ -73,5 +73,5 @@ These file transfer/sharing companies allow you to store files online. However, 
 
 Both of the services we list below allow ad-hoc file transfers for free. The free transfers have a ceiling on the maximum file size but those limits are generous enough for most needs. 
 
-- [Hightail](https://hightail.com)
+- [Hightail](https://www.hightail.com)
 - [FileTransfer.io](https://filetransfer.io)

@@ -3,15 +3,15 @@
 | Region | Timebank |
 | --- | --- |
 | Auckland | [Auckland Central Timebank](https://timebankauckland.nz) |
-| Auckland | [Mangere Timebank](https://timebankauckland.nz/timebank-mangere/) |
+| Auckland | [Mangere Timebank](https://timebankauckland.nz/mangere/) |
 | Auckland | [Timebank Raglan ](https://www.facebook.com/timebankraglan) |
-| Bay of Plenty | [Eastbay TimeBank ](http://eastbay.timebanks.org) |
+| Bay of Plenty | [Eastbay TimeBank ](https://eastbay.timebanks.org) |
 | Canterbury | [Addington TimeBank](http://manukacottageaddington.net/index.php/timebank/about-addington-timebank) |
 | Canterbury | [Lyttelton Harbour Timebank](https://www.lyttelton.net.nz/timebank) |
 | Canterbury | [Mid Canterbury TimeBank](https://www.mctimebank.nz) |
-| Canterbury | [Selwyn Timebank ](http://www.selwyntimebank.net.nz/) |
+| Canterbury | [Selwyn Timebank ](http://selwyntimebank.net.nz) |
 | Canterbury | [TimeBank Hurunui ](https://www.facebook.com/TimeBankHurunui/) |
-| Northland | [Tai Tokerau Timebank ](http://www.facebook.com/taitokerautimebank) |
+| Northland | [Tai Tokerau Timebank ](https://www.facebook.com/taitokerautimebank) |
 | Otago | [Dunedin TimeBank ](https://dunedin.timebanks.org) |
 | Taranaki | [Taranaki South](https://www.facebook.com/TaranakiTimeBank) |
 | Taranaki | [Taranaki TimeBank ](https://www.facebook.com/TaranakiTimeBank) |

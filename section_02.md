@@ -65,13 +65,13 @@ You may want to establish a formal code of conduct to help build a healthy cultu
 
 This is, again, about trust. We heard a number of different approaches, from no checks (and even no referees, in small, rural communities) all the way to official checks. Some timebanks require Police checks _only_ when and if someone wants to offer a social service involving vulnerable peoples like babysitting or elder care, or if they disclose having something on their record (like in this [membership form from MCT](https://form.jotform.co/72362960301854)). Some timebanks avoid this by discouraging these altogether. You will want to make a choice based on where you are – what feels safe enough, and encourages people to have trust in the system and the people with whom they interact.
 
-In New Zealand you can obtain a [Ministry of Justice criminal (MOJ) record check](https://www.justice.govt.nz/criminal-records/get-someone-elses/) or do the more comprehensive (and time expensive) [Police Vetting](http://www.police.govt.nz/advice/businesses-and-organisations/vetting).
+In New Zealand you can obtain a [Ministry of Justice criminal (MOJ) record check](https://www.justice.govt.nz/criminal-records/get-someone-elses/) or do the more comprehensive (and time expensive) [Police Vetting](https://www.police.govt.nz/advice/businesses-and-organisations/vetting).
 
 There are small fees for both of these services. At the time of writing it they were about $11 per request.
 
 💡  [individuals can apply to obtain their own criminal record](https://www.justice.govt.nz/criminal-records/get-your-own/) from the Ministry of Justice. At the time of writing it’s free to request a copy of your own criminal record. 
 
-Organisations providing services to vulnerable people (this includes children, older people and people with special needs) can ask the [New Zealand Police to vet](http://www.police.govt.nz/advice/businesses-and-organisations/vetting) (check) people who want to work or volunteer for them.
+Organisations providing services to vulnerable people (this includes children, older people and people with special needs) can ask the [New Zealand Police to vet](https://www.police.govt.nz/advice/businesses-and-organisations/vetting) (check) people who want to work or volunteer for them.
 
 #### Compliance for organisations that do criminal record checks
 

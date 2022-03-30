@@ -6,7 +6,7 @@
 
 The toolkit is simply a web site and you can use it by bouncing around from link to link. 
 
-We have intended the toolkit to be an adjunct to the ``CW3 Wiki`` [CW3 Documentation](http://wiki.timebanks.org/wiki).
+We have intended the toolkit to be an adjunct to the ``CW3 Wiki`` [CW3 Documentation](http://wiki.timebanks.org/wiki/Main_Page).
 We provide links to the documentation throughout the toolkit. 
 
 We also provide links to other resources. Many of the resources are web sites and we cannot guarantee that the links we provide will remain valid. 

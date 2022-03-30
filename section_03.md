@@ -15,7 +15,7 @@ Regular communications are a really valuable part of building your membership. E
 
 Newsletters can look great and be enjoyable. [Here's a fantastic template to begin with](https://drive.google.com/file/d/1P6xInjPmHggj7FsJ4jjXS61NTcTfS2Am/view?usp=sharing).
 
-Nearly all timebanks interviewed for this project use [Canva](https://canva.com) to create graphics for their newsletters. Many also use [Mailchimp](https://mailchimp.com) to manage their mailing list and design (and send) the newsletters; these are described, along with other options to choose from, below.
+Nearly all timebanks interviewed for this project use [Canva](https://www.canva.com) to create graphics for their newsletters. Many also use [Mailchimp](https://mailchimp.com) to manage their mailing list and design (and send) the newsletters; these are described, along with other options to choose from, below.
 
 #### How often will you talk with your members?
 
@@ -44,7 +44,7 @@ You want to get this right at the beginning. This video provides a great explana
 
 [Do you want to set up a facebook page or a facebook group?](https://youtu.be/GJcHKOTHjIg).
 
-Facebook has received some negative press, and is being abandoned by some especially in younger generations. Other tools that provide similar functionality of Facebook Groups include [Mighty Networks](https://mn.co) and many people are turning to **group chat** tools like [Telegram](https://telegram.org) and [Signal](https://signal.org) (ironically, even Whatsapp seems a more popular choice, even though it is owned by Facebook).
+Facebook has received some negative press, and is being abandoned by some especially in younger generations. Other tools that provide similar functionality of Facebook Groups include [Mighty Networks](https://www.mightynetworks.com) and many people are turning to **group chat** tools like [Telegram](https://telegram.org) and [Signal](https://signal.org) (ironically, even Whatsapp seems a more popular choice, even though it is owned by Facebook).
 
 #### Growing Up: getting your community engaged
 How do you increase Engagement with your Facebook community? This is a core question for every group coordinator. This video addresses [Engagement on Facebook](https://youtu.be/Bam_rXmoOs4). 
@@ -96,7 +96,7 @@ This topic can become complex, so if you have hesitations, here, try getting in 
 
 Think that building a team of volunteers is hard? Wait until you try to find a time when they will commit to meet for an hour! 
 
-[When2Meet](https://when2meet.com) and [Doodle](https://doodle.com/en/) provide online services for scheduling meetings. 
+[When2Meet](https://www.when2meet.com/) and [Doodle](https://doodle.com/en/) provide online services for scheduling meetings. 
 
 [Calendly](https://calendly.com) is another that is highly recommended for calendars and scheduling.
 
