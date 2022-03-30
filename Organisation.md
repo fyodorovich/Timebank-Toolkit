@@ -1,7 +1,7 @@
 
-# Meeting the Needs of the Organisation
+# Cloud Backup, Cloud Storage, and  File Sharing
 
-* [File Sharing and File Backup Services](#differences)
+* [What are the differences ](#differences)
 * [File Storage in the Cloud](#storage)
 * [Data Backup in the Cloud](#backup)
 * [File Transfer in the Cloud](#sharing)
@@ -11,7 +11,6 @@
 Your timebank will generate a considerable variety of work and that work will have its own needs for maintenance. 
 
 
-## Cloud Backup, Cloud Storage, and  File Sharing  <a name="differences"></a>
 
 ### What is the difference between Cloud Backup, Cloud Storage, and  File Sharing?  
 
