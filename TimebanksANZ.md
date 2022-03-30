@@ -16,7 +16,7 @@
 | Taranaki | [Taranaki South](https://www.facebook.com/TaranakiTimeBank) |
 | Taranaki | [Taranaki TimeBank ](https://www.facebook.com/TaranakiTimeBank) |
 | Taranaki | [Taranaki TimeBank ](https://www.facebook.com/TaranakiTimeBank) |
-| Waikato | [Waikato Timebank ](http://www.facebook.com/waikatotimebank) |
+| Waikato | [Waikato Timebank ](https://www.facebook.com/waikatotimebank) |
 | Wellington | [Hutt Timebank ](https://huttsouth.timebanks.org/) |
 | Wellington | [Wellington Timebank ](http://www.wellingtontimebank.org.nz) |
 | Wellington | [Wesley Community Action](https://www.wesleyca.org.nz) |
